@@ -1,0 +1,86 @@
+[data-theme="spnc_dark"] .header-12.header-sidebar .spnc .spnc-header-logo, 
+[data-theme="spnc_dark"] .header-12 .spnc-navbar {  background-color: #161616;  }
+[data-theme="spnc_dark"] .header-12.header-sidebar .spnc-custom .spnc-navbar {  border-top: 1px solid #242424;  }
+[data-theme="spnc_dark"] .header-12.header-sidebar .spnc-widget-toggle > a.spnc-toggle-icon, 
+[data-theme="spnc_dark"] .newsblogger .spnc-highlights-2.spnc-highlights-1 .spnc-marquee-wrapper .spnc-entry-title a,
+[data-theme="spnc_dark"] .header-12.header-sidebar .spnc-toggle,
+[data-theme="spnc_dark"] .newsblogger .site-footer .footer-sidebar .spnc-social-content .spnc-count { color: #fff;  }
+[data-theme="spnc_dark"] .header-12 .spnc-dark-icon, 
+[data-theme="spnc_dark"] .spnc-post-list-view-section .spnc-post .spnc-post-content .spnc-entry-content .spnc-author::after,
+[data-theme="spnc_dark"] .spnc-wrapper.spnc-btn-1 .widget_newscrunch_post_tabs .spnc-label-tab:not(.active) { background-color: #242424;    }
+@media (max-width: 1100px) {
+    [data-theme="spnc_dark"] .header-12.header-sidebar .spnc-nav {  background-color: #242424;  }
+}
+[data-theme="spnc_dark"] .spnc-post-list-view-section .spnc-post { background-color: #161616; }
+[data-theme="spnc_dark"] .spnc-post-list-view-section .spnc-post .spnc-post-content .spnc-entry-title a,
+[data-theme="spnc_dark"] .spnc-social-content .spnc-count, [data-theme="spnc_dark"] .newsblogger .spnc-single-post .spnc-blog-wrapper .spnc-post .spnc-post-footer-content .spnc-text-black { color: #fff; }
+[data-theme="spnc_dark"] .spnc-post-list-view-section .spnc-post .spnc-post-content .spnc-description { border-color: #242424; color: #a7a7a7; }
+[data-theme="spnc_dark"] .spnc-post-list-view-section .spnc-post .spnc-post-content .spnc-entry-content .spnc-entry-meta a { color: #a7a7a7; }
+[data-theme="spnc_dark"] .spnc-post-list-view-section .spnc-post .spnc-post-content .spnc-more-link,
+[data-theme="spnc_dark"] .newsblogger .spnc-blog-page .spnc-entry-content .spnc-more-link { border-color: #242424; color: #fff; }
+[data-theme="spnc_dark"] body.newsblogger .pagination a:is(:hover, :focus),
+[data-theme="spnc_dark"] body.newsblogger .pagination .nav-links .current:is(:hover, :focus) {  border-color: transparent;  }
+[data-theme="spnc_dark"] .newsblogger .widget_newscrunch_social_icons li .spnc-service-link {   background: transparent;   }
+[data-theme="spnc_dark"] .newsblogger .page-title-section { background: unset; }
+[data-theme="spnc_dark"] .newsblogger .page-title-section .spnc-row { background-color: #161616; }
+[data-theme="spnc_dark"] blockquote { background: #000; }
+[data-theme="spnc_dark"] .newsblogger ol li, [data-theme="spnc_dark"] .newsblogger ul li:not(.spnc-topbar ul li), [data-theme="spnc_dark"] .newsblogger p { color: #a7a7a7; }
+[data-theme="spnc_dark"] .newsblogger .spnc-single-post .spnc-blog-wrapper .spnc-post .spnc-post-footer-content .spnc-entry-meta .spnc-tag-links a {
+    color: #ffffff; background: #0e0e0e; box-shadow: 0 0 1px 1px rgba(42, 42, 42, 1);
+}
+@media (min-width: 767px) {  
+    [data-theme="spnc_dark"] .newsblogger .spncmc-1 .spnc-missed-post { border-right: unset; } 
+}
+@media (min-width: 816px) {
+    [data-theme="spnc_dark"] .newsblogger .spnc-single-post .spnc-pagination-single:has(.spnc-post-previous) .spnc-post-next { border-left: 1px solid #242424; }
+}
+[data-theme="spnc_dark"] .newsblogger .spnc-blog-1 .spnc-blog-wrapper .spnc-post, [data-theme="spnc_dark"] .newsblogger .spnc-blog-2 .spnc-blog-wrapper .spnc-post,
+[data-theme="spnc_dark"] .newsblogger .page-section-space .spnc-col-9 .spnc_con_info, [data-theme="spnc_dark"] .newsblogger .spnc-category-page .spnc-grid-catpost .spnc-post-wrapper,
+[data-theme="spnc_dark"] .newsblogger .spnc-pagination a { background: #161616; }
+[data-theme="spnc_dark"] .newsblogger .pagination a, [data-theme="spnc_dark"] .newsblogger .pagination a { background-color: #161616; border: 1px solid #161616; }
+[data-theme="spnc_dark"] .newsblogger .pagination a.prev, [data-theme="spnc_dark"] .newsblogger .pagination a.next { border: 1px solid #161616; }
+[data-theme="spnc_dark"] .newsblogger .spnc-category-page .spnc-post-wrap, [data-theme="spnc_dark"] .newsblogger .spnc-contact-wrapper,
+[data-theme="spnc_dark"] .newsblogger .spnc-contact-sidebar, [data-theme="spnc_dark"] .newsblogger .comment-section, [data-theme="spnc_dark"] .newsblogger .spnc-single-post .spnc-pagination-single, [data-theme="spnc_dark"] .newsblogger .spnc-related-posts,
+[data-theme="spnc_dark"] .newsblogger .spnc-related-posts .spnc-related-post-wrapper .spnc-post, [data-theme="spnc_dark"] .newsblogger .spnc-related-posts .spnc-related-post-wrapper .spnc-post .spnc-post-wrapper { 
+    background-color: #161616;
+}
+[data-theme="spnc_dark"] .newsblogger .spnc-related-posts .spnc-related-post-wrapper .spnc-post { box-shadow: 0 0 8px 2px rgba(200, 200, 200, 0.05); }
+[data-theme="spnc_dark"] .newsblogger .page-breadcrumb li, [data-theme="spnc_dark"] .newsblogger.spnc_body_sidepanel .widget_newscrunch_adv .adv-img-content a:is(:hover,:focus) { color: #fff; }
+[data-theme="spnc_dark"] .newsblogger .spnc-related-posts .spnc-related-post-wrapper .spnc-post .spnc-entry-header { border-bottom: 1px solid #242424; }
+[data-theme="spnc_dark"] .newsblogger .widget .wp-block-latest-posts li, [data-theme="spnc_dark"] .newsblogger .widget .wp-block-archives li, 
+[data-theme="spnc_dark"] .newsblogger .widget .wp-block-categories li, [data-theme="spnc_dark"] .newsblogger .widget .wp-block-page-list li, 
+[data-theme="spnc_dark"] .newsblogger .widget .wp-block-rss li, [data-theme="spnc_dark"] .newsblogger .widget_meta ul li, 
+[data-theme="spnc_dark"] .newsblogger .widget .wp-block-latest-comments li { border-bottom: 1px solid #3b3b3b; }
+[data-theme="spnc_dark"] body.newsblogger .widget.widget_newscrunch_post_tabs .wp-block-latest-posts li { border: unset; }
+[data-theme="spnc_dark"] .spnc-blog-page .spnc-entry-header { border-bottom: 1px solid #242424; }
+[data-theme="spnc_dark"] .newsblogger .spnc-post .spnc-description p { color: #a7a7a7; }
+[data-theme="spnc_dark"] .newsblogger .spnc_sidebar_panel::-webkit-scrollbar-track { background: #1b1b1b; }
+[data-theme="spnc_dark"] .newsblogger .spnc-cat-first-post .spnc-post {  background-color: #161616; }
+
+@media (max-width: 1100px) {
+    [data-theme="spnc_dark"] .newsblogger .spnc-custom .spnc-widget-toggle > a.spnc-toggle-icon:focus, [data-theme="spnc_dark"] .newsblogger .spnc-custom .spnc-nav a:focus {
+        outline-color: #fff !important;
+    }
+}
+[data-theme="spnc_dark"] .newsblogger .breadcrumb.trail-items li { color: #fff; }
+
+
+/* Wocommerce css */
+[data-theme="spnc_dark"] .widget_shopping_cart .widget_shopping_cart_content .spnc-mini-cart-summary,
+[data-theme="spnc_dark"] .newsblogger :is(.widget_recently_viewed_products, .widget_top_rated_products, .widget_products) .product_list_widget li,
+[data-theme="spnc_dark"] .newsblogger .wp-block-woocommerce-product-categories .wc-block-product-categories-list li,
+[data-theme="spnc_dark"] .newsblogger .wp-block-woocommerce-product-categories .wc-block-product-categories-list li>ul {border-color: #3b3b3b;}
+[data-theme="spnc_dark"] .widget_shopping_cart .widget_shopping_cart_content .spnc-mini-cart-summary .spnc-cart-item-quantity,
+[data-theme="spnc_dark"] .widget_shopping_cart .widget_shopping_cart_content .spnc-mini-cart-summary .spnc-cart-subtotal {color: #fff;}
+[data-theme="spnc_dark"] .newsblogger.woocommerce-page.woocommerce-cart #content .actions #coupon_code {border-color: #3b3b3b;}
+[data-theme="spnc_dark"] .newsblogger.woocommerce form.checkout_coupon,
+[data-theme="spnc_dark"] .newsblogger.woocommerce form.login,
+[data-theme="spnc_dark"] .newsblogger.woocommerce form.register,
+[data-theme="spnc_dark"] #add_payment_method .cart-collaterals .cart_totals tr td,
+[data-theme="spnc_dark"] #add_payment_method .cart-collaterals .cart_totals tr th,
+[data-theme="spnc_dark"] .woocommerce-cart .cart-collaterals .cart_totals tr td,
+[data-theme="spnc_dark"] .woocommerce-cart .cart-collaterals .cart_totals tr th,
+[data-theme="spnc_dark"] .woocommerce-checkout .cart-collaterals .cart_totals tr td,
+[data-theme="spnc_dark"] .woocommerce-checkout .cart-collaterals .cart_totals tr th {border-color: #3b3b3b;}
+[data-theme="spnc_dark"] .newsblogger .woocommerce-store-notice, p.demo_store {color: #fff;}
+[data-theme="spnc_dark"]  .rtl .spnc-sidebar .wc-block-components-price-slider__range-input-progress {--range-color: #f7f7f7;}

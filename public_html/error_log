@@ -1,0 +1,1004 @@
+[20-Sep-2025 11:21:34 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[20-Sep-2025 11:22:40 UTC] Lỗi lịch sự kiện Cron cho hook: wpo_purge_old_cache, Mã lỗi: invalid_schedule, Thông báo lỗi: Lịch cho sự kiện không tồn tại., Dữ liệu: {"schedule":"wpo_purge_old_cache","args":[],"interval":86400}
+[20-Sep-2025 11:23:03 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[20-Sep-2025 11:24:48 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[20-Sep-2025 11:24:53 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[20-Sep-2025 11:29:53 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[20-Sep-2025 11:30:37 UTC] Lỗi lịch sự kiện Cron cho hook: wpo_reset_webp_conversion_test_result, Mã lỗi: invalid_schedule, Thông báo lỗi: Lịch cho sự kiện không tồn tại., Dữ liệu: {"schedule":"wpo_daily","args":[],"interval":86400}
+[20-Sep-2025 11:30:37 UTC] Lỗi lịch sự kiện Cron cho hook: wpo_prune_404_log, Mã lỗi: invalid_schedule, Thông báo lỗi: Lịch cho sự kiện không tồn tại., Dữ liệu: {"schedule":"wpo_daily","args":[],"interval":86400}
+[20-Sep-2025 11:34:57 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[20-Sep-2025 11:35:13 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[20-Sep-2025 11:54:59 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[20-Sep-2025 11:54:59 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[20-Sep-2025 12:02:02 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[20-Sep-2025 12:48:09 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[20-Sep-2025 13:31:48 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[20-Sep-2025 13:55:07 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[20-Sep-2025 14:23:13 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[20-Sep-2025 14:23:13 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[20-Sep-2025 15:33:37 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[20-Sep-2025 15:58:53 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[20-Sep-2025 20:09:13 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[20-Sep-2025 20:09:36 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[21-Sep-2025 00:03:09 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[21-Sep-2025 00:03:25 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[21-Sep-2025 00:03:36 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[21-Sep-2025 10:14:34 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[21-Sep-2025 10:22:33 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[21-Sep-2025 10:23:08 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[21-Sep-2025 10:23:13 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[21-Sep-2025 10:23:14 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[21-Sep-2025 12:06:28 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[21-Sep-2025 12:11:32 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[21-Sep-2025 12:11:33 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[21-Sep-2025 14:38:35 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[21-Sep-2025 15:13:29 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[21-Sep-2025 20:20:14 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[21-Sep-2025 20:20:35 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[21-Sep-2025 20:20:36 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[21-Sep-2025 20:20:40 UTC] WordPress database error Duplicate entry '793972fcfd941f14c47c41c76eb25a21' for key 'md5' for query INSERT INTO `wp_litespeed_avatar` (url, md5, dateline) VALUES ('https://secure.gravatar.com/avatar/a9dfbb4c95cd898a5e1ef8f8cb702f6856a768c3f0c73c727ca73f1b4c0b850c?s=128&d=mm&r=g', '793972fcfd941f14c47c41c76eb25a21', 1758486040) made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/newscrunch/index.php'), get_header, locate_template, load_template, require_once('/themes/newsblogger/header.php'), wp_body_open, do_action('wp_body_open'), WP_Hook->do_action, WP_Hook->apply_filters, wp_admin_bar_render, do_action_ref_array('admin_bar_menu'), WP_Hook->do_action, WP_Hook->apply_filters, wp_admin_bar_my_account_menu, get_avatar, get_avatar_url, get_avatar_data, apply_filters('get_avatar_url'), WP_Hook->apply_filters, LiteSpeed\Avatar->crawl_avatar, LiteSpeed\Avatar->_generate
+[21-Sep-2025 20:21:06 UTC] WordPress database error Table 'ismvgkqjhosting_xpgame.wp_rank_math_analytics_gsc' doesn't exist for query SELECT SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(position) AS position FROM wp_rank_math_analytics_gsc WHERE created BETWEEN '2025-08-16 00:00:00' AND '2025-09-18 23:59:59' made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Rest\Admin->dashboard_widget_items, RankMath\Rest\Admin->do_action, do_action_ref_array('rank_math/dashboard/widget'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Analytics_Common->dashboard_widget, RankMath\Analytics\Analytics_Common->get_dashboard_widget_items, RankMath\Analytics\Summary->get_widget, RankMath\Admin\Database\Query_Builder->one, RankMath\Admin\Database\Query_Builder->get_row, RankMath\Admin\Database\Query_Builder->run
+[21-Sep-2025 20:21:06 UTC] WordPress database error Table 'ismvgkqjhosting_xpgame.wp_rank_math_analytics_gsc' doesn't exist for query SELECT SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(position) AS position FROM wp_rank_math_analytics_gsc WHERE created BETWEEN '2025-07-13 00:00:00' AND '2025-08-15 23:59:59' made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Rest\Admin->dashboard_widget_items, RankMath\Rest\Admin->do_action, do_action_ref_array('rank_math/dashboard/widget'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Analytics_Common->dashboard_widget, RankMath\Analytics\Analytics_Common->get_dashboard_widget_items, RankMath\Analytics\Summary->get_widget, RankMath\Admin\Database\Query_Builder->one, RankMath\Admin\Database\Query_Builder->get_row, RankMath\Admin\Database\Query_Builder->run
+[21-Sep-2025 20:21:06 UTC] WordPress database error Table 'ismvgkqjhosting_xpgame.wp_rank_math_analytics_gsc' doesn't exist for query SELECT NULLIF(COUNT(DISTINCT(query)), 0)
+				FROM wp_rank_math_analytics_gsc
+				WHERE created BETWEEN '2025-08-16 00:00:00' AND '2025-09-18 23:59:59' made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Rest\Admin->dashboard_widget_items, RankMath\Rest\Admin->do_action, do_action_ref_array('rank_math/dashboard/widget'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Analytics_Common->dashboard_widget, RankMath\Analytics\Analytics_Common->get_dashboard_widget_items, RankMath\Analytics\Summary->get_widget, RankMath\Analytics\Summary->get_keywords_summary, RankMath\Helpers\DB::get_var, RankMath\Admin\Database\Query_Builder->get_var, RankMath\Admin\Database\Query_Builder->run
+[21-Sep-2025 20:21:06 UTC] WordPress database error Table 'ismvgkqjhosting_xpgame.wp_rank_math_analytics_gsc' doesn't exist for query SELECT NULLIF(COUNT(DISTINCT(query)), 0)
+				FROM wp_rank_math_analytics_gsc
+				WHERE created BETWEEN '2025-07-13 00:00:00' AND '2025-08-15 23:59:59' made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Rest\Admin->dashboard_widget_items, RankMath\Rest\Admin->do_action, do_action_ref_array('rank_math/dashboard/widget'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Analytics_Common->dashboard_widget, RankMath\Analytics\Analytics_Common->get_dashboard_widget_items, RankMath\Analytics\Summary->get_widget, RankMath\Analytics\Summary->get_keywords_summary, RankMath\Helpers\DB::get_var, RankMath\Admin\Database\Query_Builder->get_var, RankMath\Admin\Database\Query_Builder->run
+[21-Sep-2025 20:23:57 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[21-Sep-2025 20:28:18 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[21-Sep-2025 20:32:08 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[21-Sep-2025 21:05:37 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[21-Sep-2025 23:29:35 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[21-Sep-2025 23:30:01 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[21-Sep-2025 23:30:02 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 00:40:55 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 00:40:59 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 00:43:07 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 00:46:45 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 01:01:48 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 01:04:06 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 01:12:52 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 03:19:15 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 10:07:15 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 10:17:34 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 10:21:19 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 10:25:34 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 10:28:09 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 10:28:24 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 10:28:47 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 10:28:49 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 10:29:56 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 11:29:26 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 12:19:59 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 12:20:03 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 12:20:07 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 12:58:11 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 12:59:25 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 13:00:44 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 13:10:32 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 13:13:32 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 13:13:48 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 13:23:45 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 13:38:13 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 13:39:02 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 13:47:53 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 13:52:57 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 14:25:22 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 14:25:28 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 14:50:50 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 15:20:54 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 15:21:39 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 15:40:04 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 15:40:11 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 15:41:30 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 15:41:34 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 15:41:43 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 15:41:47 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 15:59:25 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 16:03:28 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 16:04:21 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 16:04:24 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 16:13:02 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 16:16:09 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 16:21:17 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 16:21:19 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 16:33:05 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 16:41:07 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 16:44:51 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 17:11:17 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 17:11:19 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 17:11:23 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 17:11:23 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 17:17:51 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 17:17:52 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 17:17:56 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 17:17:56 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 17:37:11 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 18:07:41 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 18:19:44 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 18:19:46 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 18:19:50 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 18:26:02 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 18:31:09 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 18:31:32 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 18:31:33 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 18:37:10 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 18:37:25 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 18:37:59 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 18:54:47 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 18:56:56 UTC] Lỗi lịch sự kiện Cron cho hook: litespeed_task_ucss, Mã lỗi: invalid_schedule, Thông báo lỗi: Lịch cho sự kiện không tồn tại., Dữ liệu: {"schedule":"litespeed_filter","args":[],"interval":60}
+[22-Sep-2025 18:56:56 UTC] Lỗi lịch sự kiện Cron cho hook: litespeed_task_vpi, Mã lỗi: invalid_schedule, Thông báo lỗi: Lịch cho sự kiện không tồn tại., Dữ liệu: {"schedule":"litespeed_filter","args":[],"interval":60}
+[22-Sep-2025 18:56:56 UTC] Lỗi lịch sự kiện Cron cho hook: litespeed_task_avatar, Mã lỗi: invalid_schedule, Thông báo lỗi: Lịch cho sự kiện không tồn tại., Dữ liệu: {"schedule":"litespeed_filter","args":[],"interval":60}
+[22-Sep-2025 18:56:56 UTC] Lỗi lịch sự kiện Cron cho hook: litespeed_task_imgoptm_req, Mã lỗi: invalid_schedule, Thông báo lỗi: Lịch cho sự kiện không tồn tại., Dữ liệu: {"schedule":"litespeed_filter","args":[],"interval":60}
+[22-Sep-2025 18:56:56 UTC] Lỗi lịch sự kiện Cron cho hook: litespeed_task_ccss, Mã lỗi: invalid_schedule, Thông báo lỗi: Lịch cho sự kiện không tồn tại., Dữ liệu: {"schedule":"litespeed_filter","args":[],"interval":60}
+[22-Sep-2025 18:57:23 UTC] Lỗi lịch sự kiện Cron cho hook: litespeed_task_imgoptm_pull, Mã lỗi: invalid_schedule, Thông báo lỗi: Lịch cho sự kiện không tồn tại., Dữ liệu: {"schedule":"litespeed_filter","args":[],"interval":60}
+[22-Sep-2025 18:57:23 UTC] Lỗi lịch sự kiện Cron cho hook: litespeed_task_lqip, Mã lỗi: invalid_schedule, Thông báo lỗi: Lịch cho sự kiện không tồn tại., Dữ liệu: {"schedule":"litespeed_filter","args":[],"interval":60}
+[22-Sep-2025 19:09:08 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 19:09:57 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 19:10:19 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 19:12:25 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 19:23:06 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 19:23:39 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 19:23:40 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 19:23:44 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 19:23:45 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 19:25:01 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 19:25:21 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 19:25:34 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 19:25:42 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 19:26:25 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 19:26:34 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 19:27:18 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 19:27:29 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 19:28:20 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[22-Sep-2025 19:29:03 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[23-Sep-2025 07:10:53 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[23-Sep-2025 07:12:41 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[23-Sep-2025 07:40:12 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[23-Sep-2025 11:42:48 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[23-Sep-2025 12:06:22 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[23-Sep-2025 13:23:10 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[23-Sep-2025 14:30:55 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[23-Sep-2025 14:34:41 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[23-Sep-2025 15:05:28 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[23-Sep-2025 15:24:45 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[23-Sep-2025 15:43:16 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[23-Sep-2025 15:59:20 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[23-Sep-2025 17:40:47 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[23-Sep-2025 19:22:27 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 01:00:16 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 01:14:38 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 01:45:13 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 01:45:39 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 03:20:47 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 03:32:02 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 03:32:45 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 03:42:58 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 06:53:08 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 18:33:44 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 18:33:53 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 20:49:41 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 20:51:23 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 20:59:47 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 21:01:02 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 21:03:16 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 21:03:52 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 21:06:04 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 21:09:57 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 21:10:51 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 21:10:56 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 21:11:07 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 21:11:27 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 21:11:33 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 21:11:35 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 21:18:38 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 21:18:39 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 21:18:42 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 21:18:43 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 21:19:58 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 21:22:19 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 21:22:19 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 21:22:23 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 21:22:24 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 21:23:25 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 21:23:25 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 21:23:29 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[24-Sep-2025 21:23:30 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[25-Sep-2025 02:24:11 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[25-Sep-2025 04:24:44 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[25-Sep-2025 04:28:38 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[25-Sep-2025 08:49:01 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[25-Sep-2025 08:49:25 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[25-Sep-2025 08:52:03 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[25-Sep-2025 08:52:06 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[25-Sep-2025 08:52:08 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[25-Sep-2025 08:52:15 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[25-Sep-2025 08:56:28 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[25-Sep-2025 10:43:08 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[25-Sep-2025 11:02:34 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[25-Sep-2025 18:06:43 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[25-Sep-2025 18:06:45 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 01:24:09 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 01:24:11 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 01:33:36 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 01:37:56 UTC] Lỗi lịch sự kiện Cron cho hook: litespeed_task_avatar, Mã lỗi: could_not_set, Thông báo lỗi: Không thể lưu danh sách sự kiện cron., Dữ liệu: {"schedule":"litespeed_filter","args":[],"interval":60}
+[26-Sep-2025 01:37:57 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 01:49:05 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 01:53:02 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 02:04:23 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 03:22:16 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 03:56:10 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 06:18:20 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 06:18:23 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 06:18:29 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 08:07:04 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 08:20:45 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 08:23:27 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 08:24:37 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 08:26:53 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 08:28:34 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 08:29:45 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 08:31:37 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 08:33:25 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 08:35:49 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 08:43:24 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 08:54:13 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 09:00:50 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 09:01:03 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 09:01:08 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 09:01:18 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 09:03:29 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 09:35:28 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 10:08:42 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 22:27:50 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[26-Sep-2025 22:27:54 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[27-Sep-2025 00:54:35 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[27-Sep-2025 00:55:00 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[27-Sep-2025 00:55:12 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[27-Sep-2025 00:59:18 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[27-Sep-2025 03:27:48 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[27-Sep-2025 03:27:49 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[27-Sep-2025 04:09:01 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[27-Sep-2025 04:09:03 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[27-Sep-2025 04:11:14 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[28-Sep-2025 07:38:10 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[28-Sep-2025 15:58:16 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[28-Sep-2025 15:58:44 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[28-Sep-2025 16:00:03 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[28-Sep-2025 16:00:20 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[28-Sep-2025 16:01:10 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[28-Sep-2025 18:50:46 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[28-Sep-2025 19:05:51 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[29-Sep-2025 00:03:05 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[29-Sep-2025 00:05:28 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[29-Sep-2025 02:15:57 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[29-Sep-2025 02:16:26 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[29-Sep-2025 03:05:41 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[29-Sep-2025 03:06:09 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[29-Sep-2025 03:07:15 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[29-Sep-2025 03:07:16 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[29-Sep-2025 03:08:11 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[29-Sep-2025 03:26:57 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[29-Sep-2025 20:27:07 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 07:18:39 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 07:18:42 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 07:18:44 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 07:18:50 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 07:19:07 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 07:19:29 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 07:25:36 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 07:29:14 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 07:29:14 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 07:29:15 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_name, option_value FROM wp_options WHERE option_name IN ('_transient_timeout_jetpack_autoloader_plugin_paths') made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\Jetpack\Autoloader\jpb14fc9bd1660daefb94618d6dfaf02bf\al5_0_8\Shutdown_Handler->__invoke, Automattic\Jetpack\Autoloader\jpb14fc9bd1660daefb94618d6dfaf02bf\al5_0_8\Plugins_Handler->cache_plugins, set_transient, wp_prime_option_caches
+[30-Sep-2025 07:29:15 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT autoload FROM wp_options WHERE option_name = '_transient_jetpack_autoloader_plugin_paths' LIMIT 1 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\Jetpack\Autoloader\jpb14fc9bd1660daefb94618d6dfaf02bf\al5_0_8\Shutdown_Handler->__invoke, Automattic\Jetpack\Autoloader\jpb14fc9bd1660daefb94618d6dfaf02bf\al5_0_8\Plugins_Handler->cache_plugins, set_transient, update_option
+[30-Sep-2025 07:29:15 UTC] WordPress database error Commands out of sync; you can't run this command now for query SHOW FULL COLUMNS FROM `wp_options` made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\Jetpack\Autoloader\jpb14fc9bd1660daefb94618d6dfaf02bf\al5_0_8\Shutdown_Handler->__invoke, Automattic\Jetpack\Autoloader\jpb14fc9bd1660daefb94618d6dfaf02bf\al5_0_8\Plugins_Handler->cache_plugins, set_transient, update_option
+[30-Sep-2025 07:29:15 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT autoload FROM wp_options WHERE option_name = 'rank_math_notifications' made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Admin\Notifications\Notification_Center->update_storage, delete_option
+[30-Sep-2025 07:35:40 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 07:37:22 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 08:04:37 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 08:21:30 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 08:21:58 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 08:22:33 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 08:26:11 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 08:33:47 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 08:42:25 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 08:56:34 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 09:04:10 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 09:10:22 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 10:06:12 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 10:06:13 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 10:06:17 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 10:13:15 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 11:12:08 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 11:57:52 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 13:22:19 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 14:01:30 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 14:01:32 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 14:11:45 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 14:49:03 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 14:52:48 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 15:30:21 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 15:57:06 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 15:57:37 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 15:58:10 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 15:59:32 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 15:59:37 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 16:00:07 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 16:01:57 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 16:02:12 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 16:05:43 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 16:05:44 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 16:05:51 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 16:37:51 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 16:42:53 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 16:42:54 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[30-Sep-2025 18:41:19 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[01-Oct-2025 00:47:04 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[01-Oct-2025 00:47:48 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[01-Oct-2025 00:47:55 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[01-Oct-2025 00:51:19 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[01-Oct-2025 00:51:59 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[01-Oct-2025 01:00:09 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[01-Oct-2025 01:00:09 UTC] Lỗi hủy lịch sự kiện Cron cho hook: smush_check_for_conflicts, Mã lỗi: could_not_set, Thông báo lỗi: Không thể lưu danh sách sự kiện cron., Dữ liệu: {"schedule":false,"args":[]}
+[01-Oct-2025 01:56:20 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[01-Oct-2025 03:09:10 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[01-Oct-2025 03:09:11 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[01-Oct-2025 03:20:35 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[01-Oct-2025 08:32:44 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[01-Oct-2025 08:40:01 UTC] WordPress database error Table 'ismvgkqjhosting_xpgame.wp_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(page)) AS posts, SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(position) AS position FROM wp_rank_math_analytics_gsc WHERE created BETWEEN '2025-08-26 00:00:00' AND '2025-09-28 23:59:59' made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_dashboard, RankMath\Analytics\Summary->get_analytics_summary, RankMath\Admin\Database\Query_Builder->one, RankMath\Admin\Database\Query_Builder->get_row, RankMath\Admin\Database\Query_Builder->run
+[01-Oct-2025 08:40:01 UTC] WordPress database error Table 'ismvgkqjhosting_xpgame.wp_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(page)) AS posts, SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(position) AS position FROM wp_rank_math_analytics_gsc WHERE created BETWEEN '2025-07-23 00:00:00' AND '2025-08-25 23:59:59' made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_dashboard, RankMath\Analytics\Summary->get_analytics_summary, RankMath\Admin\Database\Query_Builder->one, RankMath\Admin\Database\Query_Builder->get_row, RankMath\Admin\Database\Query_Builder->run
+[01-Oct-2025 08:40:02 UTC] WordPress database error Table 'ismvgkqjhosting_xpgame.wp_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(t1.query) AS total,
+				CASE
+					WHEN t1.position BETWEEN 1 AND 3 THEN 'top3'
+					WHEN t1.position BETWEEN 4 AND 10 THEN 'top10'
+					WHEN t1.position BETWEEN 11 AND 50 THEN 'top50'
+					WHEN t1.position BETWEEN 51 AND 100 THEN 'top100'
+					ELSE 'none'
+				END AS position_type
+			FROM (SELECT query, ROUND( AVG(position), 0 ) AS position 
+				FROM wp_rank_math_analytics_gsc
+				WHERE created BETWEEN '2025-08-26 00:00:00' AND '2025-09-28 23:59:59' AND DATE(created) = (SELECT MAX(DATE(created)) FROM wp_rank_math_analytics_gsc WHERE created BETWEEN '2025-08-26 00:00:00' AND '2025-09-28 23:59:59')
+				GROUP BY query 
+				ORDER BY position) as t1
+			GROUP BY position_type made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_keywords_overview, RankMath\Analytics\Keywords->get_top_keywords, RankMath\Helpers\DB::get_results, RankMath\Admin\Database\Query_Builder->get_results, RankMath\Admin\Database\Query_Builder->run
+[01-Oct-2025 08:40:02 UTC] WordPress database error Table 'ismvgkqjhosting_xpgame.wp_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(t1.query) AS total,
+				CASE
+					WHEN t1.position BETWEEN 1 AND 3 THEN 'top3'
+					WHEN t1.position BETWEEN 4 AND 10 THEN 'top10'
+					WHEN t1.position BETWEEN 11 AND 50 THEN 'top50'
+					WHEN t1.position BETWEEN 51 AND 100 THEN 'top100'
+					ELSE 'none'
+				END AS position_type
+			FROM (SELECT query, ROUND( AVG(position), 0 ) AS position 
+				FROM wp_rank_math_analytics_gsc
+				WHERE created BETWEEN '2025-07-23 00:00:00' AND '2025-08-25 23:59:59' AND DATE(created) = (SELECT MAX(DATE(created)) FROM wp_rank_math_analytics_gsc WHERE created BETWEEN '2025-07-23 00:00:00' AND '2025-08-25 23:59:59')
+				GROUP BY query 
+				ORDER BY position) as t1
+			GROUP BY position_type made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_keywords_overview, RankMath\Analytics\Keywords->get_top_keywords, RankMath\Helpers\DB::get_results, RankMath\Admin\Database\Query_Builder->get_results, RankMath\Admin\Database\Query_Builder->run
+[01-Oct-2025 08:40:02 UTC] WordPress database error Table 'ismvgkqjhosting_xpgame.wp_rank_math_analytics_gsc' doesn't exist for query SELECT AVG(ctr) AS ctr FROM wp_rank_math_analytics_gsc WHERE created BETWEEN '2025-08-26 00:00:00' AND '2025-09-28 23:59:59' made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_keywords_overview, RankMath\Analytics\Keywords->get_top_keywords, RankMath\Admin\Database\Query_Builder->getVar, RankMath\Admin\Database\Query_Builder->one, RankMath\Admin\Database\Query_Builder->get_row, RankMath\Admin\Database\Query_Builder->run
+[01-Oct-2025 08:40:02 UTC] WordPress database error Table 'ismvgkqjhosting_xpgame.wp_rank_math_analytics_gsc' doesn't exist for query SELECT AVG(ctr) AS ctr FROM wp_rank_math_analytics_gsc WHERE created BETWEEN '2025-07-23 00:00:00' AND '2025-08-25 23:59:59' made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_keywords_overview, RankMath\Analytics\Keywords->get_top_keywords, RankMath\Admin\Database\Query_Builder->getVar, RankMath\Admin\Database\Query_Builder->one, RankMath\Admin\Database\Query_Builder->get_row, RankMath\Admin\Database\Query_Builder->run
+[01-Oct-2025 08:40:02 UTC] WordPress database error Table 'ismvgkqjhosting_xpgame.wp_rank_math_analytics_gsc' doesn't exist for query SELECT MAX(DATE(created)) as date, CASE WHEN created BETWEEN '2025-08-29 00:00:00' AND '2025-09-03 23:59:59' THEN 'range1' WHEN created BETWEEN '2025-09-04 00:00:00' AND '2025-09-09 23:59:59' THEN 'range2' WHEN created BETWEEN '2025-09-10 00:00:00' AND '2025-09-15 23:59:59' THEN 'range3' WHEN created BETWEEN '2025-09-16 00:00:00' AND '2025-09-21 23:59:59' THEN 'range4' WHEN created BETWEEN '2025-09-22 00:00:00' AND '2025-09-28 23:59:59' THEN 'range5' ELSE 'none' END AS 'range_group'
+			FROM wp_rank_math_analytics_gsc
+			WHERE created BETWEEN '2025-08-26 00:00:00' AND '2025-09-28 23:59:59'
+			GROUP BY range_group made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_keywords_overview, RankMath\Analytics\Keywords->get_top_position_graph, RankMath\Helpers\DB::get_results, RankMath\Admin\Database\Query_Builder->get_results, RankMath\Admin\Database\Query_Builder->run
+[01-Oct-2025 08:43:16 UTC] WordPress database error Table 'ismvgkqjhosting_xpgame.wp_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(page)) AS posts, SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(position) AS position FROM wp_rank_math_analytics_gsc WHERE created BETWEEN '2025-08-26 00:00:00' AND '2025-09-28 23:59:59' made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_dashboard, RankMath\Analytics\Summary->get_analytics_summary, RankMath\Admin\Database\Query_Builder->one, RankMath\Admin\Database\Query_Builder->get_row, RankMath\Admin\Database\Query_Builder->run
+[01-Oct-2025 08:43:16 UTC] WordPress database error Table 'ismvgkqjhosting_xpgame.wp_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(page)) AS posts, SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(position) AS position FROM wp_rank_math_analytics_gsc WHERE created BETWEEN '2025-07-23 00:00:00' AND '2025-08-25 23:59:59' made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_dashboard, RankMath\Analytics\Summary->get_analytics_summary, RankMath\Admin\Database\Query_Builder->one, RankMath\Admin\Database\Query_Builder->get_row, RankMath\Admin\Database\Query_Builder->run
+[01-Oct-2025 08:43:16 UTC] WordPress database error Table 'ismvgkqjhosting_xpgame.wp_rank_math_analytics_gsc' doesn't exist for query SELECT MAX(DATE(created)) as date, CASE WHEN created BETWEEN '2025-08-29 00:00:00' AND '2025-09-03 23:59:59' THEN 'range1' WHEN created BETWEEN '2025-09-04 00:00:00' AND '2025-09-09 23:59:59' THEN 'range2' WHEN created BETWEEN '2025-09-10 00:00:00' AND '2025-09-15 23:59:59' THEN 'range3' WHEN created BETWEEN '2025-09-16 00:00:00' AND '2025-09-21 23:59:59' THEN 'range4' WHEN created BETWEEN '2025-09-22 00:00:00' AND '2025-09-28 23:59:59' THEN 'range5' ELSE 'none' END AS 'range_group'
+			FROM wp_rank_math_analytics_gsc
+			WHERE created BETWEEN '2025-08-26 00:00:00' AND '2025-09-28 23:59:59'
+			GROUP BY range_group made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_keywords_overview, RankMath\Analytics\Keywords->get_top_position_graph, RankMath\Helpers\DB::get_results, RankMath\Admin\Database\Query_Builder->get_results, RankMath\Admin\Database\Query_Builder->run
+[01-Oct-2025 08:43:17 UTC] WordPress database error Table 'ismvgkqjhosting_xpgame.wp_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(wp_rank_math_analytics_gsc.page)) AS posts, SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(ctr) AS ctr FROM wp_rank_math_analytics_gsc WHERE wp_rank_math_analytics_gsc.created BETWEEN '2025-08-26 00:00:00' AND '2025-09-28 23:59:59' made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_analytics_summary, RankMath\Analytics\Summary->get_posts_summary, RankMath\Admin\Database\Query_Builder->one, RankMath\Admin\Database\Query_Builder->get_row, RankMath\Admin\Database\Query_Builder->run
+[01-Oct-2025 08:43:17 UTC] WordPress database error Table 'ismvgkqjhosting_xpgame.wp_rank_math_analytics_objects' doesn't exist for query SELECT COUNT(object_id) AS count,
+				CASE
+					WHEN seo_score BETWEEN 81 AND 100 THEN 'good'
+					WHEN seo_score BETWEEN 51 AND 80 THEN 'ok'
+					WHEN seo_score BETWEEN 1 AND 50 THEN 'bad'
+					WHEN seo_score = 0 THEN 'noData'
+					ELSE 'none'
+				END AS type
+			FROM wp_rank_math_analytics_objects
+			WHERE is_indexable = 1
+			
+			GROUP BY type made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_analytics_summary, RankMath\Analytics\Summary->get_optimization_summary, RankMath\Helpers\DB::get_results, RankMath\Admin\Database\Query_Builder->get_results, RankMath\Admin\Database\Query_Builder->run
+[01-Oct-2025 08:43:17 UTC] WordPress database error Table 'ismvgkqjhosting_xpgame.wp_rank_math_analytics_objects' doesn't exist for query SELECT COUNT(object_id) AS total, SUM(seo_score) AS score FROM wp_rank_math_analytics_objects WHERE is_indexable = 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_analytics_summary, RankMath\Analytics\Summary->get_optimization_summary, RankMath\Admin\Database\Query_Builder->one, RankMath\Admin\Database\Query_Builder->get_row, RankMath\Admin\Database\Query_Builder->run
+[01-Oct-2025 08:43:23 UTC] WordPress database error Table 'ismvgkqjhosting_xpgame.wp_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(wp_rank_math_analytics_gsc.page)) AS posts, SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(ctr) AS ctr FROM wp_rank_math_analytics_gsc WHERE wp_rank_math_analytics_gsc.created BETWEEN '2025-08-26 00:00:00' AND '2025-09-28 23:59:59' made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Summary->get_posts_summary, RankMath\Admin\Database\Query_Builder->one, RankMath\Admin\Database\Query_Builder->get_row, RankMath\Admin\Database\Query_Builder->run
+[01-Oct-2025 09:21:33 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[01-Oct-2025 09:27:15 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[01-Oct-2025 09:36:38 UTC] WordPress database error Table 'ismvgkqjhosting_xpgame.wp_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(page)) AS posts, SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(position) AS position FROM wp_rank_math_analytics_gsc WHERE created BETWEEN '2025-08-26 00:00:00' AND '2025-09-28 23:59:59' made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_dashboard, RankMath\Analytics\Summary->get_analytics_summary, RankMath\Admin\Database\Query_Builder->one, RankMath\Admin\Database\Query_Builder->get_row, RankMath\Admin\Database\Query_Builder->run
+[01-Oct-2025 09:36:38 UTC] WordPress database error Table 'ismvgkqjhosting_xpgame.wp_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(page)) AS posts, SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(position) AS position FROM wp_rank_math_analytics_gsc WHERE created BETWEEN '2025-07-23 00:00:00' AND '2025-08-25 23:59:59' made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_dashboard, RankMath\Analytics\Summary->get_analytics_summary, RankMath\Admin\Database\Query_Builder->one, RankMath\Admin\Database\Query_Builder->get_row, RankMath\Admin\Database\Query_Builder->run
+[01-Oct-2025 09:36:38 UTC] WordPress database error Table 'ismvgkqjhosting_xpgame.wp_rank_math_analytics_gsc' doesn't exist for query SELECT MAX(DATE(created)) as date, CASE WHEN created BETWEEN '2025-08-29 00:00:00' AND '2025-09-03 23:59:59' THEN 'range1' WHEN created BETWEEN '2025-09-04 00:00:00' AND '2025-09-09 23:59:59' THEN 'range2' WHEN created BETWEEN '2025-09-10 00:00:00' AND '2025-09-15 23:59:59' THEN 'range3' WHEN created BETWEEN '2025-09-16 00:00:00' AND '2025-09-21 23:59:59' THEN 'range4' WHEN created BETWEEN '2025-09-22 00:00:00' AND '2025-09-28 23:59:59' THEN 'range5' ELSE 'none' END AS 'range_group'
+			FROM wp_rank_math_analytics_gsc
+			WHERE created BETWEEN '2025-08-26 00:00:00' AND '2025-09-28 23:59:59'
+			GROUP BY range_group made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_keywords_overview, RankMath\Analytics\Keywords->get_top_position_graph, RankMath\Helpers\DB::get_results, RankMath\Admin\Database\Query_Builder->get_results, RankMath\Admin\Database\Query_Builder->run
+[01-Oct-2025 09:36:42 UTC] WordPress database error Table 'ismvgkqjhosting_xpgame.wp_rank_math_analytics_objects' doesn't exist for query SELECT COUNT(object_id) AS count,
+				CASE
+					WHEN seo_score BETWEEN 81 AND 100 THEN 'good'
+					WHEN seo_score BETWEEN 51 AND 80 THEN 'ok'
+					WHEN seo_score BETWEEN 1 AND 50 THEN 'bad'
+					WHEN seo_score = 0 THEN 'noData'
+					ELSE 'none'
+				END AS type
+			FROM wp_rank_math_analytics_objects
+			WHERE is_indexable = 1
+			
+			GROUP BY type made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_analytics_summary, RankMath\Analytics\Summary->get_optimization_summary, RankMath\Helpers\DB::get_results, RankMath\Admin\Database\Query_Builder->get_results, RankMath\Admin\Database\Query_Builder->run
+[01-Oct-2025 09:36:42 UTC] WordPress database error Table 'ismvgkqjhosting_xpgame.wp_rank_math_analytics_objects' doesn't exist for query SELECT COUNT(object_id) AS total, SUM(seo_score) AS score FROM wp_rank_math_analytics_objects WHERE is_indexable = 1 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_analytics_summary, RankMath\Analytics\Summary->get_optimization_summary, RankMath\Admin\Database\Query_Builder->one, RankMath\Admin\Database\Query_Builder->get_row, RankMath\Admin\Database\Query_Builder->run
+[01-Oct-2025 09:36:47 UTC] WordPress database error Table 'ismvgkqjhosting_xpgame.wp_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(wp_rank_math_analytics_gsc.page)) AS posts, SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(ctr) AS ctr FROM wp_rank_math_analytics_gsc WHERE wp_rank_math_analytics_gsc.created BETWEEN '2025-08-26 00:00:00' AND '2025-09-28 23:59:59' made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Summary->get_posts_summary, RankMath\Admin\Database\Query_Builder->one, RankMath\Admin\Database\Query_Builder->get_row, RankMath\Admin\Database\Query_Builder->run
+[01-Oct-2025 09:45:02 UTC] WordPress database error Table 'ismvgkqjhosting_xpgame.wp_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(page)) AS posts, SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(position) AS position FROM wp_rank_math_analytics_gsc WHERE created BETWEEN '2025-08-26 00:00:00' AND '2025-09-28 23:59:59' made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_dashboard, RankMath\Analytics\Summary->get_analytics_summary, RankMath\Admin\Database\Query_Builder->one, RankMath\Admin\Database\Query_Builder->get_row, RankMath\Admin\Database\Query_Builder->run
+[01-Oct-2025 09:45:02 UTC] WordPress database error Table 'ismvgkqjhosting_xpgame.wp_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(page)) AS posts, SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(position) AS position FROM wp_rank_math_analytics_gsc WHERE created BETWEEN '2025-07-23 00:00:00' AND '2025-08-25 23:59:59' made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_dashboard, RankMath\Analytics\Summary->get_analytics_summary, RankMath\Admin\Database\Query_Builder->one, RankMath\Admin\Database\Query_Builder->get_row, RankMath\Admin\Database\Query_Builder->run
+[01-Oct-2025 09:45:02 UTC] WordPress database error Table 'ismvgkqjhosting_xpgame.wp_rank_math_analytics_gsc' doesn't exist for query SELECT MAX(DATE(created)) as date, CASE WHEN created BETWEEN '2025-08-29 00:00:00' AND '2025-09-03 23:59:59' THEN 'range1' WHEN created BETWEEN '2025-09-04 00:00:00' AND '2025-09-09 23:59:59' THEN 'range2' WHEN created BETWEEN '2025-09-10 00:00:00' AND '2025-09-15 23:59:59' THEN 'range3' WHEN created BETWEEN '2025-09-16 00:00:00' AND '2025-09-21 23:59:59' THEN 'range4' WHEN created BETWEEN '2025-09-22 00:00:00' AND '2025-09-28 23:59:59' THEN 'range5' ELSE 'none' END AS 'range_group'
+			FROM wp_rank_math_analytics_gsc
+			WHERE created BETWEEN '2025-08-26 00:00:00' AND '2025-09-28 23:59:59'
+			GROUP BY range_group made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_keywords_overview, RankMath\Analytics\Keywords->get_top_position_graph, RankMath\Helpers\DB::get_results, RankMath\Admin\Database\Query_Builder->get_results, RankMath\Admin\Database\Query_Builder->run
+[01-Oct-2025 09:45:05 UTC] WordPress database error Table 'ismvgkqjhosting_xpgame.wp_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(wp_rank_math_analytics_gsc.page)) AS posts, SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(ctr) AS ctr FROM wp_rank_math_analytics_gsc WHERE wp_rank_math_analytics_gsc.created BETWEEN '2025-08-26 00:00:00' AND '2025-09-28 23:59:59' made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Summary->get_posts_summary, RankMath\Admin\Database\Query_Builder->one, RankMath\Admin\Database\Query_Builder->get_row, RankMath\Admin\Database\Query_Builder->run
+[01-Oct-2025 09:47:44 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[01-Oct-2025 09:47:44 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[01-Oct-2025 09:48:01 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[01-Oct-2025 09:52:49 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[01-Oct-2025 09:54:25 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[01-Oct-2025 09:54:34 UTC] WordPress database error Table 'ismvgkqjhosting_xpgame.wp_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(page)) AS posts, SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(position) AS position FROM wp_rank_math_analytics_gsc WHERE created BETWEEN '2025-08-26 00:00:00' AND '2025-09-28 23:59:59' made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_dashboard, RankMath\Analytics\Summary->get_analytics_summary, RankMath\Admin\Database\Query_Builder->one, RankMath\Admin\Database\Query_Builder->get_row, RankMath\Admin\Database\Query_Builder->run
+[01-Oct-2025 09:54:34 UTC] WordPress database error Table 'ismvgkqjhosting_xpgame.wp_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(page)) AS posts, SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(position) AS position FROM wp_rank_math_analytics_gsc WHERE created BETWEEN '2025-07-23 00:00:00' AND '2025-08-25 23:59:59' made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_dashboard, RankMath\Analytics\Summary->get_analytics_summary, RankMath\Admin\Database\Query_Builder->one, RankMath\Admin\Database\Query_Builder->get_row, RankMath\Admin\Database\Query_Builder->run
+[01-Oct-2025 09:54:34 UTC] WordPress database error Table 'ismvgkqjhosting_xpgame.wp_rank_math_analytics_gsc' doesn't exist for query SELECT MAX(DATE(created)) as date, CASE WHEN created BETWEEN '2025-08-29 00:00:00' AND '2025-09-03 23:59:59' THEN 'range1' WHEN created BETWEEN '2025-09-04 00:00:00' AND '2025-09-09 23:59:59' THEN 'range2' WHEN created BETWEEN '2025-09-10 00:00:00' AND '2025-09-15 23:59:59' THEN 'range3' WHEN created BETWEEN '2025-09-16 00:00:00' AND '2025-09-21 23:59:59' THEN 'range4' WHEN created BETWEEN '2025-09-22 00:00:00' AND '2025-09-28 23:59:59' THEN 'range5' ELSE 'none' END AS 'range_group'
+			FROM wp_rank_math_analytics_gsc
+			WHERE created BETWEEN '2025-08-26 00:00:00' AND '2025-09-28 23:59:59'
+			GROUP BY range_group made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, RankMath\Analytics\Rest->get_keywords_overview, RankMath\Analytics\Keywords->get_top_position_graph, RankMath\Helpers\DB::get_results, RankMath\Admin\Database\Query_Builder->get_results, RankMath\Admin\Database\Query_Builder->run
+[01-Oct-2025 09:55:42 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[01-Oct-2025 10:11:45 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[01-Oct-2025 10:17:40 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[01-Oct-2025 11:06:14 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[01-Oct-2025 11:08:06 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[01-Oct-2025 11:08:06 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[01-Oct-2025 11:58:24 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[01-Oct-2025 12:36:39 UTC] Lỗi lịch sự kiện Cron cho hook: wpseo_indexable_index_batch, Mã lỗi: invalid_schedule, Thông báo lỗi: Lịch cho sự kiện không tồn tại., Dữ liệu: {"schedule":"fifteen_minutes","args":[],"interval":900}
+[01-Oct-2025 12:49:47 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[01-Oct-2025 15:35:48 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[01-Oct-2025 15:35:49 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[01-Oct-2025 15:40:47 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[01-Oct-2025 15:40:51 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[02-Oct-2025 11:49:41 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[02-Oct-2025 14:49:07 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[02-Oct-2025 15:02:49 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[03-Oct-2025 02:43:53 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[03-Oct-2025 02:44:11 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[03-Oct-2025 02:44:23 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[03-Oct-2025 02:45:06 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[03-Oct-2025 02:45:17 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[03-Oct-2025 02:56:53 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[03-Oct-2025 02:56:57 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[03-Oct-2025 02:56:59 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[03-Oct-2025 03:29:47 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[03-Oct-2025 03:30:08 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[03-Oct-2025 03:30:10 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[03-Oct-2025 03:30:15 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[03-Oct-2025 08:08:58 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[03-Oct-2025 08:13:09 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[03-Oct-2025 13:25:17 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[03-Oct-2025 16:18:38 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[03-Oct-2025 16:18:41 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[03-Oct-2025 22:50:24 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[04-Oct-2025 01:07:55 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[04-Oct-2025 01:08:02 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[05-Oct-2025 03:51:02 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[06-Oct-2025 19:34:27 UTC] Lỗi lịch sự kiện Cron cho hook: sby_notification_update, Mã lỗi: invalid_schedule, Thông báo lỗi: Lịch cho sự kiện không tồn tại., Dữ liệu: {"schedule":"sbyweekly","args":[],"interval":604800}
+[07-Oct-2025 06:58:44 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[07-Oct-2025 07:35:57 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[07-Oct-2025 08:37:08 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[07-Oct-2025 09:00:16 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[07-Oct-2025 09:14:01 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[07-Oct-2025 11:44:09 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[07-Oct-2025 15:18:25 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 00:58:58 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 01:04:13 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 01:04:14 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 01:21:32 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 01:21:53 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 01:36:47 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 01:36:48 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 01:37:40 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 01:37:48 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 01:50:20 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 02:00:06 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 02:11:37 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 02:19:05 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 02:19:15 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 03:13:45 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 03:13:48 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 03:22:06 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 05:29:38 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 05:29:38 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 05:29:46 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 05:29:58 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 05:30:06 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 05:30:07 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 05:33:27 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 05:40:22 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 06:16:52 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 07:06:30 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 11:40:44 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 11:40:46 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 11:40:48 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 12:49:53 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 21:04:47 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 21:05:09 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 21:08:24 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 23:40:50 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[08-Oct-2025 23:40:55 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 13:50:17 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 13:55:07 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 13:59:27 UTC] There aren't users with empty `account_status`. Maybe some users were approved manually or deleted.
+[09-Oct-2025 13:59:27 UTC] There aren't users with empty `account_status`. Maybe some users were approved manually or deleted.
+[09-Oct-2025 14:00:29 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 14:00:29 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 14:01:20 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 14:01:21 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 14:03:22 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 14:03:41 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 14:05:08 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 14:06:22 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 14:07:45 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 14:07:53 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 14:07:58 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 14:15:15 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 14:17:10 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 14:18:33 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 14:18:45 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 14:28:08 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 14:28:11 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 14:34:50 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 14:41:56 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 14:41:57 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 15:04:13 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 15:15:22 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 15:47:31 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 15:48:50 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 15:52:56 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 16:02:27 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 16:02:46 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 16:02:47 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 16:03:50 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 16:04:04 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 16:04:11 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 16:06:28 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 16:13:54 UTC] Lỗi lịch sự kiện Cron cho hook: litespeed_task_imgoptm_pull, Mã lỗi: could_not_set, Thông báo lỗi: Không thể lưu danh sách sự kiện cron., Dữ liệu: {"schedule":"litespeed_filter","args":[],"interval":60}
+[09-Oct-2025 16:13:54 UTC] Lỗi lịch sự kiện Cron cho hook: litespeed_task_imgoptm_req, Mã lỗi: could_not_set, Thông báo lỗi: Không thể lưu danh sách sự kiện cron., Dữ liệu: {"schedule":"litespeed_filter","args":[],"interval":60}
+[09-Oct-2025 16:20:37 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Google Models Retrieval - Starting to process 50 models
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: embedding-gecko-001
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-2.5-pro-preview-03-25
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Skipping (date-specific preview MM-DD): gemini-2.5-pro-preview-03-25
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-2.5-flash-preview-05-20
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Skipping (date-specific preview MM-DD): gemini-2.5-flash-preview-05-20
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-2.5-flash
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Including model: gemini-2.5-flash as "Gemini 2.5 Flash"
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-2.5-flash-lite-preview-06-17
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Skipping (date-specific preview MM-DD): gemini-2.5-flash-lite-preview-06-17
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-2.5-pro-preview-05-06
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Skipping (date-specific preview MM-DD): gemini-2.5-pro-preview-05-06
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-2.5-pro-preview-06-05
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Skipping (date-specific preview MM-DD): gemini-2.5-pro-preview-06-05
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-2.5-pro
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Including model: gemini-2.5-pro as "Gemini 2.5 Pro"
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-2.0-flash-exp
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash-exp
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-2.0-flash
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-2.0-flash-001
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash-001
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-2.0-flash-exp-image-generation
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash-exp-image-generation
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-2.0-flash-lite-001
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash-lite-001
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-2.0-flash-lite
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash-lite
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-2.0-flash-preview-image-generation
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash-preview-image-generation
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-2.0-flash-lite-preview-02-05
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Skipping (date-specific preview MM-DD): gemini-2.0-flash-lite-preview-02-05
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-2.0-flash-lite-preview
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash-lite-preview
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-2.0-pro-exp
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-pro-exp
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-2.0-pro-exp-02-05
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Skipping (exp-MM-DD date): gemini-2.0-pro-exp-02-05
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-exp-1206
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Skipping (exp-MMDD date): gemini-exp-1206
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-2.0-flash-thinking-exp-01-21
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Skipping (exp-MM-DD date): gemini-2.0-flash-thinking-exp-01-21
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-2.0-flash-thinking-exp
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash-thinking-exp
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-2.0-flash-thinking-exp-1219
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Skipping (exp-MMDD date): gemini-2.0-flash-thinking-exp-1219
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-2.5-flash-preview-tts
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Skipping (TTS model): gemini-2.5-flash-preview-tts
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-2.5-pro-preview-tts
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Skipping (TTS model): gemini-2.5-pro-preview-tts
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: learnlm-2.0-flash-experimental
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemma-3-1b-it
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemma-3-4b-it
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemma-3-12b-it
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemma-3-27b-it
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemma-3n-e4b-it
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemma-3n-e2b-it
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-flash-latest
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Including model: gemini-flash-latest as "Gemini Flash (Latest)"
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-flash-lite-latest
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Including model: gemini-flash-lite-latest as "Gemini Flash-Lite (Latest)"
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-pro-latest
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Including model: gemini-pro-latest as "Gemini Pro (Latest)"
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-2.5-flash-lite
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Including model: gemini-2.5-flash-lite as "Gemini 2.5 Flash-Lite"
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-2.5-flash-image-preview
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Including model: gemini-2.5-flash-image-preview as "Gemini 2.5 Flash Image"
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-2.5-flash-image
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Including model: gemini-2.5-flash-image as "Gemini 2.5 Flash Image"
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-2.5-flash-preview-09-2025
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Skipping (date-specific preview YYYY): gemini-2.5-flash-preview-09-2025
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-2.5-flash-lite-preview-09-2025
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Skipping (date-specific preview YYYY): gemini-2.5-flash-lite-preview-09-2025
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-robotics-er-1.5-preview
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Skipping (robotics): gemini-robotics-er-1.5-preview
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-2.5-computer-use-preview-10-2025
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Skipping (date-specific preview YYYY): gemini-2.5-computer-use-preview-10-2025
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: embedding-001
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: text-embedding-004
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-embedding-exp-03-07
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Skipping (exp-MM-DD date): gemini-embedding-exp-03-07
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-embedding-exp
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Including model: gemini-embedding-exp as "Gemini Embedding"
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: gemini-embedding-001
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Including model: gemini-embedding-001 as "Gemini Embedding"
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: aqa
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: imagen-3.0-generate-002
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Including model: imagen-3.0-generate-002 as "Imagen 3.0 (v2)"
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Processing model: imagen-4.0-generate-preview-06-06
+[09-Oct-2025 16:49:31 UTC] [AI Engine]   -> Skipping (date-specific preview MM-DD): imagen-4.0-generate-preview-06-06
+[09-Oct-2025 16:49:31 UTC] [AI Engine] Google Models Retrieval - Finished. Total models included: 11
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Google Models Retrieval - Starting to process 50 models
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: embedding-gecko-001
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-2.5-pro-preview-03-25
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Skipping (date-specific preview MM-DD): gemini-2.5-pro-preview-03-25
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-2.5-flash-preview-05-20
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Skipping (date-specific preview MM-DD): gemini-2.5-flash-preview-05-20
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-2.5-flash
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Including model: gemini-2.5-flash as "Gemini 2.5 Flash"
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-2.5-flash-lite-preview-06-17
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Skipping (date-specific preview MM-DD): gemini-2.5-flash-lite-preview-06-17
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-2.5-pro-preview-05-06
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Skipping (date-specific preview MM-DD): gemini-2.5-pro-preview-05-06
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-2.5-pro-preview-06-05
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Skipping (date-specific preview MM-DD): gemini-2.5-pro-preview-06-05
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-2.5-pro
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Including model: gemini-2.5-pro as "Gemini 2.5 Pro"
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-2.0-flash-exp
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash-exp
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-2.0-flash
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-2.0-flash-001
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash-001
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-2.0-flash-exp-image-generation
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash-exp-image-generation
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-2.0-flash-lite-001
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash-lite-001
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-2.0-flash-lite
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash-lite
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-2.0-flash-preview-image-generation
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash-preview-image-generation
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-2.0-flash-lite-preview-02-05
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Skipping (date-specific preview MM-DD): gemini-2.0-flash-lite-preview-02-05
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-2.0-flash-lite-preview
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash-lite-preview
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-2.0-pro-exp
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-pro-exp
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-2.0-pro-exp-02-05
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Skipping (exp-MM-DD date): gemini-2.0-pro-exp-02-05
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-exp-1206
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Skipping (exp-MMDD date): gemini-exp-1206
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-2.0-flash-thinking-exp-01-21
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Skipping (exp-MM-DD date): gemini-2.0-flash-thinking-exp-01-21
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-2.0-flash-thinking-exp
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash-thinking-exp
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-2.0-flash-thinking-exp-1219
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Skipping (exp-MMDD date): gemini-2.0-flash-thinking-exp-1219
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-2.5-flash-preview-tts
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Skipping (TTS model): gemini-2.5-flash-preview-tts
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-2.5-pro-preview-tts
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Skipping (TTS model): gemini-2.5-pro-preview-tts
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: learnlm-2.0-flash-experimental
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemma-3-1b-it
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemma-3-4b-it
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemma-3-12b-it
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemma-3-27b-it
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemma-3n-e4b-it
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemma-3n-e2b-it
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-flash-latest
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Including model: gemini-flash-latest as "Gemini Flash (Latest)"
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-flash-lite-latest
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Including model: gemini-flash-lite-latest as "Gemini Flash-Lite (Latest)"
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-pro-latest
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Including model: gemini-pro-latest as "Gemini Pro (Latest)"
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-2.5-flash-lite
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Including model: gemini-2.5-flash-lite as "Gemini 2.5 Flash-Lite"
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-2.5-flash-image-preview
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Including model: gemini-2.5-flash-image-preview as "Gemini 2.5 Flash Image"
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-2.5-flash-image
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Including model: gemini-2.5-flash-image as "Gemini 2.5 Flash Image"
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-2.5-flash-preview-09-2025
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Skipping (date-specific preview YYYY): gemini-2.5-flash-preview-09-2025
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-2.5-flash-lite-preview-09-2025
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Skipping (date-specific preview YYYY): gemini-2.5-flash-lite-preview-09-2025
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-robotics-er-1.5-preview
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Skipping (robotics): gemini-robotics-er-1.5-preview
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-2.5-computer-use-preview-10-2025
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Skipping (date-specific preview YYYY): gemini-2.5-computer-use-preview-10-2025
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: embedding-001
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: text-embedding-004
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-embedding-exp-03-07
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Skipping (exp-MM-DD date): gemini-embedding-exp-03-07
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-embedding-exp
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Including model: gemini-embedding-exp as "Gemini Embedding"
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: gemini-embedding-001
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Including model: gemini-embedding-001 as "Gemini Embedding"
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: aqa
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: imagen-3.0-generate-002
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Including model: imagen-3.0-generate-002 as "Imagen 3.0 (v2)"
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Processing model: imagen-4.0-generate-preview-06-06
+[09-Oct-2025 16:49:34 UTC] [AI Engine]   -> Skipping (date-specific preview MM-DD): imagen-4.0-generate-preview-06-06
+[09-Oct-2025 16:49:34 UTC] [AI Engine] Google Models Retrieval - Finished. Total models included: 11
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Google Models Retrieval - Starting to process 50 models
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: embedding-gecko-001
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-2.5-pro-preview-03-25
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Skipping (date-specific preview MM-DD): gemini-2.5-pro-preview-03-25
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-2.5-flash-preview-05-20
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Skipping (date-specific preview MM-DD): gemini-2.5-flash-preview-05-20
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-2.5-flash
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Including model: gemini-2.5-flash as "Gemini 2.5 Flash"
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-2.5-flash-lite-preview-06-17
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Skipping (date-specific preview MM-DD): gemini-2.5-flash-lite-preview-06-17
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-2.5-pro-preview-05-06
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Skipping (date-specific preview MM-DD): gemini-2.5-pro-preview-05-06
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-2.5-pro-preview-06-05
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Skipping (date-specific preview MM-DD): gemini-2.5-pro-preview-06-05
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-2.5-pro
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Including model: gemini-2.5-pro as "Gemini 2.5 Pro"
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-2.0-flash-exp
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash-exp
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-2.0-flash
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-2.0-flash-001
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash-001
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-2.0-flash-exp-image-generation
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash-exp-image-generation
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-2.0-flash-lite-001
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash-lite-001
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-2.0-flash-lite
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash-lite
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-2.0-flash-preview-image-generation
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash-preview-image-generation
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-2.0-flash-lite-preview-02-05
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Skipping (date-specific preview MM-DD): gemini-2.0-flash-lite-preview-02-05
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-2.0-flash-lite-preview
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash-lite-preview
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-2.0-pro-exp
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-pro-exp
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-2.0-pro-exp-02-05
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Skipping (exp-MM-DD date): gemini-2.0-pro-exp-02-05
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-exp-1206
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Skipping (exp-MMDD date): gemini-exp-1206
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-2.0-flash-thinking-exp-01-21
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Skipping (exp-MM-DD date): gemini-2.0-flash-thinking-exp-01-21
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-2.0-flash-thinking-exp
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash-thinking-exp
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-2.0-flash-thinking-exp-1219
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Skipping (exp-MMDD date): gemini-2.0-flash-thinking-exp-1219
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-2.5-flash-preview-tts
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Skipping (TTS model): gemini-2.5-flash-preview-tts
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-2.5-pro-preview-tts
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Skipping (TTS model): gemini-2.5-pro-preview-tts
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: learnlm-2.0-flash-experimental
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemma-3-1b-it
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemma-3-4b-it
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemma-3-12b-it
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemma-3-27b-it
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemma-3n-e4b-it
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemma-3n-e2b-it
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-flash-latest
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Including model: gemini-flash-latest as "Gemini Flash (Latest)"
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-flash-lite-latest
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Including model: gemini-flash-lite-latest as "Gemini Flash-Lite (Latest)"
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-pro-latest
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Including model: gemini-pro-latest as "Gemini Pro (Latest)"
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-2.5-flash-lite
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Including model: gemini-2.5-flash-lite as "Gemini 2.5 Flash-Lite"
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-2.5-flash-image-preview
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Including model: gemini-2.5-flash-image-preview as "Gemini 2.5 Flash Image"
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-2.5-flash-image
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Including model: gemini-2.5-flash-image as "Gemini 2.5 Flash Image"
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-2.5-flash-preview-09-2025
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Skipping (date-specific preview YYYY): gemini-2.5-flash-preview-09-2025
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-2.5-flash-lite-preview-09-2025
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Skipping (date-specific preview YYYY): gemini-2.5-flash-lite-preview-09-2025
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-robotics-er-1.5-preview
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Skipping (robotics): gemini-robotics-er-1.5-preview
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-2.5-computer-use-preview-10-2025
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Skipping (date-specific preview YYYY): gemini-2.5-computer-use-preview-10-2025
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: embedding-001
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: text-embedding-004
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-embedding-exp-03-07
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Skipping (exp-MM-DD date): gemini-embedding-exp-03-07
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-embedding-exp
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Including model: gemini-embedding-exp as "Gemini Embedding"
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: gemini-embedding-001
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Including model: gemini-embedding-001 as "Gemini Embedding"
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: aqa
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: imagen-3.0-generate-002
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Including model: imagen-3.0-generate-002 as "Imagen 3.0 (v2)"
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Processing model: imagen-4.0-generate-preview-06-06
+[09-Oct-2025 16:50:04 UTC] [AI Engine]   -> Skipping (date-specific preview MM-DD): imagen-4.0-generate-preview-06-06
+[09-Oct-2025 16:50:04 UTC] [AI Engine] Google Models Retrieval - Finished. Total models included: 11
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Google Models Retrieval - Starting to process 50 models
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: embedding-gecko-001
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-2.5-pro-preview-03-25
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Skipping (date-specific preview MM-DD): gemini-2.5-pro-preview-03-25
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-2.5-flash-preview-05-20
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Skipping (date-specific preview MM-DD): gemini-2.5-flash-preview-05-20
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-2.5-flash
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Including model: gemini-2.5-flash as "Gemini 2.5 Flash"
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-2.5-flash-lite-preview-06-17
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Skipping (date-specific preview MM-DD): gemini-2.5-flash-lite-preview-06-17
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-2.5-pro-preview-05-06
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Skipping (date-specific preview MM-DD): gemini-2.5-pro-preview-05-06
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-2.5-pro-preview-06-05
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Skipping (date-specific preview MM-DD): gemini-2.5-pro-preview-06-05
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-2.5-pro
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Including model: gemini-2.5-pro as "Gemini 2.5 Pro"
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-2.0-flash-exp
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash-exp
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-2.0-flash
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-2.0-flash-001
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash-001
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-2.0-flash-exp-image-generation
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash-exp-image-generation
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-2.0-flash-lite-001
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash-lite-001
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-2.0-flash-lite
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash-lite
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-2.0-flash-preview-image-generation
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash-preview-image-generation
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-2.0-flash-lite-preview-02-05
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Skipping (date-specific preview MM-DD): gemini-2.0-flash-lite-preview-02-05
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-2.0-flash-lite-preview
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash-lite-preview
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-2.0-pro-exp
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-pro-exp
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-2.0-pro-exp-02-05
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Skipping (exp-MM-DD date): gemini-2.0-pro-exp-02-05
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-exp-1206
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Skipping (exp-MMDD date): gemini-exp-1206
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-2.0-flash-thinking-exp-01-21
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Skipping (exp-MM-DD date): gemini-2.0-flash-thinking-exp-01-21
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-2.0-flash-thinking-exp
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Skipping (deprecated Gemini 2.0): gemini-2.0-flash-thinking-exp
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-2.0-flash-thinking-exp-1219
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Skipping (exp-MMDD date): gemini-2.0-flash-thinking-exp-1219
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-2.5-flash-preview-tts
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Skipping (TTS model): gemini-2.5-flash-preview-tts
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-2.5-pro-preview-tts
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Skipping (TTS model): gemini-2.5-pro-preview-tts
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: learnlm-2.0-flash-experimental
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemma-3-1b-it
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemma-3-4b-it
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemma-3-12b-it
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemma-3-27b-it
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemma-3n-e4b-it
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemma-3n-e2b-it
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-flash-latest
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Including model: gemini-flash-latest as "Gemini Flash (Latest)"
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-flash-lite-latest
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Including model: gemini-flash-lite-latest as "Gemini Flash-Lite (Latest)"
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-pro-latest
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Including model: gemini-pro-latest as "Gemini Pro (Latest)"
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-2.5-flash-lite
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Including model: gemini-2.5-flash-lite as "Gemini 2.5 Flash-Lite"
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-2.5-flash-image-preview
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Including model: gemini-2.5-flash-image-preview as "Gemini 2.5 Flash Image"
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-2.5-flash-image
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Including model: gemini-2.5-flash-image as "Gemini 2.5 Flash Image"
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-2.5-flash-preview-09-2025
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Skipping (date-specific preview YYYY): gemini-2.5-flash-preview-09-2025
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-2.5-flash-lite-preview-09-2025
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Skipping (date-specific preview YYYY): gemini-2.5-flash-lite-preview-09-2025
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-robotics-er-1.5-preview
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Skipping (robotics): gemini-robotics-er-1.5-preview
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-2.5-computer-use-preview-10-2025
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Skipping (date-specific preview YYYY): gemini-2.5-computer-use-preview-10-2025
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: embedding-001
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: text-embedding-004
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-embedding-exp-03-07
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Skipping (exp-MM-DD date): gemini-embedding-exp-03-07
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-embedding-exp
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Including model: gemini-embedding-exp as "Gemini Embedding"
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: gemini-embedding-001
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Including model: gemini-embedding-001 as "Gemini Embedding"
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: aqa
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: imagen-3.0-generate-002
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Including model: imagen-3.0-generate-002 as "Imagen 3.0 (v2)"
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Processing model: imagen-4.0-generate-preview-06-06
+[09-Oct-2025 16:51:30 UTC] [AI Engine]   -> Skipping (date-specific preview MM-DD): imagen-4.0-generate-preview-06-06
+[09-Oct-2025 16:51:30 UTC] [AI Engine] Google Models Retrieval - Finished. Total models included: 11
+[09-Oct-2025 16:52:05 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 16:59:48 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 17:13:10 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 17:14:56 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[09-Oct-2025 23:39:15 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[10-Oct-2025 02:07:43 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[10-Oct-2025 02:09:59 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[10-Oct-2025 02:35:50 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[10-Oct-2025 02:35:57 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[10-Oct-2025 03:10:47 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[10-Oct-2025 03:12:26 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[10-Oct-2025 04:21:00 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[10-Oct-2025 04:27:43 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[10-Oct-2025 04:27:46 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[10-Oct-2025 04:30:01 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[10-Oct-2025 07:46:25 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[10-Oct-2025 08:25:39 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[10-Oct-2025 10:01:07 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[10-Oct-2025 10:03:23 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[10-Oct-2025 10:07:06 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[10-Oct-2025 10:07:29 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[10-Oct-2025 10:19:58 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[10-Oct-2025 10:22:12 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[10-Oct-2025 10:23:44 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[10-Oct-2025 10:28:05 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[10-Oct-2025 10:29:18 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_name, option_value FROM wp_options WHERE option_name IN ('_transient_jetpack_update_remote_package_last_query','_transient_timeout_jetpack_update_remote_package_last_query') made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\Jetpack\Connection\Package_Version_Tracker->maybe_update_package_versions, Automattic\Jetpack\Connection\Package_Version_Tracker->is_rate_limiting, get_transient, wp_prime_option_caches
+[10-Oct-2025 10:29:18 UTC] WordPress database error Commands out of sync; you can't run this command now for query INSERT INTO `wp_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_timeout_jetpack_update_remote_package_last_query', '1760092218', 'off') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`) made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\Jetpack\Connection\Package_Version_Tracker->maybe_update_package_versions, Automattic\Jetpack\Connection\Package_Version_Tracker->is_rate_limiting, set_transient, add_option
+[10-Oct-2025 10:29:18 UTC] WordPress database error Commands out of sync; you can't run this command now for query INSERT INTO `wp_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_jetpack_update_remote_package_last_query', '1760092158', 'off') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`) made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\Jetpack\Connection\Package_Version_Tracker->maybe_update_package_versions, Automattic\Jetpack\Connection\Package_Version_Tracker->is_rate_limiting, set_transient, add_option
+[10-Oct-2025 10:29:18 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM wp_options WHERE option_name = 'jpsq_sync_checkout' made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\Jetpack\Sync\Sender->do_sync, Automattic\Jetpack\Sync\Dedicated_Sender::spawn_sync, Automattic\Jetpack\Sync\Queue->is_locked, Automattic\Jetpack\Sync\Queue->get_checkout_id
+[10-Oct-2025 10:29:18 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT COUNT(*) FROM wp_jetpack_sync_queue WHERE queue_id = 'sync' made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\Jetpack\Sync\Sender->do_sync, Automattic\Jetpack\Sync\Dedicated_Sender::spawn_sync, Automattic\Jetpack\Sync\Queue->size, Automattic\Jetpack\Sync\Queue\Queue_Storage_Table->get_item_count
+[10-Oct-2025 10:29:18 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM wp_options WHERE option_name = 'jetpack_sync_full_status' LIMIT 1 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\Jetpack\Sync\Sender->do_full_sync, Automattic\Jetpack\Sync\Modules\Full_Sync_Immediately->get_status, Jetpack_Options::get_raw_option
+[10-Oct-2025 10:29:39 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[10-Oct-2025 10:29:58 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[10-Oct-2025 10:32:42 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[10-Oct-2025 13:10:31 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[10-Oct-2025 13:11:08 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[10-Oct-2025 13:14:58 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[10-Oct-2025 14:06:13 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[10-Oct-2025 14:11:10 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[11-Oct-2025 00:59:49 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[11-Oct-2025 00:59:59 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[11-Oct-2025 13:52:18 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[11-Oct-2025 14:08:37 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[11-Oct-2025 14:12:03 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[11-Oct-2025 14:12:57 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[11-Oct-2025 14:20:07 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[11-Oct-2025 14:29:59 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[11-Oct-2025 14:30:04 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[11-Oct-2025 14:30:04 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[11-Oct-2025 14:38:59 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[11-Oct-2025 16:02:57 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[11-Oct-2025 16:07:27 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[12-Oct-2025 04:07:32 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[12-Oct-2025 08:56:16 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[12-Oct-2025 08:57:18 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[12-Oct-2025 08:57:21 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[12-Oct-2025 08:57:27 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[14-Oct-2025 06:44:50 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[14-Oct-2025 15:30:56 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[14-Oct-2025 15:31:26 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[14-Oct-2025 16:12:32 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[15-Oct-2025 00:50:18 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[15-Oct-2025 00:58:32 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[15-Oct-2025 00:59:12 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[15-Oct-2025 03:43:42 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[15-Oct-2025 14:02:20 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[16-Oct-2025 08:37:23 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[16-Oct-2025 16:47:24 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[17-Oct-2025 07:54:15 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[18-Oct-2025 01:53:18 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[18-Oct-2025 11:55:12 UTC] Lỗi lịch sự kiện Cron cho hook: wpo_smush_clear_failed_tasks, Mã lỗi: invalid_schedule, Thông báo lỗi: Lịch cho sự kiện không tồn tại., Dữ liệu: {"schedule":"wpo_monthly","args":[],"interval":2592000}
+[18-Oct-2025 15:25:53 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[18-Oct-2025 18:50:06 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[19-Oct-2025 01:05:32 UTC] WP-Optimize: No caching took place, because the plugin location could not be found
+[19-Oct-2025 04:23:36 UTC] WP-Optimize: No caching took place, because the plugin location could not be found

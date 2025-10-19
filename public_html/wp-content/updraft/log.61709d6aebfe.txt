@@ -1,0 +1,7 @@
+0000.000 (0) Opened log file at time: Tue, 30 Sep 2025 14:30:02 +0000 on https://xpgame.id.vn
+0000.018 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.7 WP: 6.8.2 PHP: 8.1.30 (litespeed, Linux onehost-webhn072403.000nethost.com 4.18.0-553.5.1.lve.1.el8.x86_64 #1 SMP Fri Jun 14 15:38:45 UTC 2024 x86_64) MySQL: 10.6.19-MariaDB-cll-lve-log (max packet size=268435456) WPLANG: vi Server: LiteSpeed safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 50.5M | 52M) multisite: N openssl: OpenSSL 1.1.1w  11 Sep 2023 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: Y
+0000.019 (0) Free space on disk containing Updraft's temporary directory: 2363133.7 MB
+0000.050 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.052 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.054 (0) Semaphore lock (fd, wp_options) failed (line 43)
+0000.054 (0) Failed to gain semaphore lock (fd) - another backup of this type is apparently already active - aborting (if this is wrong - i.e. if the other backup crashed without removing the lock, then another can be started after 3 minutes)

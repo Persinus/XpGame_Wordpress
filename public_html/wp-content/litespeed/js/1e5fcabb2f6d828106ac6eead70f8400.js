@@ -1,0 +1,2 @@
+(function($){$(document).ready(function(){$("#spnc-missedcarousel").owlCarousel({navigation:!0,autoplay:!0,autoplayTimeout:1500,autoplayHoverPause:!0,smartSpeed:1300,loop:newscrunch_missed_settings.loop,nav:!0,margin:23,autoHeight:!0,responsiveClass:!0,dots:!1,navText:["<i class='fa-solid fa-angle-left'></i>","<i class='fa-solid fa-angle-right'></i>"],responsive:{200:{items:1},480:{items:1},768:{items:3},1000:{items:4}}})})})(jQuery)
+;

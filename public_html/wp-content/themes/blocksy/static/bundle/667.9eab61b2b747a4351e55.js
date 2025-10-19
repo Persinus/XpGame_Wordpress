@@ -1,0 +1,1 @@
+"use strict";(globalThis.blocksyJsonP=globalThis.blocksyJsonP||[]).push([[667],{8667:function(n,o,s){s.r(o),s.d(o,{mount:function(){return c}});var i=s(2194),t=s.n(i);const c=function(){window._wapf&&window._wapf(t())}}}]);

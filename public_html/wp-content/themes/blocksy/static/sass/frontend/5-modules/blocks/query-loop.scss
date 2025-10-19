@@ -1,0 +1,5 @@
+.ct-query-template-grid {
+	display: grid;
+	gap: var(--grid-columns-gap, 30px);
+	grid-template-columns: repeat(var(--grid-columns-width), minmax(0, 1fr));
+}

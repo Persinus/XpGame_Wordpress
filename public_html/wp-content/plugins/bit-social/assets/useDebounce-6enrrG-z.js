@@ -1,0 +1,1 @@
+import{r as c}from"./main-loud-buses-flash.js";globalThis.jotaiAtomCache=globalThis.jotaiAtomCache||{cache:new Map,get(e,t){return this.cache.has(e)?this.cache.get(e):(this.cache.set(e,t),t)}};function u(e,t){const[o,r]=c.useState(e);return c.useEffect(()=>{const s=setTimeout(()=>r(e),t||500);return()=>{clearTimeout(s)}},[e,t]),o}export{u};

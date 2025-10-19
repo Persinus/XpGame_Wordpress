@@ -1,0 +1,104 @@
+0000.001 (0) Opened log file at time: Mon, 15 Sep 2025 20:28:16 +0000 on http://localhost/CNTT-LHU
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.7 WP: 6.8.2 PHP: 8.2.12 (apache2handler, Windows NT DESKTOP-16RTLLC 10.0 build 26100 (Windows 11) AMD64) MySQL: 10.4.32-MariaDB (max packet size=1048576) WPLANG: vi Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 72.3M | 74M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: N
+0000.004 (0) Free space on disk containing Updraft's temporary directory: 36528.9 MB
+0000.071 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.076 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.078 (0) Semaphore (fd, wp_options) was stuck, set lock time to 2025-09-15 20:28:16
+0000.080 (0) Semaphore (fd, wp_options) reset to 1
+0000.081 (0) Set semaphore last lock (fd) time to 2025-09-15 20:28:16
+0000.082 (0) Semaphore lock (fd) complete
+0000.086 (0) Backup run: resumption=0, nonce=2afd2ecc79d7, file_nonce=2afd2ecc79d7 begun at=1757968096 (0s ago), job type=backup
+0000.088 (0) Scheduling a resumption (1) after 300 seconds (1757968396) in case this run gets aborted
+0000.100 (0) Checking if we have a zip executable available
+0000.103 (0) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+0000.105 (0) Creation of backups of directories: beginning
+0000.110 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0003.352 (0) Total entities for the zip file: 1766 directories, 7741 files (0 skipped as non-modified), 152.5 MB
+0003.357 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 156138.2 KB, split: 409600 KB)
+0003.404 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0003.441 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0003.477 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0003.513 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0003.555 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0003.597 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0003.635 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0003.673 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0003.711 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0003.748 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0003.785 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 1100 files added (on-disk size: 0 KB)
+0003.822 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 1200 files added (on-disk size: 0 KB)
+0003.859 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 1300 files added (on-disk size: 0 KB)
+0003.896 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 1400 files added (on-disk size: 0 KB)
+0003.931 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 1500 files added (on-disk size: 0 KB)
+0003.968 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 1600 files added (on-disk size: 0 KB)
+0004.004 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 1700 files added (on-disk size: 0 KB)
+0004.042 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 1800 files added (on-disk size: 0 KB)
+0004.079 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 1900 files added (on-disk size: 0 KB)
+0004.116 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 2000 files added (on-disk size: 0 KB)
+0004.153 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 2100 files added (on-disk size: 0 KB)
+0004.192 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 2200 files added (on-disk size: 0 KB)
+0004.235 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 2300 files added (on-disk size: 0 KB)
+0004.275 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 2400 files added (on-disk size: 0 KB)
+0004.315 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 2500 files added (on-disk size: 0 KB)
+0004.356 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 2600 files added (on-disk size: 0 KB)
+0004.396 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 2700 files added (on-disk size: 0 KB)
+0004.432 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 2800 files added (on-disk size: 0 KB)
+0004.469 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 2900 files added (on-disk size: 0 KB)
+0004.506 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 3000 files added (on-disk size: 0 KB)
+0004.544 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 3100 files added (on-disk size: 0 KB)
+0004.581 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 3200 files added (on-disk size: 0 KB)
+0004.617 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 3300 files added (on-disk size: 0 KB)
+0004.655 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 3400 files added (on-disk size: 0 KB)
+0004.699 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 3500 files added (on-disk size: 0 KB)
+0004.739 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 3600 files added (on-disk size: 0 KB)
+0004.777 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 3700 files added (on-disk size: 0 KB)
+0004.815 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 3800 files added (on-disk size: 0 KB)
+0004.852 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 3900 files added (on-disk size: 0 KB)
+0004.893 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 4000 files added (on-disk size: 0 KB)
+0004.933 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 4100 files added (on-disk size: 0 KB)
+0004.972 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 4200 files added (on-disk size: 0 KB)
+0005.012 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 4300 files added (on-disk size: 0 KB)
+0005.052 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 4400 files added (on-disk size: 0 KB)
+0005.091 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 4500 files added (on-disk size: 0 KB)
+0005.132 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 4600 files added (on-disk size: 0 KB)
+0005.175 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 4700 files added (on-disk size: 0 KB)
+0005.217 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 4800 files added (on-disk size: 0 KB)
+0005.259 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 4900 files added (on-disk size: 0 KB)
+0005.301 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 5000 files added (on-disk size: 0 KB)
+0005.343 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 5100 files added (on-disk size: 0 KB)
+0005.389 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 5200 files added (on-disk size: 0 KB)
+0005.431 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 5300 files added (on-disk size: 0 KB)
+0005.473 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 5400 files added (on-disk size: 0 KB)
+0005.516 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 5500 files added (on-disk size: 0 KB)
+0005.558 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 5600 files added (on-disk size: 0 KB)
+0005.600 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 5700 files added (on-disk size: 0 KB)
+0005.643 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 5800 files added (on-disk size: 0 KB)
+0005.687 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 5900 files added (on-disk size: 0 KB)
+0005.731 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 6000 files added (on-disk size: 0 KB)
+0005.775 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 6100 files added (on-disk size: 0 KB)
+0005.825 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 6200 files added (on-disk size: 0 KB)
+0005.866 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 6300 files added (on-disk size: 0 KB)
+0005.909 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 6400 files added (on-disk size: 0 KB)
+0005.950 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 6500 files added (on-disk size: 0 KB)
+0005.992 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 6600 files added (on-disk size: 0 KB)
+0006.033 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 6700 files added (on-disk size: 0 KB)
+0006.078 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 6800 files added (on-disk size: 0 KB)
+0006.121 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 6900 files added (on-disk size: 0 KB)
+0006.172 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 7000 files added (on-disk size: 0 KB)
+0006.224 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 7100 files added (on-disk size: 0 KB)
+0006.266 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 7200 files added (on-disk size: 0 KB)
+0006.306 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 7300 files added (on-disk size: 0 KB)
+0006.351 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 7400 files added (on-disk size: 0 KB)
+0006.390 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 7500 files added (on-disk size: 0 KB)
+0006.430 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 7600 files added (on-disk size: 0 KB)
+0006.470 (0) Zip: backup_2025-09-15-2028_localhost_CNTTLHU_2afd2ecc79d7-plugins.zip.tmp: 7700 files added (on-disk size: 0 KB)
+0345.605 (0) The time we have been running (345.6) is approaching the resumption interval (300) - increasing resumption interval to 376
+0345.609 (0) User request for abort: backup job will be immediately halted
+0345.610 (0) Decremented the semaphore (fd) by 1
+0345.612 (0) Semaphore (fd, wp_options) still locked (0)
+0345.613 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0345.617 (0) Fetching RSS news feed
+0346.369 (0) Fetched RSS news feed; result is a: SimplePie\SimplePie
+0346.392 (0) Sending email ('Các sao lưu đã bị hủy bỏ bởi người sử dụng') report (attachments: 0, size: 0 KB) to: procn...
+0346.402 (0) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Địa chỉ không hợp lệ:  (From): wordpress@localhost
+0346.404 (0) Các sao lưu đã bị hủy bỏ bởi người sử dụng

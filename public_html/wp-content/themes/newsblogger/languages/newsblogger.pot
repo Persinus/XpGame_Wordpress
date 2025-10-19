@@ -1,0 +1,633 @@
+# Copyright (C) 2024 spicethemes
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: NewsBlogger 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/newsblogger-wordpress-theme\n"
+"POT-Creation-Date: 2025-02-11 18:41+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Domain: newsblogger\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/inc/class-spicethemes-about-page.php:69
+msgid "Installing"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:70
+msgid "Activating"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:71
+msgid "Error"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:106
+msgid "View Theme Info"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:115
+#, php-format
+msgid "About %1$s %2$s"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:117
+#, php-format
+msgid "Welcome to %1$s %2$s"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:134
+#, php-format
+msgid "%1$s theme is installed. To take full advantage of the features this theme has to offer visit our %2$swelcome page%3$s"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:137
+#, php-format
+msgid "Get started with %s theme"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:344
+msgid "Install"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:344
+msgid "now"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:346
+msgid "Install and activate"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:364
+msgid "Activate"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:368
+msgid "Activate Import Plugin"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:375
+#, php-format
+msgid "Activate %s now"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:384
+msgid "Active"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:529
+msgid "To display the contact form, install & activate this plugin."
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:534
+msgid "To enable the display of breadcrumbs, please install and activate this plugin."
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:539
+msgid "To add a different banner image for a different page or post, install & activate this plugin."
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:544
+msgid "To display the posts in a beautiful slider with multiple options, install & activate this plugin."
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:549
+msgid "To add the social share buttons to your posts, install & activate this plugin."
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:554
+msgid "We highly recommend installing and activating the Seo Optimized Images plugin, which will dynamically insert SEO-friendly alt attributes and title attributes to enhance your image optimization."
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:559
+msgid "We highly recommend installing and activating the WooCommerce plugin, which allows you to create a shop and enhance your business."
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:13
+#, php-format
+msgid "%s Theme Configuration"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:22
+#: admin/tab-pages/getting-started.php:28
+msgid "Import Image"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:26 functions.php:164
+msgid "Install Plugin"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:29
+msgid "Need to install & activate the \"Spice Starter Sites\" plugin to import the demo."
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:38
+msgid "Customize Image"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:47
+msgid "Theme Features"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:52
+msgid "Site Logo"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:56
+msgid "Site Layout"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:60
+msgid "Header Section"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:64
+msgid "Sidebar Layout"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:68
+msgid "Social Icons"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:72
+msgid "Footer Widgets"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:76
+msgid "Menus"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:80
+msgid "Widgets"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:88
+msgid "Useful Links"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:93
+msgid "Theme Detail"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:97
+msgid "Theme Demos"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:101 functions.php:158
+msgid "Help Docs"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:101
+msgid "Documentation"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:105
+msgid "Support"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:109
+msgid "Valuable Feedback"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:109
+msgid "Your feedback is valuable to us"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:113
+msgid "Free or Pro Comparison"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:113
+msgid "Free vs Pro"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:117 functions.php:239
+msgid "Changelog"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:121
+msgid "Premium Demo"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:121
+msgid "Premium Version"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:125
+msgid "Pre-sales Enquiry"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:125
+msgid "Pre-sales enquiry"
+msgstr ""
+
+#: admin/tab-pages/unlock-premium-feature.php:11
+msgid "Here’s what you get with NewsBlogger Premium"
+msgstr ""
+
+#: admin/tab-pages/unlock-premium-feature.php:15
+msgid "Premium Starter Sites"
+msgstr ""
+
+#: admin/tab-pages/unlock-premium-feature.php:18
+msgid "Access exclusive NewsBlogger starter sites that are crafted for various niches and styles."
+msgstr ""
+
+#: admin/tab-pages/unlock-premium-feature.php:21
+msgid "Premium starter sites for Newscrunch are also available, offering you a broader selection of templates to choose from. Note"
+msgstr ""
+
+#: admin/tab-pages/unlock-premium-feature.php:21
+msgid "To access premium starter sites offered by Newscrunch, you need to deactivate the NewsBlogger theme and activate the Newscrunch theme."
+msgstr ""
+
+#: admin/tab-pages/unlock-premium-feature.php:26
+msgid "Advanced Customization Options"
+msgstr ""
+
+#: admin/tab-pages/unlock-premium-feature.php:29
+msgid "Unlock advanced customization settings to fine-tune the appearance and functionality of your site."
+msgstr ""
+
+#: admin/tab-pages/unlock-premium-feature.php:34
+msgid "Enhanced Performance Features"
+msgstr ""
+
+#: admin/tab-pages/unlock-premium-feature.php:37
+msgid "Benefit from performance optimizations to ensure your site runs smoothly and efficiently."
+msgstr ""
+
+#: admin/tab-pages/unlock-premium-feature.php:42
+msgid "Priority Support"
+msgstr ""
+
+#: admin/tab-pages/unlock-premium-feature.php:45
+msgid "Receive dedicated support from our team to help you with any questions or issues."
+msgstr ""
+
+#: admin/tab-pages/unlock-premium-feature.php:50
+msgid "Regular Updates"
+msgstr ""
+
+#: admin/tab-pages/unlock-premium-feature.php:53
+msgid "Stay up-to-date with the latest features and improvements with regular updates to Newscrunch Plus."
+msgstr ""
+
+#: admin/tab-pages/unlock-premium-feature.php:58
+#: admin/tab-pages/video-tutorials.php:14
+msgid "Get Started"
+msgstr ""
+
+#: admin/tab-pages/unlock-premium-feature.php:61
+msgid "Purchase NewsBlogger Premium functionality coded in Newscrunch Plus plugin"
+msgstr ""
+
+#: admin/tab-pages/unlock-premium-feature.php:64
+msgid "Visit our pricing page to choose the plan that suits you best."
+msgstr ""
+
+#: admin/tab-pages/unlock-premium-feature.php:69
+msgid "Install and Activate Newscrunch Plus"
+msgstr ""
+
+#: admin/tab-pages/unlock-premium-feature.php:72
+msgid "Download and install the Newscrunch Plus plugin if you haven’t already."
+msgstr ""
+
+#: admin/tab-pages/unlock-premium-feature.php:75
+msgid "Enter your premium license key to activate all the premium features."
+msgstr ""
+
+#: admin/tab-pages/unlock-premium-feature.php:80
+msgid "Access Premium Starter Sites"
+msgstr ""
+
+#: admin/tab-pages/unlock-premium-feature.php:83
+msgid "Navigate to the starter sites section in your WordPress dashboard."
+msgstr ""
+
+#: admin/tab-pages/unlock-premium-feature.php:86
+msgid "To access premium starter sites offered by Newscrunch, deactivate the NewsBlogger theme and activate the Newscrunch theme."
+msgstr ""
+
+#: admin/tab-pages/unlock-premium-feature.php:89
+msgid "Explore and import the premium starter sites available under both NewsBlogger and Newscrunch."
+msgstr ""
+
+#: admin/tab-pages/unlock-premium-feature.php:96
+msgid "Note"
+msgstr ""
+
+#: admin/tab-pages/unlock-premium-feature.php:96
+msgid "All premium features are managed through the Newscrunch Plus plugin, providing a seamless and integrated experience for both NewsBlogger and Newscrunch users."
+msgstr ""
+
+#: admin/tab-pages/unlock-premium-feature.php:97
+msgid "Upgrade today and transform your website with NewsBlogger Premium!"
+msgstr ""
+
+#: admin/tab-pages/unlock-premium-feature.php:99
+msgid "Explore Premium Features"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:11
+msgid "Demo Import"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:13
+msgid "Demo Import Video"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:13
+#: admin/tab-pages/video-tutorials.php:25
+#: admin/tab-pages/video-tutorials.php:37
+#: admin/tab-pages/video-tutorials.php:49
+#: admin/tab-pages/video-tutorials.php:61
+#: admin/tab-pages/video-tutorials.php:73
+#: admin/tab-pages/video-tutorials.php:85
+#: admin/tab-pages/video-tutorials.php:97
+#: admin/tab-pages/video-tutorials.php:109
+#: admin/tab-pages/video-tutorials.php:121
+#: admin/tab-pages/video-tutorials.php:133
+#: admin/tab-pages/video-tutorials.php:145
+#: admin/tab-pages/video-tutorials.php:157
+msgid "Watch Video"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:23
+msgid "Setup Main Menu"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:25
+msgid "Menu Video"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:26
+msgid "Menu Customize"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:26
+#: admin/tab-pages/video-tutorials.php:38
+#: admin/tab-pages/video-tutorials.php:50
+#: admin/tab-pages/video-tutorials.php:62
+#: admin/tab-pages/video-tutorials.php:74
+#: admin/tab-pages/video-tutorials.php:86
+#: admin/tab-pages/video-tutorials.php:98
+#: admin/tab-pages/video-tutorials.php:110
+#: admin/tab-pages/video-tutorials.php:122
+#: admin/tab-pages/video-tutorials.php:134
+#: admin/tab-pages/video-tutorials.php:146
+#: admin/tab-pages/video-tutorials.php:158
+msgid "Customize"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:35
+msgid "Setup Site Identity"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:37
+msgid "Site Identity Video"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:38
+msgid "Site Identity Customize"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:47
+msgid "Setup Header"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:49
+msgid "Header Video"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:50
+msgid "Header Customize"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:59
+msgid "Manage Global Options"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:61
+msgid "Global Options Video"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:62
+msgid "Global Options Customize"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:71
+msgid "Setup Toggle Sidebar"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:73
+msgid "Toggle Sidebar Video"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:74
+msgid "Toggle Sidebar Customize"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:83
+msgid "Setup Banner Section"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:85
+msgid "Banner Video"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:86
+msgid "Banner Customize"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:95
+msgid "Setup Highlight Section"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:97
+msgid "Highlight Video"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:98
+msgid "Highlight Customize"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:107
+msgid "Reorder/Rearrange Sections"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:109
+msgid "Sections Rearrange Video"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:110
+msgid "Sections Rearrange Customize"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:119
+msgid "Setup Custom Widgets"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:121
+msgid "Custom Widgets Video"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:122
+msgid "Custom Widgets Customize"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:131
+msgid "Footer Widgets & Copyright Text"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:133
+msgid "Footer Section Video"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:134
+msgid "Footer Section Customize"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:143
+msgid "Theme & Category Color"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:145
+msgid "Theme Color Video"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:146
+msgid "Theme Color Customize"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:155
+msgid "Background Color & Image"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:157
+msgid "Core Background Color & Image Video"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:158
+msgid "Core Background Color & Image Customize"
+msgstr ""
+
+#: functions.php:133
+msgid "Hello"
+msgstr ""
+
+#: functions.php:142
+msgid "Welcome to"
+msgstr ""
+
+#: functions.php:147
+#, php-format
+msgid "%s is now installed and ready to use. We've provide some links to get you started."
+msgstr ""
+
+#: functions.php:150 functions.php:152
+msgid "Theme Dashboard"
+msgstr ""
+
+#: functions.php:154
+msgid "Live Demo"
+msgstr ""
+
+#: functions.php:156
+msgid "View Live Demos"
+msgstr ""
+
+#: functions.php:160
+msgid "Theme Documentation"
+msgstr ""
+
+#: functions.php:170
+msgid "Welcome Banner"
+msgstr ""
+
+#: functions.php:173 functions.php:257
+msgid "Dismiss this notice"
+msgstr ""
+
+#: functions.php:223
+#, php-format
+msgid "%1$s Current %2$s"
+msgstr ""
+
+#: functions.php:226
+msgid "We've consistently aimed to meet our users' needs and demands. In order to address specific requirements and rectify issues from our previous version, we've rolled out version"
+msgstr ""
+
+#: functions.php:226
+msgid "complete with exciting new features. Take a look now!"
+msgstr ""
+
+#: functions.php:234
+msgid "Try Now"
+msgstr ""
+
+#: functions.php:236
+msgid "Try It Now"
+msgstr ""
+
+#: functions.php:241
+msgid "See Changelog"
+msgstr ""
+
+#: functions.php:244 functions.php:246
+msgid "Watch Videos"
+msgstr ""
+
+#: functions.php:249 functions.php:251
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: functions.php:312
+msgid "Header Layout"
+msgstr ""
+
+#: functions.php:405
+msgid "Alignment"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: partials/header/header-nav.php:15
+msgid "Menu"
+msgstr ""
+
+#: partials/header/header-nav.php:21
+msgid "Toggle Icon"
+msgstr ""
+
+#: partials/header/header-nav.php:28
+msgid "Close Icon"
+msgstr ""
+
+#: partials/header/header-nav.php:40
+msgid "Close Off-Canvas"
+msgstr ""
+
+#: partials/header/header-nav.php:78 partials/header/header-nav.php:85
+#: partials/header/header-nav.php:87
+msgid "Search"
+msgstr ""
+
+#: partials/header/header-nav.php:82
+msgid "Close Search"
+msgstr ""
+
+#: partials/header/header-nav.php:92
+msgid "Light/Dark Mode"
+msgstr ""

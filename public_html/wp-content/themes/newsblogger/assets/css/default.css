@@ -1,0 +1,227 @@
+/*===================================================================================*/
+/*  COMMON
+/*===================================================================================*/
+.newsblogger a:is(:hover, :focus), .entry-meta a:is(:hover,:focus) span, .newsblogger dl dd a, .newsblogger dl dd a:is(:hover,:focus), .newsblogger ul li a:is(:hover,:focus) { color: #369ef6; }
+.newsblogger blockquote { border-left: 5px solid #369ef6; }
+/*--------------------------------------------------------------
+Forms
+--------------------------------------------------------------*/
+.newsblogger button, .newsblogger input[type="button"], .newsblogger input[type="submit"] { color: #ffffff; border:1px solid #369ef6; }
+.newsblogger button:is(:hover, :focus), .newsblogger input[type="button"]:is(:hover, :focus), .newsblogger input[type="submit"]:is(:hover, :focus) { background: #369ef6; }
+.newsblogger form.search-form input.search-submit, .newsblogger input[type="submit"], button[type="submit"] { background-color: #369ef6; }
+.newsblogger textarea:is(:hover,:focus), .newsblogger input[type="text"]:is(:hover,:focus), .newsblogger input[type="email"]:is(:hover,:focus) { border: 1px solid #369ef6; }
+/*===================================================================================*/
+/*  MENU BAR SECTION
+/*===================================================================================*/
+[data-theme="spnc_dark"] .newsblogger .header-12 .spnc-custom .spnc-nav > .active > a, [data-theme="spnc_dark"] .newsblogger .header-12 .spnc-custom .spnc-nav .dropdown.open.active > a, .newsblogger .header-12 .spnc-custom .spnc-nav > li > a:is(:hover,:focus), [data-theme="spnc_dark"] .newsblogger .header-12 .spnc-custom .spnc-nav > li > a:is(:hover,:focus), .newsblogger .spnc-custom .spnc-nav .open > a, [data-theme="spnc_dark"] .newsblogger .spnc-custom .spnc-nav .open > a, .newsblogger .spnc-custom .spnc-nav .open > a:is(:hover,:focus), [data-theme="spnc_dark"] .newsblogger .spnc-custom .spnc-nav .open > a:is(:hover,:focus), .newsblogger .spnc-custom .spnc-nav > li > a:is(:hover,:focus), [data-theme="spnc_dark"] .newsblogger .spnc-custom .spnc-nav > li > a:is(:hover, :focus) { color: #369ef6; background-color: transparent; }
+.newsblogger .spnc-custom .spnc-nav .open .dropdown-menu > .active > a, .newsblogger .spnc-custom .spnc-nav .open .dropdown-menu > .active > a:is(:hover,:focus) { background-color: transparent; color: #369ef6; }
+.newsblogger .spnc-custom .dropdown-menu { border-top: 1px solid #369ef6; border-bottom: 1px solid #369ef6; }
+[data-theme="spnc_dark"] .newsblogger .spnc-nav > li.parent-menu a:hover, [data-theme="spnc_dark"] .newsblogger .spnc-custom .spnc-nav .dropdown.open > a:hover, [data-theme="spnc_dark"] body.newscrunch .spnc-custom .spnc-nav .menu-item-has-children .open.active > a { color: #369ef6; }
+.header-12.header-sidebar .spnc-custom .spnc-header-logo .custom-date-social-icons li a:hover, .newsblogger .header-12 .spnc-custom .spnc-dark-icon:hover { color: #fff;background: #369ef6; }
+.header-12 .spnc-custom .spnc-nav .open > a:hover{ text-shadow: unset; }
+.header-12 .spnc-header-btn:hover {background-color: #369ef6;color: #fff;}
+.header-12 .spnc-custom .spnc-nav .dropdown-menu li > a:hover, [data-theme="spnc_dark"] .header-12 .spnc-custom .spnc-nav .dropdown-menu li > a:hover {color: #369ef6;}
+.header-12 .spnc-date-social .header-date .date:is(:hover,:focus), .header-12 .spnc-trending-widget .spnc-trending-post-title a:hover, .header-12 .spnc-trending-widget .spnc-trending-title a:hover { color: #369ef6; }
+.newsblogger .spnc-custom .spnc-widget-toggle > a.spnc-toggle-icon:hover, .header-12 .spnc-custom .spnc-widget-toggle > a.spnc-toggle-icon:focus { text-shadow: unset;color: #369ef6; }
+.header-12 .spnc-custom .spnc-nav > .active > a, .header-12 .spnc-custom .spnc-nav > .active > a:is(:hover, :focus) { color: #369ef6; }
+.spnc-custom .spnc-nav .dropdown.open a.search-icon:hover, [data-theme="spnc_dark"] body.newsblogger .header-12 .spnc-custom .spnc-nav li > a.search-icon:hover { color: #369ef6; }
+.header-12 .custom-social-icons li > a:is(:hover, :focus) { background-color: #369ef6; color: #ffffff; border-color: #369ef6; }
+.newsblogger .custom-logo-link-url .site-title a:is(:hover, :focus), [data-theme="spnc_dark"] .newsblogger.spnc_body_sidepanel a:hover { color: #369ef6; }
+/*===================================================================================*/
+/* HEADER ONE TO FOUR
+/*===================================================================================*/
+.newsblogger .header-2 .spnc-topbar, .newsblogger .header-2 .spnc-widget-toggle > a.spnc-toggle-icon, .newsblogger .header-2 .spnc-custom .spnc-nav li.active > a:after, .newsblogger .header-2 .spnc-custom .spnc-nav li a:hover:after, .newsblogger .header-2 .spnc-custom .spnc-nav li.active > a:before, .newsblogger .header-2 .spnc-custom .spnc-nav li a:hover:before, .newsblogger .header-1 .spnc-custom .spnc-navbar { background-color: #369ef6; }
+[data-theme="spnc_light"] body.newscrunch.newsblogger .header-2 .spnc-custom .spnc-nav li > a.search-icon:hover, [data-theme="spnc_dark"] body.newscrunch.newsblogger .spnc-custom .spnc-nav li > a.search-icon:hover, body.newscrunch.newsblogger .header-2 .spnc-custom .spnc-dark-icon:hover, [data-theme="spnc_dark"] .newsblogger .spnc-nav > li.parent-menu .dropdown-menu .open > a,
+.header-1 .head-contact-info i, body.newscrunch .header-1 .spnc-custom .spnc-dark-icon:hover { color: #369ef6; }
+body.newsblogger .header-2 .spnc-custom .spnc-nav > .active > a, body.newsblogger .header-2 .spnc-custom .spnc-nav > .active > a:is(:hover, :focus) { color: #369ef6; background-color: transparent; }
+body .header-1 .spnc-custom .spnc-nav > .active > a, body .header-1 .spnc-custom .spnc-nav > .active > a:is(:hover,:focus), [data-theme="spnc_dark"] body .header-1 .spnc-custom .spnc-nav > .active > a, [data-theme="spnc_dark"] body .header-1 .spnc-custom .spnc-nav > .active > a:is(:hover,:focus) { color: #ffffff; background-color: #369ef6; }
+.header-1 .custom-social-icons li > a:is(:hover, :focus) { background-color: #369ef6; color: #ffffff; border-color: #369ef6; }
+@media (max-width:1100px) {
+    .newsblogger .header-2 .spnc-toggle, body.newsblogger .spnc-custom .spnc-nav > .active.menu-item > a, body.newsblogger .spnc-custom .spnc-nav > .active > a:is(:hover,:focus) { background-color: #369ef6; }
+    body .header-12 .spnc-custom .spnc-nav > .active.menu-item > a, body .header-12 .spnc-custom .spnc-nav > .active > a:is(:hover, :focus) { color: #369ef6; background-color: transparent; }
+    .header-12 .spnc-custom .spnc-nav .dropdown-menu li.active > a, [data-theme="spnc_dark"] .header-12 .spnc-custom .spnc-nav .dropdown-menu li.active > a, [data-theme="spnc_dark"] body.newscrunch #wrapper .header-12.header-sidebar .spnc-custom .spnc-collapse .spnc-nav .dropdown-menu > li.active > a, [data-theme="spnc_dark"] body.newsblogger #wrapper .header-12.header-sidebar .spnc-custom .spnc-collapse .spnc-nav li.active > a, .newsblogger .header-sidebar .spnc-custom .dropdown-menu > .active > a  { color: #369ef6; }
+}
+.newsblogger .header-2 .spnc-widget-toggle>a.spnc-toggle-icon:hover { color: #fff; }
+body.newsblogger .header-12 .spnc-custom .spnc-nav li > a.search-icon:is(:hover, :focus) { color: #369ef6; }
+/*===================================================================================*/
+/*  HIGHLIGHTS
+/*===================================================================================*/
+.newsblogger .spnc-highlights-1 .spnc-highlights-title { background-color: #369ef6; }
+.newsblogger .spnc-highlights-2.spnc-highlights-1 .spnc-marquee-wrapper .spnc-entry-title a:is(:hover, :focus), .newsblogger .spnc-marquee-wrapper .spnc-entry-title:before, .newsblogger .spnc-highlights-1 .spnc-entry-meta span a:is(:hover, :focus), [data-theme="spnc_dark"] .newsblogger .spnc-highlights-2.spnc-highlights-1 .spnc-marquee-wrapper .spnc-entry-title a:is(:hover, :focus) { color: #369ef6; }
+.newsblogger #spnc-marquee-right:hover, .newsblogger #spnc-marquee-left:hover { background-color: #369ef6; box-shadow: 0 0 1px 1px #369ef6; }
+.newsblogger .spnc-highlights-1 .spnc-container .spnc-row { border-color: #369ef6; }
+/*===================================================================================*/
+/*  MAIN BANNER
+/*===================================================================================*/
+.newsblogger .spnc-bnr-1 .spnc-post .spnc-post-content .spnc-info-link { background-color: #369ef6; }
+.newsblogger .spnc-bnr-1 .spnc-entry-meta a:is(:hover, :focus), .newsblogger .spnc-bnr-1 h3.spnc-entry-title a:is(:hover, :focus) { color: #369ef6; }
+body.newscrunch.newsblogger .owl-carousel .owl-nav .owl-prev:is(:hover, :focus) { background-color: #369ef6; color: #fff; box-shadow: 0 0 1px 1px #369ef6; }
+body.newscrunch.newsblogger .owl-carousel .owl-nav .owl-next:is(:hover, :focus) { background-color: #369ef6; color: #fff; box-shadow: 0 0 1px 1px #369ef6; }
+/*===================================================================================*/
+/*  PRELOADER 
+/*===================================================================================*/
+.newsblogger .spnc_bounceball:before { background-color: #369ef6; }
+.newsblogger .spnc_preloader_text { color: #369ef6; }
+/*===================================================================================*/
+/*  BLOG LIST & GRID VIEW
+/*===================================================================================*/
+.newsblogger .spnc-post-list-view-section .spnc-post .spnc-post-overlay .spnc-date a, .newsblogger .spnc-post-list-view-section .spnc-post .spnc-post-overlay .spnc-date .display-time { background-color: #369ef6; }
+.newsblogger .spnc-post-list-view-section .spnc-post .spnc-post-content .spnc-entry-content figure { border: 1px solid #369ef6; }
+.newsblogger .spnc-post-list-view-section .spnc-post .spnc-post-content .spnc-entry-meta i, .newsblogger .spnc-category-page .spnc-grid-catpost .spnc-entry-meta a:is(:hover, :focus), .newsblogger .spnc-category-page .spnc-grid-catpost .spnc-entry-meta i { color: #369ef6; }
+.newsblogger .spnc-post-list-view-section .spnc-post .spnc-post-content .spnc-more-link:is(:hover, :focus), .newsblogger .spnc-blog-page .spnc-entry-content .spnc-more-link:is(:hover, :focus) { background-color: #369ef6; border: 1px solid #369ef6; }
+.newsblogger .spnc-post-list-view-section .spnc-post .spnc-post-content .spnc-entry-title a:is(:hover, :focus), .newsblogger .spnc-post-list-view-section .spnc-post .spnc-post-content .spnc-entry-content .spnc-entry-meta a:is(:hover, :focus), [data-theme="spnc_dark"] .newsblogger .spnc-single-post .spnc-blog-wrapper .spnc-post .spnc-entry-meta .single.spnc-date a:is(:hover, :focus), .newsblogger .spnc-single-post .spnc-blog-wrapper .spnc-post .spnc-entry-meta .spnc-date a:is(:hover, :focus), .newsblogger .newsblogger .spnc-category-page .spnc-grid-catpost .spnc-entry-meta a, .newsblogger .spnc-category-page .spnc-blog-cat-wrapper .spnc-first-catpost .spnc-entry-title a:is(:hover, :focus), .newsblogger .spnc-category-page .spnc-blog-cat-wrapper .spnc-first-catpost .spnc-entry-meta a:is(:hover,:focus) { color: #369ef6; }
+.newsblogger .pagination a:is(:hover, :focus), .newsblogger .navigation.pagination .nav-links .current, .newsblogger .pagination a.prev:is(:hover, :focus), .newsblogger .pagination a.next:is(:hover, :focus), .newsblogger .spnc-category-page .spnc-blog-cat-wrapper .spnc-first-catpost .spnc-more-link { background-color: #369ef6; }
+.newsblogger .pagination a.prev:is(:hover, :focus), .newsblogger .pagination a.next:is(:hover, :focus), .newsblogger .pagination .nav-links .current:is(:hover, :focus) { border: none; }
+.newsblogger .spnc-blog-page .pagination a.current, .newsblogger .spnc-category-page .spnc-grid-catpost .spnc-footer-meta .spnc-more-link:is(:hover, :focus) { color: #fff; background-color: #369ef6; border: 1px solid #369ef6; } 
+[data-theme="spnc_dark"] .newsblogger .spnc-category-page .spnc-grid-catpost .spnc-entry-meta a:is(:hover, :focus), [data-theme="spnc_dark"] .newsblogger .spnc-category-page .spnc-grid-catpost .spnc-footer-meta .spnc-date a:is(:hover, :focus){ color: #369ef6; }
+/*===================================================================================*/
+/*  MISSED SECTION
+/*===================================================================================*/
+.spnc-missed-section.spncmc-1 h4.spnc-entry-title a:is(:hover, :focus), .spnc-missed-section.spncmc-1 .spnc-entry-meta .spnc-date a, .spnc-missed-section .spnc-entry-meta span.spnc-author a:is(:hover, :focus) { color: #369ef6; }
+/*===================================================================================*/
+/*  MIXED 
+/*===================================================================================*/
+.newsblogger .spnc-wrapper.spnc-btn-1 .spnc-common-widget-area .spnc-main-wrapper .spnc-main-wrapper-heading, .newsblogger .spnc-common-widget-area .spnc-main-wrapper { background-color: #369ef6; }
+.newsblogger .spnc-wrapper.spnc-btn-1 .spnc-common-widget-area .spnc-main-wrapper  { border-bottom: 1px solid #369ef6; }
+/*===================================================================================*/
+/*  Sidebar & Footer Widgets
+/*===================================================================================*/
+.newsblogger .spnc-wrapper.spnc-btn-1 .spnc-sidebar .wp-block-search .wp-block-search__label, .newsblogger .spnc-wrapper.spnc-btn-1 .spnc-sidebar .widget.widget_block :is(h1,h2,h3,h4,h5,h6), .newsblogger .spnc-wrapper.spnc-btn-1 .spnc-page-section-space .widget .wp-block-heading, .newsblogger form.search-form input.search-submit, .newsblogger button[type="submit"]:not(.woocommerce-Button.button) { background-color: #369ef6; }
+.newsblogger .spnc-wrapper.spnc-btn-1 .spnc-sidebar .widget.widget_block :is(h1,h2,h3,h4,h5,h6)::after, .newsblogger .spnc-wrapper.spnc-btn-1 .spnc-page-section-space .widget .wp-block-heading::after, .newsblogger .spnc-wrapper.spnc-btn-1 .spnc-sidebar .wp-block-search .wp-block-search__label::after { border-bottom: 1px solid #369ef6; }
+.newsblogger input[type="search"]:is(:hover, :focus) { border: 1px solid #369ef6; }
+.newsblogger .widget .wp-block-latest-posts li a:is(:hover, :focus), .newsblogger .widget .wp-block-archives li a:is(:hover, :focus), .newsblogger .widget .wp-block-categories li a:is(:hover, :focus), .newsblogger .widget .wp-block-page-list li a:is(:hover, :focus), .newsblogger .widget .wp-block-rss li a:is(:hover, :focus), .newsblogger .widget_meta ul li a:is(:hover, :focus), .newsblogger .widget .wp-block-latest-comments li a:is(:hover, :focus), .newsblogger .spnc-sidebar .widget:has(ol, ul) li::before, .newsblogger .widget:has(.wp-block-latest-posts, .wp-block-archives, .wp-block-categories, .wp-block-page-list, .wp-block-rss, .widget_meta, .wp-block-latest-comments, .widget_nav_menu ) li::before, .newsblogger .wp-block-latest-comments li article footer::before { color: #369ef6; }
+.newsblogger .spnc-sidebar .widget .wp-block-tag-cloud a:is(:hover, :focus), .newsblogger .footer-sidebar .widget .wp-block-tag-cloud a:is(:hover,:focus) { color: #ffffff; background-color: #369ef6; border-color: #369ef6; }
+.newsblogger .footer-sidebar .wp-block-search .wp-block-search__label:after, .newsblogger .footer-sidebar .widget .wp-block-heading:after { background: #369ef6; }
+/*===================================================================================*/
+/*  Custom Widgets
+/*===================================================================================*/
+.newsblogger .spnc-wrapper.spnc-btn-1 .spnc-sidebar .widget.side-bar-widget .spnc-widget-title, .newsblogger .spnc-wrapper.spnc-btn-1 #spnc_panelSidebar .spnc-sidebar .widget.spnc-side-panel .widget-title, .newsblogger .widget_newscrunch_adv .adv-img-content a, .newsblogger .spnc-label-tab.active, .newsblogger .widget_newscrunch_list_view_slider .spnc-blog-wrapper .spnc-entry-meta::before { background-color: #369ef6; }
+.newsblogger .spnc-wrapper.spnc-btn-1 .spnc-tabs { border-bottom: 1px solid #369ef6; }
+.newsblogger .widget_newscrunch_featured_post .spnc-post .spnc-entry-meta a:not(.widget_newscrunch_featured_post .spnc-first-post .spnc-cat-links a):is(:hover,:focus), .newsblogger .widget_newscrunch_featured_post .spnc-post .spnc-entry-meta .spnc-author a:is(:hover,:focus), .newsblogger .widget_newscrunch_featured_post h4.spnc-entry-title a:is(:hover,:focus), .newsblogger .widget_newscrunch_featured_post .spnc-post .spnc-more-link:is(:hover,:focus), .newsblogger .widget_newscrunch_featured_post .spnc-first-post .spnc-post .spnc-post-content span a:is(:hover,:focus), .newsblogger .widget_newscrunch_featured_post .spnc-first-post h4.spnc-entry-title a:is(:hover,:focus), .newsblogger .widget_newscrunch_grid_slider_three_column .grid-slider-three-column .spnc-entry-title a:is(:hover,:focus), .newsblogger .widget_newscrunch_grid_slider_three_column .spnc-post-grid-slider-three-column .spnc-entry-meta .spnc-date a, .newsblogger .widget_newscrunch_grid_slider_three_column .spnc-post-grid-slider-three-column .spnc-entry-meta .spnc-date a:is(:hover,:focus), .newsblogger .widget_newscrunch_grid_slider_three_column .spnc-post-grid-slider-three-column .spnc-entry-meta a:is(:hover,:focus), .newsblogger .widget_newscrunch_list_grid_view .spnc-blog-wrapper-1 h4.spnc-entry-title a:is(:hover,:focus), .newsblogger .widget_newscrunch_single_column .single-column .spnc-post-content a:is(:hover, :focus), .newsblogger .widget_newscrunch_overlay_slider .spnc-blog1-carousel .spnc-post .spnc-entry-meta a:is(:hover, :focus), .newsblogger .widget_newscrunch_post_grid_two_col .widget-recommended-post li a:is(:hover, :focus), .newsblogger .widget_newscrunch_grid_slider_two_column .spnc-filter h4.spnc-entry-title a:is(:hover, :focus), .newsblogger .widget_spncp_filter_two_column .spnc-filter h4.spnc-entry-title a:is(:hover, :focus), .newsblogger .widget_newscrunch_grid_slider_two_column .spnc-filter .spnc-post .spnc-entry-meta a:is(:hover, :focus), .newsblogger .widget_newscrunch_list_view_slider .spnc-blog-wrapper h4.spnc-entry-title a:is(:hover, :focus), .newsblogger .widget_newscrunch_list_view_slider .spnc-blog-wrapper .spnc-post .spnc-entry-meta a:is(:hover, :focus), [data-theme="spnc_dark"] .newsblogger.nchild .widget_newscrunch_grid_slider_three_column .spnc-post-grid-slider-three-column .spnc-entry-meta .spnc-author a:is(:hover,:focus), [data-theme="spnc_dark"] .newsblogger.nchild .widget_newscrunch_list_view_slider .spnc-blog-wrapper .latest-blog-post .spnc-post .spnc-entry-meta:has(.spnc-author, .spnc-cat-links) a:is(:hover, :focus), .newsblogger .spnc-blog-1 .spnc-blog-wrapper-1 .spnc-post .spnc-entry-meta .spnc-date a:is(:hover, :focus), .newsblogger .spnc-common-widget-area.widget_newscrunch_post_tabs .spnc-panel ul li a:is(:hover, :focus) { color: #369ef6; }
+.newsblogger .widget_newscrunch_list_view_slider .spnc-blog-wrapper .spnc-entry-meta img { border: 1px solid #369ef6; }
+.newsblogger .spnc-wrapper.spnc-btn-1 .spnc-widget-heading { border-bottom: 1px solid #369ef6; }
+.newsblogger .widget_newscrunch_featured_post .spnc-first-post .spnc-entry-meta i, .newsblogger .widget_newscrunch_featured_post .spnc-entry-meta i, .newsblogger .widget_newscrunch_post_grid_two_col .widget-recommended-post li span i, .newsblogger .widget_newscrunch_list_view_slider .spnc-blog-wrapper .spnc-entry-meta i, .newsblogger .widget_newscrunch_post_tabs .spnc-panel .date i, .newsblogger .widget_newscrunch_grid_slider_two_column .spnc-filter .spnc-entry-meta i, .newsblogger .spnc-blog-wrapper-1 .spnc-post .spnc-entry-meta .plgv.spnc-date i, .newsblogger .widget_newscrunch_overlay_slider .spnc-blog1-carousel .spnc-entry-meta i { color: #369ef6; }
+/*===================================================================================*/
+/*  Footer Section
+/*===================================================================================*/
+.newsblogger .site-footer {  border-top: 3px solid #369ef6; }
+/*===================================================================================*/
+/*  MIXED
+/*===================================================================================*/
+.newsblogger .scroll-up a, .newsblogger .page-section-space .spnc_error_404 .spnc_404_link a:is(:hover, :focus), .newsblogger .spnc-wrapper.spnc-btn-1 .spnc-related-posts .spnc-main-wrapper .spnc-main-wrapper-heading, .newsblogger .spnc-wrapper.spnc-btn-2 .spnc-related-posts .spnc-main-wrapper, .newsblogger .spnc-wrapper.spnc-btn-1 .comment-form .spnc-blog-1-heading, .newsblogger .spnc-single-post .comment-form .spnc-blog-1-wrapper { background-color: #369ef6; }
+body.newsblogger .site-info p.copyright-section a, .newsblogger .page-section-space .spnc_error_404 .spnc_error_heading h2, .newsblogger .page-breadcrumb > li a:is(:hover,:focus), .newsblogger .spnc-single-post .spnc-pagination-single .spnc-post-content a, .newsblogger .spnc-single-post .spnc-pagination-single .spnc-post-content h4.spnc-entry-title a:is(:hover,:focus), .newsblogger .spnc-related-posts .spnc-related-post-wrapper .spnc-post .spnc-post-content .spnc-entry-meta span i, .newsblogger .spnc-single-post .spnc-blog-wrapper .spnc-entry-meta span.spnc-tag-links a:is(:hover,:focus), .newsblogger .spnc-single-post .spnc-blog-wrapper .spnc-entry-meta span.spnc-author a:is(:hover,:focus), .newsblogger .spnc-single-post .spnc-blog-wrapper .spnc-entry-meta span.spnc-comment-links a:is(:hover,:focus), .newsblogger .spnc-single-post .spnc-blog-wrapper .spnc-post .spnc-entry-meta span i, [data-theme="spnc_dark"] body.newsblogger .spnc-single-post .spnc-blog-wrapper .spnc-entry-meta span.spnc-comment-links a:is(:hover,:focus), [data-theme="spnc_dark"] .newsblogger .spnc-single-post .spnc-blog-wrapper .spnc-post .spnc-entry-meta span i, .newsblogger .spnc-related-posts .spnc-related-post-wrapper .spnc-post .spnc-post-content .spnc-entry-meta span a:is(:hover, :focus), .newsblogger .spnc-related-posts .spnc-related-post-wrapper .spnc-post .spnc-entry-title a:is(:hover, :focus), [data-theme="spnc_dark"] body.newsblogger .spnc-single-post .spnc-blog-wrapper .spnc-post .spnc-entry-meta .spnc-tag-links a:not(.spnc-post-footer-content .spnc-tag-links a):is(:hover,:focus), [data-theme="spnc_dark"] body.newsblogger .spnc-single-post .spnc-blog-wrapper .spnc-entry-meta span.spnc-author a:is(:hover,:focus), [data-theme="spnc_dark"] .newsblogger .spnc-single-post .spnc-blog-wrapper .spnc-related-posts .spnc-post .spnc-entry-meta a:not(.spnc-entry-meta .spnc-cat-links a):is(:hover,:focus), [data-theme="spnc_dark"] .newsblogger .spnc-missed-section .spnc-entry-meta span.spnc-author a:is(:hover,:focus), [data-theme="spnc_dark"] .newsblogger .spnc-single-post .spnc-related-posts .spnc-related-post-wrapper .spnc-post .spnc-post-content .spnc-footer-meta .spnc-entry-meta .spnc-date a:is(:hover, :focus), .newsblogger .a_effect2 .wp-block-latest-posts li a:before { color: #369ef6; } 
+.newsblogger .spnc-wrapper.spnc-btn-1 .spnc-related-posts .spnc-main-wrapper, .newsblogger .spnc-wrapper.spnc-btn-1 .comment-form .spnc-blog-1-wrapper { border-bottom: 1px solid #369ef6; }
+.newsblogger .spnc-single-post .spnc-blog-wrapper .spnc-post .spnc-post-footer-content .spnc-entry-meta a:is(:hover, :focus) {background-color: #369ef6; color: #fff; }
+[data-theme="spnc_dark"] .newsblogger .spnc-single-post .spnc-blog-wrapper .spnc-post .spnc-post-footer-content .spnc-entry-meta .spnc-tag-links a:is(:hover, :focus) { color: #ffffff; background: #369ef6; }
+.newsblogger .spnc-single-post .comment-form form input[type="text"]:is(:hover,:focus), .newsblogger .spnc-single-post .comment-form form input[type="email"]:is(:hover,:focus), .newsblogger .spnc-single-post .comment-form form textarea:is(:hover,:focus), .newsblogger .spnc-single-post .comment-form form input[type="submit"]:is(:hover,:focus) { border: 1px solid #369ef6; }
+.newsblogger .spnc-single-post .comment-form form input[type="submit"] { background: #369ef6; }
+/*===================================================================================*/
+/*  Footer
+/*===================================================================================*/
+body.newsblogger .footer-sidebar .widget .widget-title:after { background: #369ef6; }
+.newsblogger .site-footer .footer-sidebar .widget_newscrunch_post_grid_two_col .widget-recommended-post li a:is(:hover, :focus), body.newsblogger #wrapper .widget.f-w-c.widget_newscrunch_single_column .spnc-post-content a:is(:hover, :focus), .newsblogger .spnc-blog-page .spnc-entry-meta i, .newsblogger .spnc-blog-page .spnc-entry-meta a:is(:hover,:focus), .newsblogger .spnc-blog-page .spnc-footer-meta .spnc-date a:is(:hover,:focus), .newsblogger .site-footer .site-info .footer-nav li a:is(:hover,:focus), [data-theme="spnc_dark"] .newsblogger .site-footer .widget .wp-block-categories li a:is(:hover, :focus), [data-theme="spnc_dark"] .newsblogger .site-footer .widget .wp-block-latest-posts li a:is(:hover, :focus), [data-theme="spnc_dark"] .site-footer .widget .wp-block-archives li a:is(:hover, :focus), [data-theme="spnc_dark"] .newsblogger .site-footer .widget .wp-block-archives li a:is(:hover, :focus), [data-theme="spnc_dark"] .newsblogger .site-footer .widget .wp-block-page-list li a:is(:hover, :focus), [data-theme="spnc_dark"] .newsblogger .site-footer .widget .wp-block-rss li a:is(:hover, :focus), [data-theme="spnc_dark"] .newsblogger .site-footer .widget_meta ul li a:is(:hover, :focus), [data-theme="spnc_dark"] body.newsblogger .spnc-wrapper a.wp-block-latest-comments__comment-link:is(:hover, :focus), [data-theme="spnc_dark"] body.newsblogger .spnc-wrapper a.wp-block-latest-comments__comment-author:is(:hover, :focus) { color: #369ef6; }
+.newsblogger .spnc_sidebar_panel::-webkit-scrollbar-thumb { background: #369ef6; }
+/*===================================================================================*/
+/*  Category First Post Section
+/*===================================================================================*/
+.newsblogger .spnc-cat-first-post .spnc-post .spnc-post-content .spnc-entry-title a:is(:hover, :focus), .newsblogger .spnc-cat-first-post .spnc-post .spnc-post-content .spnc-footer-meta .spnc-entry-meta span a:is(:hover, :focus) { color: #369ef6; }
+.newsblogger .spnc-cat-first-post .spnc-post .spnc-post-content .spnc-more-link { background-color: #369ef6; }
+[data-theme="spnc_dark"] .newsblogger .spnc-sidebar .widget_categories .wp-block-categories-list .cat-item:before, [data-theme="spnc_dark"] .newsblogger .spnc-sidebar .widget_categories .wp-block-categories-list .cat-item a:is(:hover, :focus) { color: #369ef6; }
+[data-theme="spnc_dark"] .newsblogger .spnc-sidebar .widget_categories .wp-block-categories-list .cat-item a { color:#fff; }
+.newsblogger .pagination a.current{background: #369ef6; color: #fff;}
+.newsblogger .spnc-edit-link a { color: #369ef6; }
+.newsblogger .spnc-author-box.spnc-author-box-two .spnc-author figure {
+   border-color: rgba(54, 158, 246, 0.3); 
+}
+.newsblogger .spnc-author-box .spnc-author a:is(:hover, :focus), [data-theme="spnc_dark"] .newsblogger .spnc-author-box .spnc-author a:is(:hover, :focus){
+  color: #369ef6;
+}
+.newsblogger .spnc-author-box-two .spnc-author .spnc-author-bio,
+.newsblogger .spnc-author-box-one .spnc-author .spnc-author-bio,
+.newsblogger .spnc-author-box  .spnc-author-posts-link{
+    color: #369ef6;
+}
+.newsblogger .sticky-post-icon, .newsblogger .spnc-post.format-quote .spnc-quote-wrap, .newsblogger .spnc-post .spnc-post-btn {
+    background-color: #369ef6;
+}
+
+
+/* Woocommerce CSS */
+.newsblogger.woocommerce.woocommerce-page span.onsale,
+.woocommerce-page .onsale,
+body.woocommerce.newsblogger .spnc-post .spnc-entry-content ul.products li.product a.add_to_cart_button,
+.newsblogger.woocommerce ul.products li.product .button,
+.newsblogger.woocommerce ul.products li.product .added_to_cart,
+.newsblogger.woocommerce nav.woocommerce-pagination ul li a:focus,
+.newsblogger.woocommerce nav.woocommerce-pagination ul li a:hover,
+.newsblogger.woocommerce nav.woocommerce-pagination ul li span.current,
+.newsblogger.woocommerce.woocommerce-page span.onsale,
+.newsblogger.woocommerce-page .onsale,
+.newsblogger.woocommerce-cart .cart-collaterals .add_to_cart_button,
+.newsblogger.woocommerce-cart .cart-collaterals .cart_totals .checkout-button,
+.newsblogger.woocommerce-checkout .wc-block-components-title.wc-block-components-title,
+.newsblogger.woocommerce-checkout .wc-block-components-order-summary__button-text,
+.newsblogger.woocommerce-checkout .wc-block-components-order-summary .wc-block-components-panel__button,
+.newsblogger.woocommerce-checkout .wc-block-components-checkout-place-order-button,
+.newsblogger.woocommerce.single-product div.product form.cart .button,
+.newsblogger.woocommerce #review_form #respond .form-submit input,
+.newsblogger .spnc-wrapper.spnc-btn-1 .spnc-sidebar .widget.woocommerce :is(h1, h2, h3, h4, h5, h6) {background-color: #369ef6;}
+.newsblogger .woocommerce-loop-product__title:hover,
+body.woocommerce.newsblogger ul.products li.product .price ins .woocommerce-Price-amount.amount,
+.newsblogger.woocommerce-cart.woocommerce-page ins.sale-price .woocommerce-Price-amount.amount,
+.newsblogger.woocommerce-cart .product-subtotal .woocommerce-Price-amount.amount,
+body.newsblogger .wc-block-components-totals-footer-item-tax-value .newsblogger.woocommerce-cart .cart_totals .order-total .woocommerce-Price-amount.amount,
+.newsblogger.woocommerce.single-product div.product p.price ins .woocommerce-Price-amount.amount,
+.newsblogger.woocommerce.single-product div.product span.price ins,
+.newsblogger.woocommerce.single-product .product_meta .posted_in a,
+.newsblogger .spnc-mini-cart-summary .spnc-cart-subtotal .woocommerce-Price-amount {color: #369ef6;}
+.newsblogger.woocommerce.single-product div.product .woocommerce-tabs ul.tabs li.active {background: #369ef6;}
+.newsblogger.woocommerce.single-product div.product .woocommerce-tabs ul.tabs::before {border-bottom: 1px solid #369ef6;}
+.newsblogger .widget_shopping_cart .widget_shopping_cart_content .woocommerce-mini-cart__buttons .button:is(:hover, :focus) {color: #ffffff;background-color: #369ef6;}
+.newsblogger .spnc-wrapper.spnc-btn-1 .spnc-sidebar .widget.woocommerce :is(h1, h2, h3, h4, h5, h6)::after {border-bottom: 1px solid #369ef6;}
+.newsblogger .widget.widget_block .wc-block-price-filter .wc-block-components-filter-reset-button:is(:hover, :focus),
+.newsblogger .widget.widget_block .wp-block-woocommerce-attribute-filter .wc-block-components-filter-reset-button:is(:hover, :focus),
+.newsblogger .widget.widget_block .wp-block-woocommerce-stock-filter .wc-block-components-filter-reset-button:is(:hover, :focus),
+.newsblogger .widget.widget_block .wc-block-active-filters .wc-block-active-filters__clear-all:is(:hover, :focus),
+.newsblogger .widget.widget_block .wp-block-woocommerce-rating-filter .wc-block-components-filter-reset-button:is(:hover, :focus) {color: #ffffff;background-color: #369ef6;}
+.newsblogger.woocommerce-cart .spnc-entry-content .shop_table tr:first-child:not(.cart_item) {border-bottom: 1px solid #369ef6;}
+.newsblogger.woocommerce-account .woocommerce-error,
+.newsblogger.woocommerce-page .woocommerce-message,
+.newsblogger.woocommerce-cart .woocommerce-info {border-top-color: #369ef6;}
+.newsblogger.woocommerce-account .woocommerce-error::before,
+.newsblogger.woocommerce-cart .woocommerce-error::before,
+.newsblogger.woocommerce-cart .woocommerce-info::before,
+.newsblogger.woocommerce-cart .woocommerce-message::before {color: #369ef6;}
+.newsblogger.woocommerce-cart .return-to-shop-button {background-color: #369ef6;color: #fff;}
+.newsblogger .spnc-navbar .header-cart .cart-count {background: #369ef6;}
+.newsblogger .woocommerce-info {border-top-color: #369ef6;}
+.woocommerce.newsblogger p.stars a {color: #369ef6;}
+.woocommerce.newsblogger .star-rating::before, .woocommerce.newsblogger .star-rating span::before {color: #369ef6;}
+body.newsblogger .wc-block-components-totals-footer-item-tax-value{color: #369ef6;}
+body.newsblogger .woocommerce-store-notice, p.demo_store {background-color: #369ef6;}
+[data-theme="spnc_dark"] .newsblogger .woocommerce-loop-product__title:hover {color: #369ef6;}
+[data-theme="spnc_dark"] .newsblogger.woocommerce .star-rating::before {color: #369ef6;}
+[data-theme="spnc_dark"] .newsblogger.woocommerce .star-rating span::before {color: #369ef6;}
+[data-theme="spnc_dark"] .newsblogger.woocommerce.single-product .product_meta .posted_in a {color: #369ef6;}
+body.newsblogger .spnc-sidebar .wp-block-woocommerce-featured-category .wp-block-button__link,
+body.newsblogger .spnc-sidebar .wp-block-woocommerce-featured-product .wp-block-button__link {background-color: #369ef6;}
+body.newsblogger .product-category .woocommerce-loop-category__title:hover {color: #369ef6;}
+body.newsblogger .wc-block-components-review-list-item__rating>.wc-block-components-review-list-item__rating__stars span:before {color: #369ef6;}
+body.newsblogger button.woocommerce-Button.button:hover{ background-color: #369ef6;}
+body.newsblogger.woocommerce-checkout .wc-block-checkout__contact-fields .wc-block-components-checkout-step__heading, body.newsblogger.woocommerce-checkout .wc-block-components-checkout-step__heading, body.newsblogger.woocommerce-checkout .wc-block-components-order-summary .wc-block-components-panel__button{border-bottom: 1px solid #369ef6;}
+body.newsblogger.woocommerce-page a.button.wc-forward:hover{background-color: #369ef6;}
+body.newsblogger.woocommerce-page .woocommerce-message::before {
+    color: #369ef6;
+}
+.newsblogger .wp-block-woocommerce-product-template li:hover .wp-block-button.wc-block-components-product-button .wc-block-components-product-button__button{
+    background-color:#369ef6;
+    color:#ffffff;
+    border:1px solid #369ef6;
+}
+.newsblogger .wp-block-woocommerce-product-template .wp-block-button.wc-block-components-product-button .added_to_cart{
+    background-color: #369ef6;
+    color: #fff;
+}
+.newsblogger .search-panel input[type="search"] {
+    border: 1px solid #369ef6;
+}

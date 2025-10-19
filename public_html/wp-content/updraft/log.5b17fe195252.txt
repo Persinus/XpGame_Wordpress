@@ -1,0 +1,1369 @@
+0000.000 (0) Opened log file at time: Tue, 30 Sep 2025 14:29:49 +0000 on https://xpgame.id.vn
+0000.001 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.7 WP: 6.8.2 PHP: 8.1.30 (litespeed, Linux onehost-webhn072403.000nethost.com 4.18.0-553.5.1.lve.1.el8.x86_64 #1 SMP Fri Jun 14 15:38:45 UTC 2024 x86_64) MySQL: 10.6.19-MariaDB-cll-lve-log (max packet size=268435456) WPLANG: vi Server: LiteSpeed safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 50.5M | 52M) multisite: N openssl: OpenSSL 1.1.1w  11 Sep 2023 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: Y
+0000.002 (0) Free space on disk containing Updraft's temporary directory: 2363140.1 MB
+0000.005 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.006 (0) Semaphore (fd, wp_options) being initialised
+0000.008 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.009 (0) Set semaphore last lock (fd) time to 2025-09-30 14:29:49
+0000.010 (0) Semaphore lock (fd) complete
+0000.013 (0) Backup run: resumption=0, nonce=5b17fe195252, file_nonce=5b17fe195252 begun at=1759242589 (0s ago), job type=backup
+0000.015 (0) Scheduling a resumption (1) after 300 seconds (1759242889) in case this run gets aborted
+0000.024 (0) Checking if we have a zip executable available
+0000.025 (0) Testing: /usr/bin/zip
+0000.028 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.029 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.030 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.030 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.031 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.037 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.038 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.044 (0) Working binary zip found: /usr/bin/zip
+0000.045 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.046 (0) Creation of backups of directories: beginning
+0000.048 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0027.218 (0) Total entities for the zip file: 3336 directories, 22339 files (0 skipped as non-modified), 264.4 MB
+0027.220 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0027.978 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: size is now: 0.80 MB
+0027.981 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 100 files added (on-disk size: 788.6 KB)
+0027.983 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 200 files added (on-disk size: 788.6 KB)
+0027.985 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 300 files added (on-disk size: 788.6 KB)
+0027.987 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 400 files added (on-disk size: 788.6 KB)
+0027.989 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 500 files added (on-disk size: 788.6 KB)
+0027.991 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 600 files added (on-disk size: 788.6 KB)
+0027.993 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 700 files added (on-disk size: 788.6 KB)
+0027.995 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 800 files added (on-disk size: 788.6 KB)
+0027.997 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 900 files added (on-disk size: 788.6 KB)
+0027.998 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25.7 MB, 22339 files batched, 937 (938) added so far); re-opening (prior size: 788.6 KB)
+0067.319 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: size is now: 14.20 MB
+0067.323 (0) A useful amount of data was added after this amount of zip processing: 40.3 s (normalised: 39.1 s, rate: 654.3 KB/s)
+0067.325 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 1000 files added (on-disk size: 14502.5 KB)
+0067.327 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 1100 files added (on-disk size: 14502.5 KB)
+0067.329 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 1200 files added (on-disk size: 14502.5 KB)
+0067.331 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 1300 files added (on-disk size: 14502.5 KB)
+0067.333 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 1400 files added (on-disk size: 14502.5 KB)
+0067.335 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 1500 files added (on-disk size: 14502.5 KB)
+0067.337 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 1600 files added (on-disk size: 14502.5 KB)
+0067.339 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 1700 files added (on-disk size: 14502.5 KB)
+0067.340 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25.2 MB, 22339 files batched, 858 (1796) added so far); re-opening (prior size: 14502.5 KB)
+0110.795 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: size is now: 21.20 MB
+0110.797 (0) A useful amount of data was added after this amount of zip processing: 43.7 s (normalised: 43.5 s, rate: 589 KB/s)
+0110.799 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 1800 files added (on-disk size: 21755.4 KB)
+0110.801 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 1900 files added (on-disk size: 21755.4 KB)
+0110.803 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 2000 files added (on-disk size: 21755.4 KB)
+0110.805 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 2100 files added (on-disk size: 21755.4 KB)
+0110.807 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 2200 files added (on-disk size: 21755.4 KB)
+0110.810 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 2300 files added (on-disk size: 21755.4 KB)
+0110.812 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 2400 files added (on-disk size: 21755.4 KB)
+0110.814 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 2500 files added (on-disk size: 21755.4 KB)
+0110.816 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 2600 files added (on-disk size: 21755.4 KB)
+0110.818 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 2700 files added (on-disk size: 21755.4 KB)
+0110.821 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (7.7 MB, 22339 files batched, 1001 (2797) added so far); re-opening (prior size: 21755.4 KB)
+0144.124 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 2800 files added (on-disk size: 24529.3 KB)
+0144.126 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 2900 files added (on-disk size: 24529.3 KB)
+0144.128 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 3000 files added (on-disk size: 24529.3 KB)
+0144.130 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 3100 files added (on-disk size: 24529.3 KB)
+0144.132 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 3200 files added (on-disk size: 24529.3 KB)
+0144.134 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 3300 files added (on-disk size: 24529.3 KB)
+0144.136 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 3400 files added (on-disk size: 24529.3 KB)
+0144.138 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 3500 files added (on-disk size: 24529.3 KB)
+0144.140 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 3600 files added (on-disk size: 24529.3 KB)
+0144.142 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 3700 files added (on-disk size: 24529.3 KB)
+0144.144 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (24.6 MB, 22339 files batched, 1001 (3798) added so far); re-opening (prior size: 24529.3 KB)
+0201.503 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: size is now: 35.70 MB
+0201.506 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 3800 files added (on-disk size: 36516.4 KB)
+0201.508 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 3900 files added (on-disk size: 36516.4 KB)
+0201.510 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 4000 files added (on-disk size: 36516.4 KB)
+0201.512 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 4100 files added (on-disk size: 36516.4 KB)
+0201.514 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 4200 files added (on-disk size: 36516.4 KB)
+0201.516 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 4300 files added (on-disk size: 36516.4 KB)
+0201.518 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 4400 files added (on-disk size: 36516.4 KB)
+0201.520 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 4500 files added (on-disk size: 36516.4 KB)
+0201.522 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 4600 files added (on-disk size: 36516.4 KB)
+0201.524 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 4700 files added (on-disk size: 36516.4 KB)
+0201.525 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (17.4 MB, 22339 files batched, 1001 (4799) added so far); re-opening (prior size: 36516.4 KB)
+0260.225 (0) The scheduled resumption is within 45 seconds - will reschedule
+0260.228 (0) Rescheduling resumption 1: moving to 345 seconds from now (1759243195)
+0260.230 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 45 = 345
+0260.231 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 4800 files added (on-disk size: 42704.2 KB)
+0260.233 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 4900 files added (on-disk size: 42704.2 KB)
+0260.235 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 5000 files added (on-disk size: 42704.2 KB)
+0260.237 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 5100 files added (on-disk size: 42704.2 KB)
+0260.239 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 5200 files added (on-disk size: 42704.2 KB)
+0260.241 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 5300 files added (on-disk size: 42704.2 KB)
+0260.243 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 5400 files added (on-disk size: 42704.2 KB)
+0260.245 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 5500 files added (on-disk size: 42704.2 KB)
+0260.247 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 5600 files added (on-disk size: 42704.2 KB)
+0260.249 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 5700 files added (on-disk size: 42704.2 KB)
+0260.251 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (21 MB, 22339 files batched, 1001 (5800) added so far); re-opening (prior size: 42704.2 KB)
+0318.148 (0) The time we have been running (318.1) is approaching the resumption interval (345) - increasing resumption interval to 349
+0324.155 (0) The time we have been running (324.2) is approaching the resumption interval (349) - increasing resumption interval to 355
+0330.065 (0) The time we have been running (330.1) is approaching the resumption interval (355) - increasing resumption interval to 361
+0331.717 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: size is now: 51.50 MB
+0331.721 (0) The time we have been running (331.7) is approaching the resumption interval (361) - increasing resumption interval to 362
+0331.723 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 5800 files added (on-disk size: 52738.4 KB)
+0331.725 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 5900 files added (on-disk size: 52738.4 KB)
+0331.727 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 6000 files added (on-disk size: 52738.4 KB)
+0331.729 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 6100 files added (on-disk size: 52738.4 KB)
+0331.732 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 6200 files added (on-disk size: 52738.4 KB)
+0331.734 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 6300 files added (on-disk size: 52738.4 KB)
+0331.737 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 6400 files added (on-disk size: 52738.4 KB)
+0331.739 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 6500 files added (on-disk size: 52738.4 KB)
+0331.741 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 6600 files added (on-disk size: 52738.4 KB)
+0331.743 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 6700 files added (on-disk size: 52738.4 KB)
+0331.745 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 6800 files added (on-disk size: 52738.4 KB)
+0331.746 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (1 MB, 22339 files batched, 1001 (6801) added so far); re-opening (prior size: 52738.4 KB)
+0383.189 (0) The time we have been running (383.2) is approaching the resumption interval (362) - increasing resumption interval to 414
+0389.116 (0) The time we have been running (389.1) is approaching the resumption interval (414) - increasing resumption interval to 420
+0389.132 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 6900 files added (on-disk size: 53539.6 KB)
+0389.134 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 7000 files added (on-disk size: 53539.6 KB)
+0389.136 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 7100 files added (on-disk size: 53539.6 KB)
+0389.138 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 7200 files added (on-disk size: 53539.6 KB)
+0389.141 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 7300 files added (on-disk size: 53539.6 KB)
+0389.143 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 7400 files added (on-disk size: 53539.6 KB)
+0389.145 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 7500 files added (on-disk size: 53539.6 KB)
+0389.147 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 7600 files added (on-disk size: 53539.6 KB)
+0389.149 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 7700 files added (on-disk size: 53539.6 KB)
+0389.151 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 7800 files added (on-disk size: 53539.6 KB)
+0389.152 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (1.3 MB, 22339 files batched, 1001 (7802) added so far); re-opening (prior size: 53539.6 KB)
+0440.089 (0) The time we have been running (440.1) is approaching the resumption interval (420) - increasing resumption interval to 471
+0446.886 (0) The time we have been running (446.9) is approaching the resumption interval (471) - increasing resumption interval to 477
+0446.905 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 7900 files added (on-disk size: 54673.1 KB)
+0446.907 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 8000 files added (on-disk size: 54673.1 KB)
+0446.909 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 8100 files added (on-disk size: 54673.1 KB)
+0446.911 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 8200 files added (on-disk size: 54673.1 KB)
+0446.913 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 8300 files added (on-disk size: 54673.1 KB)
+0446.915 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 8400 files added (on-disk size: 54673.1 KB)
+0446.917 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 8500 files added (on-disk size: 54673.1 KB)
+0446.919 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 8600 files added (on-disk size: 54673.1 KB)
+0446.921 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 8700 files added (on-disk size: 54673.1 KB)
+0446.923 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 8800 files added (on-disk size: 54673.1 KB)
+0446.924 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (21 MB, 22339 files batched, 1001 (8803) added so far); re-opening (prior size: 54673.1 KB)
+0499.293 (0) The time we have been running (499.3) is approaching the resumption interval (477) - increasing resumption interval to 530
+0505.266 (0) The time we have been running (505.3) is approaching the resumption interval (530) - increasing resumption interval to 536
+0511.073 (0) The time we have been running (511.1) is approaching the resumption interval (536) - increasing resumption interval to 542
+0517.065 (0) The time we have been running (517.1) is approaching the resumption interval (542) - increasing resumption interval to 548
+0523.080 (0) The time we have been running (523.1) is approaching the resumption interval (548) - increasing resumption interval to 554
+0529.124 (0) The time we have been running (529.1) is approaching the resumption interval (554) - increasing resumption interval to 560
+0532.000 (0) The time we have been running (532) is approaching the resumption interval (560) - increasing resumption interval to 562
+0532.002 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 8900 files added (on-disk size: 64168.5 KB)
+0532.005 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 9000 files added (on-disk size: 64168.5 KB)
+0532.007 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 9100 files added (on-disk size: 64168.5 KB)
+0532.009 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 9200 files added (on-disk size: 64168.5 KB)
+0532.011 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 9300 files added (on-disk size: 64168.5 KB)
+0532.013 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 9400 files added (on-disk size: 64168.5 KB)
+0532.015 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 9500 files added (on-disk size: 64168.5 KB)
+0532.017 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 9600 files added (on-disk size: 64168.5 KB)
+0532.019 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 9700 files added (on-disk size: 64168.5 KB)
+0532.021 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 9800 files added (on-disk size: 64168.5 KB)
+0532.022 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (7.3 MB, 22339 files batched, 1001 (9804) added so far); re-opening (prior size: 64168.5 KB)
+0596.112 (0) The time we have been running (596.1) is approaching the resumption interval (562) - increasing resumption interval to 627
+0602.068 (0) The time we have been running (602.1) is approaching the resumption interval (627) - increasing resumption interval to 633
+0605.813 (0) The time we have been running (605.8) is approaching the resumption interval (633) - increasing resumption interval to 636
+0605.816 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 9900 files added (on-disk size: 66310.4 KB)
+0605.818 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 10000 files added (on-disk size: 66310.4 KB)
+0605.821 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 10100 files added (on-disk size: 66310.4 KB)
+0605.823 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 10200 files added (on-disk size: 66310.4 KB)
+0605.825 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 10300 files added (on-disk size: 66310.4 KB)
+0605.827 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 10400 files added (on-disk size: 66310.4 KB)
+0605.829 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 10500 files added (on-disk size: 66310.4 KB)
+0605.831 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 10600 files added (on-disk size: 66310.4 KB)
+0605.833 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 10700 files added (on-disk size: 66310.4 KB)
+0605.835 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 10800 files added (on-disk size: 66310.4 KB)
+0605.836 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (2.7 MB, 22339 files batched, 1001 (10805) added so far); re-opening (prior size: 66310.4 KB)
+0668.841 (0) The time we have been running (668.8) is approaching the resumption interval (636) - increasing resumption interval to 699
+0674.079 (0) The time we have been running (674.1) is approaching the resumption interval (699) - increasing resumption interval to 705
+0676.592 (0) The time we have been running (676.6) is approaching the resumption interval (705) - increasing resumption interval to 707
+0676.595 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 10900 files added (on-disk size: 67312.7 KB)
+0676.597 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 11000 files added (on-disk size: 67312.7 KB)
+0676.599 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 11100 files added (on-disk size: 67312.7 KB)
+0676.601 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 11200 files added (on-disk size: 67312.7 KB)
+0676.603 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 11300 files added (on-disk size: 67312.7 KB)
+0676.605 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 11400 files added (on-disk size: 67312.7 KB)
+0676.607 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 11500 files added (on-disk size: 67312.7 KB)
+0676.609 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 11600 files added (on-disk size: 67312.7 KB)
+0676.611 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 11700 files added (on-disk size: 67312.7 KB)
+0676.613 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 11800 files added (on-disk size: 67312.7 KB)
+0676.613 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (3.8 MB, 22339 files batched, 1001 (11806) added so far); re-opening (prior size: 67312.7 KB)
+0684.609 (1) Opened log file at time: Tue, 30 Sep 2025 14:41:14 +0000 on https://xpgame.id.vn
+0684.610 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.7 WP: 6.8.2 PHP: 8.1.30 (litespeed, Linux onehost-webhn072403.000nethost.com 4.18.0-553.5.1.lve.1.el8.x86_64 #1 SMP Fri Jun 14 15:38:45 UTC 2024 x86_64) MySQL: 10.6.19-MariaDB-cll-lve-log (max packet size=268435456) WPLANG: vi Server: LiteSpeed safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 28.8M | 32M) multisite: N openssl: OpenSSL 1.1.1w  11 Sep 2023 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: Y
+0684.610 (1) Free space on disk containing Updraft's temporary directory: 2362923 MB
+0684.611 (1) Requesting backup semaphore lock (udp_backupjob_5b17fe195252)
+0684.612 (1) [Debug] Lock option (updraft_lock_udp_backupjob_5b17fe195252, wp_options) was created in the database
+0684.612 (1) [Info] Lock (updraft_lock_udp_backupjob_5b17fe195252, wp_options) acquired after initialising the database
+0684.614 (1) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1759243266.5, time_now=1759243274.5, diff=8, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+0684.614 (1) A new resumption will be scheduled to prevent the job ending
+0684.615 (1) Rescheduling resumption 2: moving to 600 seconds from now (1759243874)
+0684.617 (1) To decrease the likelihood of overlaps, increasing resumption interval to: 707 + 120 = 827
+0740.455 (0) The time we have been running (740.5) is approaching the resumption interval (707) - increasing resumption interval to 771
+0746.063 (0) The time we have been running (746.1) is approaching the resumption interval (771) - increasing resumption interval to 777
+0749.340 (0) The time we have been running (749.3) is approaching the resumption interval (777) - increasing resumption interval to 780
+0749.344 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 11900 files added (on-disk size: 68527.1 KB)
+0749.347 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 12000 files added (on-disk size: 68527.1 KB)
+0749.349 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 12100 files added (on-disk size: 68527.1 KB)
+0749.352 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 12200 files added (on-disk size: 68527.1 KB)
+0749.355 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 12300 files added (on-disk size: 68527.1 KB)
+0749.358 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 12400 files added (on-disk size: 68527.1 KB)
+0749.361 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 12500 files added (on-disk size: 68527.1 KB)
+0749.363 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 12600 files added (on-disk size: 68527.1 KB)
+0749.366 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 12700 files added (on-disk size: 68527.1 KB)
+0749.369 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 12800 files added (on-disk size: 68527.1 KB)
+0749.370 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (17.5 MB, 22339 files batched, 1001 (12807) added so far); re-opening (prior size: 68527.1 KB)
+0814.242 (0) The time we have been running (814.2) is approaching the resumption interval (780) - increasing resumption interval to 845
+0822.852 (0) The time we have been running (822.8) is approaching the resumption interval (845) - increasing resumption interval to 853
+0828.429 (0) The time we have been running (828.4) is approaching the resumption interval (853) - increasing resumption interval to 859
+0834.066 (0) The time we have been running (834.1) is approaching the resumption interval (859) - increasing resumption interval to 865
+0837.201 (0) The time we have been running (837.2) is approaching the resumption interval (865) - increasing resumption interval to 868
+0837.204 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 12900 files added (on-disk size: 73551.3 KB)
+0837.206 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 13000 files added (on-disk size: 73551.3 KB)
+0837.207 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 13100 files added (on-disk size: 73551.3 KB)
+0837.210 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 13200 files added (on-disk size: 73551.3 KB)
+0837.212 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 13300 files added (on-disk size: 73551.3 KB)
+0837.213 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 13400 files added (on-disk size: 73551.3 KB)
+0837.215 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 13500 files added (on-disk size: 73551.3 KB)
+0837.217 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 13600 files added (on-disk size: 73551.3 KB)
+0837.219 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 13700 files added (on-disk size: 73551.3 KB)
+0837.221 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 13800 files added (on-disk size: 73551.3 KB)
+0837.222 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (6 MB, 22339 files batched, 1001 (13808) added so far); re-opening (prior size: 73551.3 KB)
+0906.996 (0) The time we have been running (907) is approaching the resumption interval (868) - increasing resumption interval to 937
+0913.073 (0) The time we have been running (913.1) is approaching the resumption interval (937) - increasing resumption interval to 944
+0917.208 (0) The time we have been running (917.2) is approaching the resumption interval (944) - increasing resumption interval to 948
+0917.211 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 13900 files added (on-disk size: 74878 KB)
+0917.213 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 14000 files added (on-disk size: 74878 KB)
+0917.215 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 14100 files added (on-disk size: 74878 KB)
+0917.217 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 14200 files added (on-disk size: 74878 KB)
+0917.219 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 14300 files added (on-disk size: 74878 KB)
+0917.221 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 14400 files added (on-disk size: 74878 KB)
+0917.223 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 14500 files added (on-disk size: 74878 KB)
+0917.225 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 14600 files added (on-disk size: 74878 KB)
+0917.227 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 14700 files added (on-disk size: 74878 KB)
+0917.229 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 14800 files added (on-disk size: 74878 KB)
+0917.230 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (4.8 MB, 22339 files batched, 1001 (14809) added so far); re-opening (prior size: 74878 KB)
+0988.260 (0) The time we have been running (988.3) is approaching the resumption interval (948) - increasing resumption interval to 1019
+0995.771 (0) The time we have been running (995.8) is approaching the resumption interval (1019) - increasing resumption interval to 1026
+0995.790 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 14900 files added (on-disk size: 76219.5 KB)
+0995.792 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 15000 files added (on-disk size: 76219.5 KB)
+0995.794 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 15100 files added (on-disk size: 76219.5 KB)
+0995.796 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 15200 files added (on-disk size: 76219.5 KB)
+0995.798 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 15300 files added (on-disk size: 76219.5 KB)
+0995.800 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 15400 files added (on-disk size: 76219.5 KB)
+0995.802 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 15500 files added (on-disk size: 76219.5 KB)
+0995.804 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 15600 files added (on-disk size: 76219.5 KB)
+0995.806 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 15700 files added (on-disk size: 76219.5 KB)
+0995.808 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 15800 files added (on-disk size: 76219.5 KB)
+0995.809 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (2 MB, 22339 files batched, 1001 (15810) added so far); re-opening (prior size: 76219.5 KB)
+1067.755 (0) The time we have been running (1067.8) is approaching the resumption interval (1026) - increasing resumption interval to 1098
+1074.758 (0) The time we have been running (1074.8) is approaching the resumption interval (1098) - increasing resumption interval to 1105
+1074.774 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 15900 files added (on-disk size: 77101 KB)
+1074.777 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 16000 files added (on-disk size: 77101 KB)
+1074.779 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 16100 files added (on-disk size: 77101 KB)
+1074.781 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 16200 files added (on-disk size: 77101 KB)
+1074.783 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 16300 files added (on-disk size: 77101 KB)
+1074.785 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 16400 files added (on-disk size: 77101 KB)
+1074.787 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 16500 files added (on-disk size: 77101 KB)
+1074.789 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 16600 files added (on-disk size: 77101 KB)
+1074.791 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 16700 files added (on-disk size: 77101 KB)
+1074.793 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 16800 files added (on-disk size: 77101 KB)
+1074.794 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (4.2 MB, 22339 files batched, 1001 (16811) added so far); re-opening (prior size: 77101 KB)
+1147.498 (0) The time we have been running (1147.5) is approaching the resumption interval (1105) - increasing resumption interval to 1178
+1153.062 (0) The time we have been running (1153.1) is approaching the resumption interval (1178) - increasing resumption interval to 1184
+1157.493 (0) The time we have been running (1157.5) is approaching the resumption interval (1184) - increasing resumption interval to 1188
+1157.495 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 16900 files added (on-disk size: 78675.3 KB)
+1157.497 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 17000 files added (on-disk size: 78675.3 KB)
+1157.499 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 17100 files added (on-disk size: 78675.3 KB)
+1157.501 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 17200 files added (on-disk size: 78675.3 KB)
+1157.503 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 17300 files added (on-disk size: 78675.3 KB)
+1157.505 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 17400 files added (on-disk size: 78675.3 KB)
+1157.507 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 17500 files added (on-disk size: 78675.3 KB)
+1157.509 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 17600 files added (on-disk size: 78675.3 KB)
+1157.511 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 17700 files added (on-disk size: 78675.3 KB)
+1157.512 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 17800 files added (on-disk size: 78675.3 KB)
+1157.513 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (15.9 MB, 22339 files batched, 1001 (17812) added so far); re-opening (prior size: 78675.3 KB)
+1233.814 (0) The time we have been running (1233.8) is approaching the resumption interval (1188) - increasing resumption interval to 1264
+1240.092 (0) The time we have been running (1240.1) is approaching the resumption interval (1264) - increasing resumption interval to 1271
+1246.232 (0) The time we have been running (1246.2) is approaching the resumption interval (1271) - increasing resumption interval to 1277
+1252.142 (0) The time we have been running (1252.1) is approaching the resumption interval (1277) - increasing resumption interval to 1283
+1258.068 (0) The time we have been running (1258.1) is approaching the resumption interval (1283) - increasing resumption interval to 1289
+1258.084 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 17900 files added (on-disk size: 83608.3 KB)
+1258.087 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 18000 files added (on-disk size: 83608.3 KB)
+1258.089 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 18100 files added (on-disk size: 83608.3 KB)
+1258.091 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 18200 files added (on-disk size: 83608.3 KB)
+1258.092 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 18300 files added (on-disk size: 83608.3 KB)
+1258.094 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 18400 files added (on-disk size: 83608.3 KB)
+1258.096 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 18500 files added (on-disk size: 83608.3 KB)
+1258.098 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 18600 files added (on-disk size: 83608.3 KB)
+1258.100 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 18700 files added (on-disk size: 83608.3 KB)
+1258.103 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 18800 files added (on-disk size: 83608.3 KB)
+1258.103 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (19.1 MB, 22339 files batched, 1001 (18813) added so far); re-opening (prior size: 83608.3 KB)
+1336.840 (0) The time we have been running (1336.8) is approaching the resumption interval (1289) - increasing resumption interval to 1367
+1342.422 (0) The time we have been running (1342.4) is approaching the resumption interval (1367) - increasing resumption interval to 1373
+1348.211 (2) Opened log file at time: Tue, 30 Sep 2025 14:52:18 +0000 on https://xpgame.id.vn
+1348.212 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.7 WP: 6.8.2 PHP: 8.1.30 (litespeed, Linux onehost-webhn072403.000nethost.com 4.18.0-553.5.1.lve.1.el8.x86_64 #1 SMP Fri Jun 14 15:38:45 UTC 2024 x86_64) MySQL: 10.6.19-MariaDB-cll-lve-log (max packet size=268435456) WPLANG: vi Server: LiteSpeed safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 30.7M | 34M) multisite: N openssl: OpenSSL 1.1.1w  11 Sep 2023 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: Y
+1348.212 (2) Free space on disk containing Updraft's temporary directory: 2362564.5 MB
+1348.213 (2) Requesting backup semaphore lock (udp_backupjob_5b17fe195252)
+1348.214 (2) [Info] Lock (updraft_lock_udp_backupjob_5b17fe195252, wp_options) acquired
+1348.216 (2) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1759243932.4, time_now=1759243938.2, diff=5, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+1348.217 (2) A new resumption will be scheduled to prevent the job ending
+1348.217 (2) Rescheduling resumption 3: moving to 900 seconds from now (1759244838)
+1348.220 (2) To decrease the likelihood of overlaps, increasing resumption interval to: 1373 + 120 = 1493
+1348.793 (0) The time we have been running (1348.8) is approaching the resumption interval (1373) - increasing resumption interval to 1379
+1354.087 (0) The time we have been running (1354.1) is approaching the resumption interval (1379) - increasing resumption interval to 1385
+1360.249 (0) The time we have been running (1360.2) is approaching the resumption interval (1385) - increasing resumption interval to 1391
+1366.862 (0) The time we have been running (1366.9) is approaching the resumption interval (1391) - increasing resumption interval to 1397
+1366.886 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 18900 files added (on-disk size: 91939.4 KB)
+1366.889 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 19000 files added (on-disk size: 91939.4 KB)
+1366.891 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 19100 files added (on-disk size: 91939.4 KB)
+1366.893 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 19200 files added (on-disk size: 91939.4 KB)
+1366.895 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 19300 files added (on-disk size: 91939.4 KB)
+1366.897 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 19400 files added (on-disk size: 91939.4 KB)
+1366.899 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 19500 files added (on-disk size: 91939.4 KB)
+1366.901 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 19600 files added (on-disk size: 91939.4 KB)
+1366.903 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 19700 files added (on-disk size: 91939.4 KB)
+1366.905 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 19800 files added (on-disk size: 91939.4 KB)
+1366.906 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (5.2 MB, 22339 files batched, 1001 (19814) added so far); re-opening (prior size: 91939.4 KB)
+1455.854 (0) The time we have been running (1455.9) is approaching the resumption interval (1397) - increasing resumption interval to 1486
+1461.063 (0) The time we have been running (1461.1) is approaching the resumption interval (1486) - increasing resumption interval to 1492
+1468.626 (0) The time we have been running (1468.6) is approaching the resumption interval (1492) - increasing resumption interval to 1499
+1468.650 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 19900 files added (on-disk size: 93716.4 KB)
+1468.652 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 20000 files added (on-disk size: 93716.4 KB)
+1468.654 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 20100 files added (on-disk size: 93716.4 KB)
+1468.655 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 20200 files added (on-disk size: 93716.4 KB)
+1468.657 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 20300 files added (on-disk size: 93716.4 KB)
+1468.659 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 20400 files added (on-disk size: 93716.4 KB)
+1468.661 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 20500 files added (on-disk size: 93716.4 KB)
+1468.663 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 20600 files added (on-disk size: 93716.4 KB)
+1468.665 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 20700 files added (on-disk size: 93716.4 KB)
+1468.667 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 20800 files added (on-disk size: 93716.4 KB)
+1468.668 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (17.3 MB, 22339 files batched, 1001 (20815) added so far); re-opening (prior size: 93716.4 KB)
+1557.133 (0) The time we have been running (1557.1) is approaching the resumption interval (1499) - increasing resumption interval to 1588
+1563.095 (0) The time we have been running (1563.1) is approaching the resumption interval (1588) - increasing resumption interval to 1594
+1569.152 (0) The time we have been running (1569.1) is approaching the resumption interval (1594) - increasing resumption interval to 1600
+1575.069 (0) The time we have been running (1575.1) is approaching the resumption interval (1600) - increasing resumption interval to 1606
+1581.628 (0) The time we have been running (1581.6) is approaching the resumption interval (1606) - increasing resumption interval to 1612
+1581.647 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 20900 files added (on-disk size: 98953.6 KB)
+1581.650 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 21000 files added (on-disk size: 98953.6 KB)
+1581.653 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 21100 files added (on-disk size: 98953.6 KB)
+1581.655 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 21200 files added (on-disk size: 98953.6 KB)
+1581.658 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 21300 files added (on-disk size: 98953.6 KB)
+1581.661 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 21400 files added (on-disk size: 98953.6 KB)
+1581.664 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 21500 files added (on-disk size: 98953.6 KB)
+1581.666 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 21600 files added (on-disk size: 98953.6 KB)
+1581.668 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 21700 files added (on-disk size: 98953.6 KB)
+1581.670 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 21800 files added (on-disk size: 98953.6 KB)
+1581.671 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (9 MB, 22339 files batched, 1001 (21816) added so far); re-opening (prior size: 98953.6 KB)
+1677.171 (0) The time we have been running (1677.2) is approaching the resumption interval (1612) - increasing resumption interval to 1708
+1683.095 (0) The time we have been running (1683.1) is approaching the resumption interval (1708) - increasing resumption interval to 1714
+1689.077 (0) The time we have been running (1689.1) is approaching the resumption interval (1714) - increasing resumption interval to 1720
+1689.096 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 21900 files added (on-disk size: 102874 KB)
+1689.098 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 22000 files added (on-disk size: 102874 KB)
+1689.100 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 22100 files added (on-disk size: 102874 KB)
+1689.102 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 22200 files added (on-disk size: 102874 KB)
+1689.104 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.tmp: 22300 files added (on-disk size: 102874 KB)
+1788.037 (0) The time we have been running (1788) is approaching the resumption interval (1720) - increasing resumption interval to 1819
+1794.981 (0) The time we have been running (1795) is approaching the resumption interval (1819) - increasing resumption interval to 1825
+1795.002 (0) The time we have been running (1795) is approaching the resumption interval (1825) - increasing resumption interval to 1826
+1795.188 (0) Creating zip file manifest (backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.list-temp.tmp)
+1796.975 (0) Successfully created zip file manifest (size: 2081508)
+1797.971 (0) Created plugins zip (0) - 104728.4 KB in 1797.9 s (58.2 KB/s) (sha1: cfc5fb2be76b84d790b958286d217d15a88dd9b3, sha256: e924c0fa43782971ed223c551d2154bc75025c8ac442faba526950c7d3461331)
+1797.987 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+1797.988 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-05e2353e3d159fd700831ceb46e36959)
+1799.604 (0) Google Drive: quota usage: used=3224.1 MB, total=15360 MB, available=12135.9 MB
+1799.605 (0) Google Drive: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip: Attempting to upload to Google Drive (into folder id: 1owCdYNjSR8zvwY-n_liAqXgdqGxFB_vQ)
+1800.842 (0) The time we have been running (1800.8) is approaching the resumption interval (1826) - increasing resumption interval to 1831
+1800.843 (0) Googledrive chunked upload: 1 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 57.2 / 82)
+1801.253 (0) The time we have been running (1801.3) is approaching the resumption interval (1831) - increasing resumption interval to 1832
+1801.255 (0) Googledrive chunked upload: 2.9 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 57.2 / 82)
+1801.741 (0) Googledrive chunked upload: 6.8 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 57.2 / 82)
+1802.277 (0) The time we have been running (1802.3) is approaching the resumption interval (1832) - increasing resumption interval to 1833
+1802.278 (0) Googledrive chunked upload: 14.7 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 57.2 / 82)
+1803.208 (0) The time we have been running (1803.2) is approaching the resumption interval (1833) - increasing resumption interval to 1834
+1803.210 (0) Googledrive chunked upload: 30.3 % uploaded (32505856 - increasing chunk size to 32768 KB - memory usage: 57.2 / 82)
+1804.234 (0) The time we have been running (1804.2) is approaching the resumption interval (1834) - increasing resumption interval to 1835
+1804.235 (0) Googledrive chunked upload: 61.6 % uploaded (66060288 - increasing chunk size to 65536 KB - memory usage: 57.2 / 82)
+1807.114 (0) The time we have been running (1807.1) is approaching the resumption interval (1835) - increasing resumption interval to 1838
+1807.115 (0) Googledrive chunked upload: 100 % uploaded (66060288)
+1807.118 (0) Google Drive: OK: Archive backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip uploaded in 7.51 seconds
+1807.119 (0) Recording as successfully uploaded: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip
+1807.129 (0) Deleting local file: backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip: OK
+1807.133 (0) Beginning creation of dump of themes (split every: 400 MB)
+1808.070 (0) Total entities for the zip file: 427 directories, 2514 files (0 skipped as non-modified), 41.4 MB
+1808.073 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+1808.075 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+1808.077 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+1808.079 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+1808.081 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+1808.083 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+1808.085 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+1808.087 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+1808.089 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25.2 MB, 2514 files batched, 890 (890) added so far); re-opening (prior size: 0 KB)
+1814.197 (0) The time we have been running (1814.2) is approaching the resumption interval (1838) - increasing resumption interval to 1845
+1820.147 (0) The time we have been running (1820.1) is approaching the resumption interval (1845) - increasing resumption interval to 1851
+1826.095 (0) The time we have been running (1826.1) is approaching the resumption interval (1851) - increasing resumption interval to 1857
+1832.193 (0) The time we have been running (1832.2) is approaching the resumption interval (1857) - increasing resumption interval to 1863
+1838.111 (0) The time we have been running (1838.1) is approaching the resumption interval (1863) - increasing resumption interval to 1869
+1844.072 (0) The time we have been running (1844.1) is approaching the resumption interval (1869) - increasing resumption interval to 1875
+1850.240 (0) The time we have been running (1850.2) is approaching the resumption interval (1875) - increasing resumption interval to 1881
+1850.409 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip.tmp: size is now: 17.00 MB
+1850.412 (0) A useful amount of data was added after this amount of zip processing: 43.4 s (normalised: 42.9 s, rate: 596.3 KB/s)
+1850.413 (0) Performance is good - will increase the amount of data we attempt to batch (time=43.352555036545, normalised_time=42.932648889009, max_time=1850.412031889, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+1850.415 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip.tmp: 900 files added (on-disk size: 17362.7 KB)
+1850.416 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip.tmp: 1000 files added (on-disk size: 17362.7 KB)
+1850.418 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip.tmp: 1100 files added (on-disk size: 17362.7 KB)
+1850.420 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip.tmp: 1200 files added (on-disk size: 17362.7 KB)
+1850.422 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip.tmp: 1300 files added (on-disk size: 17362.7 KB)
+1850.424 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip.tmp: 1400 files added (on-disk size: 17362.7 KB)
+1850.426 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip.tmp: 1500 files added (on-disk size: 17362.7 KB)
+1850.428 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip.tmp: 1600 files added (on-disk size: 17362.7 KB)
+1850.429 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip.tmp: 1700 files added (on-disk size: 17362.7 KB)
+1850.431 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip.tmp: 1800 files added (on-disk size: 17362.7 KB)
+1850.433 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (6.7 MB, 2514 files batched, 1001 (1891) added so far); re-opening (prior size: 17362.7 KB)
+1869.125 (0) The time we have been running (1869.1) is approaching the resumption interval (1881) - increasing resumption interval to 1900
+1875.066 (0) The time we have been running (1875.1) is approaching the resumption interval (1900) - increasing resumption interval to 1906
+1881.066 (0) The time we have been running (1881.1) is approaching the resumption interval (1906) - increasing resumption interval to 1912
+1881.080 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip.tmp: 1900 files added (on-disk size: 20209 KB)
+1881.082 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip.tmp: 2000 files added (on-disk size: 20209 KB)
+1881.084 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip.tmp: 2100 files added (on-disk size: 20209 KB)
+1881.086 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip.tmp: 2200 files added (on-disk size: 20209 KB)
+1881.088 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip.tmp: 2300 files added (on-disk size: 20209 KB)
+1881.090 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip.tmp: 2400 files added (on-disk size: 20209 KB)
+1881.092 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip.tmp: 2500 files added (on-disk size: 20209 KB)
+1900.545 (0) The time we have been running (1900.5) is approaching the resumption interval (1912) - increasing resumption interval to 1931
+1906.588 (0) The time we have been running (1906.6) is approaching the resumption interval (1931) - increasing resumption interval to 1937
+1912.266 (0) The time we have been running (1912.3) is approaching the resumption interval (1937) - increasing resumption interval to 1943
+1918.806 (0) The time we have been running (1918.8) is approaching the resumption interval (1943) - increasing resumption interval to 1949
+1919.169 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip.tmp: size is now: 26.80 MB
+1919.172 (0) The time we have been running (1919.2) is approaching the resumption interval (1949) - increasing resumption interval to 1950
+1919.195 (0) Creating zip file manifest (backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip.list-temp.tmp)
+1919.347 (0) Successfully created zip file manifest (size: 185477)
+1919.641 (0) Created themes zip (0) - 27409.9 KB in 112.5 s (243.6 KB/s) (sha1: e39787fab3bbc28b0f5a57b5936d01269f69c672, sha256: 90d7230fe97f2948721de54e1be1cf3c24beda44078d238076add54b74c31ae0)
+1919.645 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+1919.645 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-05e2353e3d159fd700831ceb46e36959)
+1920.129 (0) Google Drive: quota usage: used=3326.4 MB, total=15360 MB, available=12033.6 MB
+1920.130 (0) Google Drive: backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip: Attempting to upload to Google Drive (into folder id: 1owCdYNjSR8zvwY-n_liAqXgdqGxFB_vQ)
+1921.431 (0) The time we have been running (1921.4) is approaching the resumption interval (1950) - increasing resumption interval to 1952
+1921.432 (0) Googledrive chunked upload: 3.7 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 53.9 / 82)
+1921.825 (0) Googledrive chunked upload: 11.2 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 53.9 / 82)
+1922.412 (0) The time we have been running (1922.4) is approaching the resumption interval (1952) - increasing resumption interval to 1953
+1922.413 (0) Googledrive chunked upload: 26.2 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 53.9 / 82)
+1922.903 (0) Googledrive chunked upload: 56 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 53.9 / 82)
+1925.055 (0) The time we have been running (1925.1) is approaching the resumption interval (1953) - increasing resumption interval to 1956
+1925.057 (0) Googledrive chunked upload: 100 % uploaded (15728640)
+1925.059 (0) Google Drive: OK: Archive backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip uploaded in 4.93 seconds
+1925.059 (0) Recording as successfully uploaded: backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip
+1925.063 (0) Deleting local file: backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip: OK
+1925.066 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots,wp-staging
+1925.066 (0) Looking for candidates to backup in: /home/ismvgkqjhosting/public_html/wp-content/uploads
+1925.067 (0) finding files: .htaccess: adding to list (1)
+1925.067 (0) finding files: addon.zip: adding to list (2)
+1925.067 (0) finding files: analytify-logs: adding to list (3)
+1925.068 (0) finding files: blocksy: adding to list (4)
+1925.068 (0) finding files: 2025: adding to list (5)
+1925.069 (0) finding files: wpcf7_uploads: adding to list (6)
+1925.069 (0) finding files: thim-fonts: adding to list (7)
+1925.069 (0) finding files: elementor: adding to list (8)
+1925.070 (0) finding files: wpo: adding to list (9)
+1925.070 (0) finding files: redux: adding to list (10)
+1925.071 (0) finding files: rank-math: adding to list (11)
+1925.071 (0) finding files: ampforwp-tree-shaking: adding to list (12)
+1925.071 (0) finding files: smush: adding to list (13)
+1925.072 (0) finding files: wpconsent: adding to list (14)
+1925.072 (0) finding files: wpforms: adding to list (15)
+1925.073 (0) finding files: mailpoet: adding to list (16)
+1925.073 (0) finding files: wpcode: adding to list (17)
+1925.073 (0) finding files: ithemes-security: adding to list (18)
+1925.074 (0) Beginning creation of dump of uploads (split every: 400 MB)
+1926.812 (0) Total entities for the zip file: 33 directories, 1144 files (0 skipped as non-modified), 128.8 MB
+1926.814 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+1926.816 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+1926.818 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+1926.819 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+1926.821 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-uploads.zip.tmp: 500 files added (on-disk size: 0 KB)
+1926.823 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-uploads.zip.tmp: 600 files added (on-disk size: 0 KB)
+1926.825 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-uploads.zip.tmp: 700 files added (on-disk size: 0 KB)
+1926.826 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-uploads.zip.tmp: 800 files added (on-disk size: 0 KB)
+1926.828 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-uploads.zip.tmp: 900 files added (on-disk size: 0 KB)
+1926.830 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-uploads.zip.tmp: 1000 files added (on-disk size: 0 KB)
+1926.830 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (118.6 MB, 1144 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+1933.118 (0) The time we have been running (1933.1) is approaching the resumption interval (1956) - increasing resumption interval to 1964
+1940.110 (0) The time we have been running (1940.1) is approaching the resumption interval (1964) - increasing resumption interval to 1971
+1946.278 (0) The time we have been running (1946.3) is approaching the resumption interval (1971) - increasing resumption interval to 1977
+1952.395 (0) The time we have been running (1952.4) is approaching the resumption interval (1977) - increasing resumption interval to 1983
+1959.040 (0) The time we have been running (1959) is approaching the resumption interval (1983) - increasing resumption interval to 1990
+1964.308 (0) The time we have been running (1964.3) is approaching the resumption interval (1990) - increasing resumption interval to 1995
+1970.222 (0) The time we have been running (1970.2) is approaching the resumption interval (1995) - increasing resumption interval to 2001
+1976.683 (0) The time we have been running (1976.7) is approaching the resumption interval (2001) - increasing resumption interval to 2007
+1982.081 (0) The time we have been running (1982.1) is approaching the resumption interval (2007) - increasing resumption interval to 2013
+1988.296 (0) The time we have been running (1988.3) is approaching the resumption interval (2013) - increasing resumption interval to 2019
+1994.097 (0) The time we have been running (1994.1) is approaching the resumption interval (2019) - increasing resumption interval to 2025
+2000.137 (0) The time we have been running (2000.1) is approaching the resumption interval (2025) - increasing resumption interval to 2031
+2006.069 (0) The time we have been running (2006.1) is approaching the resumption interval (2031) - increasing resumption interval to 2037
+2012.179 (0) The time we have been running (2012.2) is approaching the resumption interval (2037) - increasing resumption interval to 2043
+2018.159 (0) The time we have been running (2018.2) is approaching the resumption interval (2043) - increasing resumption interval to 2049
+2024.338 (0) The time we have been running (2024.3) is approaching the resumption interval (2049) - increasing resumption interval to 2055
+2030.091 (0) The time we have been running (2030.1) is approaching the resumption interval (2055) - increasing resumption interval to 2061
+2036.368 (0) The time we have been running (2036.4) is approaching the resumption interval (2061) - increasing resumption interval to 2067
+2042.970 (0) The time we have been running (2043) is approaching the resumption interval (2067) - increasing resumption interval to 2073
+2056.337 (0) The time we have been running (2056.3) is approaching the resumption interval (2073) - increasing resumption interval to 2087
+2062.107 (0) The time we have been running (2062.1) is approaching the resumption interval (2087) - increasing resumption interval to 2093
+2068.088 (0) The time we have been running (2068.1) is approaching the resumption interval (2093) - increasing resumption interval to 2099
+2074.853 (0) The time we have been running (2074.8) is approaching the resumption interval (2099) - increasing resumption interval to 2105
+2081.032 (0) The time we have been running (2081) is approaching the resumption interval (2105) - increasing resumption interval to 2112
+2089.538 (0) The time we have been running (2089.5) is approaching the resumption interval (2112) - increasing resumption interval to 2120
+2095.070 (0) The time we have been running (2095.1) is approaching the resumption interval (2120) - increasing resumption interval to 2126
+2101.695 (0) The time we have been running (2101.7) is approaching the resumption interval (2126) - increasing resumption interval to 2132
+2107.265 (0) The time we have been running (2107.3) is approaching the resumption interval (2132) - increasing resumption interval to 2138
+2113.428 (0) The time we have been running (2113.4) is approaching the resumption interval (2138) - increasing resumption interval to 2144
+2119.249 (0) The time we have been running (2119.2) is approaching the resumption interval (2144) - increasing resumption interval to 2150
+2125.093 (0) The time we have been running (2125.1) is approaching the resumption interval (2150) - increasing resumption interval to 2156
+2133.701 (0) The time we have been running (2133.7) is approaching the resumption interval (2156) - increasing resumption interval to 2164
+2139.146 (0) The time we have been running (2139.1) is approaching the resumption interval (2164) - increasing resumption interval to 2170
+2148.943 (0) The time we have been running (2148.9) is approaching the resumption interval (2170) - increasing resumption interval to 2179
+2154.298 (0) The time we have been running (2154.3) is approaching the resumption interval (2179) - increasing resumption interval to 2185
+2160.089 (0) The time we have been running (2160.1) is approaching the resumption interval (2185) - increasing resumption interval to 2191
+2167.390 (0) The time we have been running (2167.2) is approaching the resumption interval (2191) - increasing resumption interval to 2198
+2168.034 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-uploads.zip.tmp: size is now: 118.80 MB
+2168.044 (0) The time we have been running (2168) is approaching the resumption interval (2198) - increasing resumption interval to 2199
+2168.047 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-uploads.zip.tmp: 1100 files added (on-disk size: 121643 KB)
+2256.041 (3) Opened log file at time: Tue, 30 Sep 2025 15:07:25 +0000 on https://xpgame.id.vn
+2256.049 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.7 WP: 6.8.2 PHP: 8.1.30 (litespeed, Linux onehost-webhn072403.000nethost.com 4.18.0-553.5.1.lve.1.el8.x86_64 #1 SMP Fri Jun 14 15:38:45 UTC 2024 x86_64) MySQL: 10.6.19-MariaDB-cll-lve-log (max packet size=268435456) WPLANG: vi Server: LiteSpeed safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 25.4M | 26M) multisite: N openssl: OpenSSL 1.1.1w  11 Sep 2023 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: Y
+2256.049 (3) Free space on disk containing Updraft's temporary directory: 2366552.8 MB
+2256.050 (3) Requesting backup semaphore lock (udp_backupjob_5b17fe195252)
+2256.051 (3) [Info] Lock (updraft_lock_udp_backupjob_5b17fe195252, wp_options) acquired
+2256.053 (3) Backup run: resumption=3, nonce=5b17fe195252, file_nonce=5b17fe195252 begun at=1759242589 (2256s ago), job type=backup
+2256.055 (3) Scheduling a resumption (4) after 2199 seconds (1759247044) in case this run gets aborted
+2256.104 (3) Checking if we have a zip executable available
+2256.105 (3) Zip engine: found/will use a binary zip: /usr/bin/zip
+2256.106 (3) Creation of backups of directories: had begun; will resume
+2256.116 (3) Beginning creation of dump of plugins (split every: 400 MB)
+2256.119 (3) Terminate: zi2Dkjvi exists with activity within the last 30 seconds (time_mod=1759244846, time_now=1759244846, diff=0, size=88640KB). This likely means that another UpdraftPlus run is at work; so we will exit.
+2256.120 (3) Rescheduling resumption 4: moving to 900 seconds from now (1759245746)
+2256.123 (3) To decrease the likelihood of overlaps, increasing resumption interval to: 2199 + 120 = 2319
+2288.331 (0) The time we have been running (2288.3) is approaching the resumption interval (2199) - increasing resumption interval to 2319
+2294.079 (0) The time we have been running (2294.1) is approaching the resumption interval (2319) - increasing resumption interval to 2325
+2300.224 (0) The time we have been running (2300.2) is approaching the resumption interval (2325) - increasing resumption interval to 2331
+2306.083 (0) The time we have been running (2306.1) is approaching the resumption interval (2331) - increasing resumption interval to 2337
+2306.113 (0) Creating zip file manifest (backup_2025-09-30-2129_XpGame_5b17fe195252-uploads.zip.list-temp.tmp)
+2306.166 (0) Successfully created zip file manifest (size: 76319)
+2307.420 (0) Created uploads zip (0) - 129287.5 KB in 382.3 s (338.1 KB/s) (sha1: 884cb93c2b53188b40f53c0135d803829f1b1d1a, sha256: c025591721a15a98c0d0121b8796620805dcbb5b18774fce0caa0452f7488cdf)
+2307.425 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+2307.426 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-05e2353e3d159fd700831ceb46e36959)
+2307.971 (0) Google Drive: quota usage: used=3353.2 MB, total=15360 MB, available=12006.8 MB
+2307.972 (0) Google Drive: backup_2025-09-30-2129_XpGame_5b17fe195252-uploads.zip: Attempting to upload to Google Drive (into folder id: 1owCdYNjSR8zvwY-n_liAqXgdqGxFB_vQ)
+2309.327 (0) The time we have been running (2309.3) is approaching the resumption interval (2337) - increasing resumption interval to 2340
+2309.329 (0) Googledrive chunked upload: 0.8 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 53.6 / 82)
+2309.835 (0) Googledrive chunked upload: 2.4 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 53.7 / 82)
+2310.255 (0) The time we have been running (2310.3) is approaching the resumption interval (2340) - increasing resumption interval to 2341
+2310.257 (0) Googledrive chunked upload: 5.5 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 53.7 / 82)
+2310.759 (0) Googledrive chunked upload: 11.9 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 53.7 / 82)
+2311.533 (0) The time we have been running (2311.5) is approaching the resumption interval (2341) - increasing resumption interval to 2342
+2311.534 (0) Googledrive chunked upload: 24.6 % uploaded (32505856 - increasing chunk size to 32768 KB - memory usage: 53.7 / 82)
+2312.464 (0) The time we have been running (2312.5) is approaching the resumption interval (2342) - increasing resumption interval to 2343
+2312.465 (0) Googledrive chunked upload: 49.9 % uploaded (66060288 - increasing chunk size to 65536 KB - memory usage: 53.7 / 82)
+2316.568 (0) The time we have been running (2316.6) is approaching the resumption interval (2343) - increasing resumption interval to 2347
+2316.570 (0) Googledrive chunked upload: 100 % uploaded (66060288)
+2316.572 (0) Google Drive: OK: Archive backup_2025-09-30-2129_XpGame_5b17fe195252-uploads.zip uploaded in 8.6 seconds
+2316.573 (0) Recording as successfully uploaded: backup_2025-09-30-2129_XpGame_5b17fe195252-uploads.zip
+2316.585 (0) Deleting local file: backup_2025-09-30-2129_XpGame_5b17fe195252-uploads.zip: OK
+2316.587 (0) No backup of mu-plugins: excluded by user's options
+2316.588 (0) Beginning backup of other directories found in the content directory (index: 0)
+2316.588 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+2316.589 (0) Looking for candidates to backup in: /home/ismvgkqjhosting/public_html/wp-content
+2316.589 (0) finding files: advanced-cache.php: adding to list (1)
+2316.590 (0) finding files: index.php: adding to list (2)
+2316.590 (0) finding files: jetpack-waf: adding to list (3)
+2316.590 (0) finding files: themes: skipping: this is the themes directory
+2316.591 (0) finding files: uploads: skipping: this is the uploads directory
+2316.591 (0) finding files: fonts: adding to list (4)
+2316.592 (0) finding files: plugins: skipping: this is the plugins directory
+2316.592 (0) finding files: updraft: skipping: this is the updraft directory
+2316.592 (0) finding files: wpo-cache: adding to list (5)
+2316.593 (0) finding files: languages: adding to list (6)
+2316.593 (0) finding files: litespeed: adding to list (7)
+2316.594 (0) finding files: upgrade: skipping: excluded by options
+2316.594 (0) finding files: upgrade-temp-backup: adding to list (8)
+2316.595 (0) finding files: .litespeed_conf.dat: adding to list (9)
+2316.595 (0) finding files: wflogs: adding to list (10)
+2316.614 (0) Total entities for the zip file: 27 directories, 526 files (0 skipped as non-modified), 37.8 MB
+2316.616 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+2316.617 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+2316.619 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-others.zip.tmp: 300 files added (on-disk size: 0 KB)
+2316.621 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-others.zip.tmp: 400 files added (on-disk size: 0 KB)
+2316.623 (0) Zip: backup_2025-09-30-2129_XpGame_5b17fe195252-others.zip.tmp: 500 files added (on-disk size: 0 KB)
+2330.201 (0) The time we have been running (2330.2) is approaching the resumption interval (2347) - increasing resumption interval to 2361
+2336.192 (0) The time we have been running (2336.2) is approaching the resumption interval (2361) - increasing resumption interval to 2367
+2342.085 (0) The time we have been running (2342.1) is approaching the resumption interval (2367) - increasing resumption interval to 2373
+2348.194 (0) The time we have been running (2348.1) is approaching the resumption interval (2373) - increasing resumption interval to 2379
+2355.202 (0) The time we have been running (2355.2) is approaching the resumption interval (2379) - increasing resumption interval to 2386
+2360.943 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-others.zip.tmp: size is now: 11.60 MB
+2360.950 (0) The time we have been running (2360.9) is approaching the resumption interval (2386) - increasing resumption interval to 2391
+2360.957 (0) Creating zip file manifest (backup_2025-09-30-2129_XpGame_5b17fe195252-others.zip.list-temp.tmp)
+2360.986 (0) Successfully created zip file manifest (size: 33207)
+2361.115 (0) Created others zip (0) - 11885.3 KB in 44.5 s (267 KB/s) (sha1: 5110206774bb7932f77a1fc8bbad470c177145f7, sha256: a82a66423f27a753193c465ffd57008930f5ae2d55dc1aa4aa1ff9b40de1c01a)
+2361.118 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+2361.118 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-05e2353e3d159fd700831ceb46e36959)
+2361.619 (0) Google Drive: quota usage: used=3479.4 MB, total=15360 MB, available=11880.6 MB
+2361.620 (0) Google Drive: backup_2025-09-30-2129_XpGame_5b17fe195252-others.zip: Attempting to upload to Google Drive (into folder id: 1owCdYNjSR8zvwY-n_liAqXgdqGxFB_vQ)
+2362.862 (0) The time we have been running (2362.9) is approaching the resumption interval (2391) - increasing resumption interval to 2393
+2362.863 (0) Googledrive chunked upload: 8.6 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 53.6 / 82)
+2363.245 (0) The time we have been running (2363.2) is approaching the resumption interval (2393) - increasing resumption interval to 2394
+2363.247 (0) Googledrive chunked upload: 25.8 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 53.6 / 82)
+2363.663 (0) Googledrive chunked upload: 60.3 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 53.6 / 82)
+2366.339 (0) The time we have been running (2366.3) is approaching the resumption interval (2394) - increasing resumption interval to 2397
+2366.341 (0) Googledrive chunked upload: 100 % uploaded (7340032)
+2366.344 (0) Google Drive: OK: Archive backup_2025-09-30-2129_XpGame_5b17fe195252-others.zip uploaded in 4.72 seconds
+2366.344 (0) Recording as successfully uploaded: backup_2025-09-30-2129_XpGame_5b17fe195252-others.zip
+2366.347 (0) Deleting local file: backup_2025-09-30-2129_XpGame_5b17fe195252-others.zip: OK
+2366.352 (0) Saving backup status to database (elements: 8)
+2366.353 (0) Beginning creation of database dump (WordPress DB)
+2366.354 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+2366.355 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+2366.369 (0) Output: /*M!999999\- enable the sandbox mode */ \n/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!4010 (truncated - 1484 bytes total)
+2366.369 (0) Working binary mysqldump found: /usr/bin/mysqldump
+2366.388 (0) Table wp_options: Total expected rows (via COUNT): 848
+2366.449 (0) Table wp_options: Rows added in this batch (next record: 8415): 844 (uncompressed bytes in this segment=1810317) in 0.07 seconds
+2366.454 (0) Table wp_options: finishing file(s) (2, 338 KB)
+2366.458 (0) Table wp_users: Total expected rows (via COUNT): 1
+2366.459 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2366.461 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1192) in 0.00 seconds
+2366.464 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+2366.470 (0) Table wp_usermeta: Total expected rows (via COUNT): 90
+2366.470 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2366.474 (0) Table wp_usermeta: Rows added in this batch (next record: 95): 90 (uncompressed bytes in this segment=88028) in 0.01 seconds
+2366.478 (0) Table wp_usermeta: finishing file(s) (2, 8.8 KB)
+2366.484 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 399
+2366.485 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2366.494 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 418): 399 (uncompressed bytes in this segment=179415) in 0.01 seconds
+2366.500 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 13.6 KB)
+2366.504 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+2366.505 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=626) in 0.00 seconds
+2366.508 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+2366.511 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 6
+2366.512 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2366.514 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=758) in 0.00 seconds
+2366.516 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+2366.519 (0) Table wp_actionscheduler_logs: Total expected rows (approximate): 1181
+2366.528 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 1213): 1181 (uncompressed bytes in this segment=104445) in 0.01 seconds
+2366.531 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 10.8 KB)
+2366.536 (0) Table wp_commentmeta: Total expected rows (via COUNT): 22
+2366.536 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2366.538 (0) Table wp_commentmeta: Rows added in this batch (next record: 36): 22 (uncompressed bytes in this segment=1684) in 0.00 seconds
+2366.542 (0) Table wp_commentmeta: finishing file(s) (2, 0.6 KB)
+2366.545 (0) Table wp_comments: Total expected rows (via COUNT): 13
+2366.545 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2366.546 (0) Table wp_comments: Rows added in this batch (next record: 33): 13 (uncompressed bytes in this segment=7115) in 0.00 seconds
+2366.549 (0) Table wp_comments: finishing file(s) (2, 2.1 KB)
+2366.553 (0) Table wp_links: Total expected rows (via COUNT): 0
+2366.555 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1027) in 0.00 seconds
+2366.557 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+2366.563 (0) Table wp_postmeta: Total expected rows (approximate): 2775
+2366.588 (0) Table wp_postmeta: Rows added in this batch (next record: 3955): 2850 (uncompressed bytes in this segment=752737) in 0.03 seconds
+2366.592 (0) Table wp_postmeta: finishing file(s) (2, 80.8 KB)
+2366.601 (0) Table wp_posts: Total expected rows (via COUNT): 404
+2366.601 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2366.636 (0) Table wp_posts: Rows added in this batch (next record: 489): 404 (uncompressed bytes in this segment=1490327) in 0.04 seconds
+2366.641 (0) Table wp_posts: finishing file(s) (2, 131.1 KB)
+2366.643 (0) Table wp_term_relationships: Total expected rows (approximate): 116
+2366.645 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 116 (uncompressed bytes in this segment=2435) in 0.00 seconds
+2366.648 (0) Table wp_term_relationships: finishing file(s) (2, 0.7 KB)
+2366.652 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 24
+2366.652 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2366.654 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 137): 24 (uncompressed bytes in this segment=2271) in 0.00 seconds
+2366.658 (0) Table wp_term_taxonomy: finishing file(s) (2, 1 KB)
+2366.662 (0) Table wp_termmeta: Total expected rows (via COUNT): 23
+2366.662 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2366.663 (0) Table wp_termmeta: Rows added in this batch (next record: 114): 23 (uncompressed bytes in this segment=1616) in 0.00 seconds
+2366.667 (0) Table wp_termmeta: finishing file(s) (2, 0.6 KB)
+2366.670 (0) Table wp_terms: Total expected rows (via COUNT): 24
+2366.670 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2366.671 (0) Table wp_terms: Rows added in this batch (next record: 137): 24 (uncompressed bytes in this segment=1700) in 0.00 seconds
+2366.674 (0) Table wp_terms: finishing file(s) (2, 0.9 KB)
+2366.680 (0) Table wp_aioseo_cache: Total expected rows (via COUNT): 9
+2366.681 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2366.684 (0) Table wp_aioseo_cache: Rows added in this batch (next record: 9): 9 (uncompressed bytes in this segment=94973) in 0.01 seconds
+2366.688 (0) Table wp_aioseo_cache: finishing file(s) (2, 18.2 KB)
+2366.692 (0) Table wp_aioseo_crawl_cleanup_blocked_args: Total expected rows (via COUNT): 0
+2366.694 (0) Table wp_aioseo_crawl_cleanup_blocked_args: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=947) in 0.00 seconds
+2366.698 (0) Table wp_aioseo_crawl_cleanup_blocked_args: finishing file(s) (2, 0.4 KB)
+2366.704 (0) Table wp_aioseo_crawl_cleanup_logs: Total expected rows (via COUNT): 0
+2366.704 (0) Table wp_aioseo_crawl_cleanup_logs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=770) in 0.00 seconds
+2366.707 (0) Table wp_aioseo_crawl_cleanup_logs: finishing file(s) (2, 0.4 KB)
+2366.713 (0) Table wp_aioseo_notifications: Total expected rows (via COUNT): 2
+2366.714 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2366.715 (0) Table wp_aioseo_notifications: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=2700) in 0.01 seconds
+2366.719 (0) Table wp_aioseo_notifications: finishing file(s) (2, 1.1 KB)
+2366.725 (0) Table wp_aioseo_posts: Total expected rows (via COUNT): 20
+2366.725 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2366.727 (0) Table wp_aioseo_posts: Rows added in this batch (next record: 20): 20 (uncompressed bytes in this segment=20561) in 0.00 seconds
+2366.730 (0) Table wp_aioseo_posts: finishing file(s) (2, 1.9 KB)
+2366.735 (0) Table wp_aioseo_seo_analyzer_results: Total expected rows (via COUNT): 0
+2366.736 (0) Table wp_aioseo_seo_analyzer_results: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=765) in 0.00 seconds
+2366.739 (0) Table wp_aioseo_seo_analyzer_results: finishing file(s) (2, 0.4 KB)
+2366.743 (0) Table wp_aioseo_writing_assistant_keywords: Total expected rows (via COUNT): 0
+2366.743 (0) Table wp_aioseo_writing_assistant_keywords: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1029) in 0.00 seconds
+2366.746 (0) Table wp_aioseo_writing_assistant_keywords: finishing file(s) (2, 0.5 KB)
+2366.750 (0) Table wp_aioseo_writing_assistant_posts: Total expected rows (via COUNT): 0
+2366.750 (0) Table wp_aioseo_writing_assistant_posts: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=924) in 0.00 seconds
+2366.753 (0) Table wp_aioseo_writing_assistant_posts: finishing file(s) (2, 0.4 KB)
+2366.758 (0) Table wp_b2s_network_insights: Total expected rows (via COUNT): 0
+2366.758 (0) Table wp_b2s_network_insights: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=711) in 0.00 seconds
+2366.762 (0) Table wp_b2s_network_insights: finishing file(s) (2, 0.4 KB)
+2366.765 (0) Table wp_b2s_posts: Total expected rows (via COUNT): 0
+2366.765 (0) Table wp_b2s_posts: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1814) in 0.00 seconds
+2366.768 (0) Table wp_b2s_posts: finishing file(s) (2, 0.6 KB)
+2366.773 (0) Table wp_b2s_posts_drafts: Total expected rows (via COUNT): 0
+2366.774 (0) Table wp_b2s_posts_drafts: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=710) in 0.00 seconds
+2366.777 (0) Table wp_b2s_posts_drafts: finishing file(s) (2, 0.4 KB)
+2366.781 (0) Table wp_b2s_posts_favorites: Total expected rows (via COUNT): 0
+2366.782 (0) Table wp_b2s_posts_favorites: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=648) in 0.00 seconds
+2366.784 (0) Table wp_b2s_posts_favorites: finishing file(s) (2, 0.4 KB)
+2366.790 (0) Table wp_b2s_posts_insights: Total expected rows (via COUNT): 0
+2366.790 (0) Table wp_b2s_posts_insights: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=825) in 0.00 seconds
+2366.794 (0) Table wp_b2s_posts_insights: finishing file(s) (2, 0.4 KB)
+2366.798 (0) Table wp_b2s_posts_network_details: Total expected rows (via COUNT): 1
+2366.799 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2366.801 (0) Table wp_b2s_posts_network_details: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=882) in 0.00 seconds
+2366.804 (0) Table wp_b2s_posts_network_details: finishing file(s) (2, 0.5 KB)
+2366.807 (0) Table wp_b2s_posts_sched_details: Total expected rows (via COUNT): 0
+2366.809 (0) Table wp_b2s_posts_sched_details: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=547) in 0.00 seconds
+2366.811 (0) Table wp_b2s_posts_sched_details: finishing file(s) (2, 0.3 KB)
+2366.815 (0) Table wp_b2s_user: Total expected rows (via COUNT): 1
+2366.815 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2366.817 (0) Table wp_b2s_user: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1005) in 0.00 seconds
+2366.820 (0) Table wp_b2s_user: finishing file(s) (2, 0.6 KB)
+2366.825 (0) Table wp_b2s_user_contact: Total expected rows (via COUNT): 0
+2366.827 (0) Table wp_b2s_user_contact: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1199) in 0.00 seconds
+2366.829 (0) Table wp_b2s_user_contact: finishing file(s) (2, 0.5 KB)
+2366.833 (0) Table wp_b2s_user_network_settings: Total expected rows (via COUNT): 0
+2366.833 (0) Table wp_b2s_user_network_settings: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=668) in 0.00 seconds
+2366.836 (0) Table wp_b2s_user_network_settings: finishing file(s) (2, 0.3 KB)
+2366.840 (0) Table wp_b2s_user_tool: Total expected rows (via COUNT): 0
+2366.840 (0) Table wp_b2s_user_tool: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=706) in 0.00 seconds
+2366.843 (0) Table wp_b2s_user_tool: finishing file(s) (2, 0.4 KB)
+2366.849 (0) Table wp_bit_social_accounts: Total expected rows (via COUNT): 0
+2366.849 (0) Table wp_bit_social_accounts: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=909) in 0.00 seconds
+2366.853 (0) Table wp_bit_social_accounts: finishing file(s) (2, 0.4 KB)
+2366.859 (0) Table wp_bit_social_custom_apps: Total expected rows (via COUNT): 0
+2366.860 (0) Table wp_bit_social_custom_apps: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=718) in 0.00 seconds
+2366.863 (0) Table wp_bit_social_custom_apps: finishing file(s) (2, 0.4 KB)
+2366.870 (0) Table wp_bit_social_logs: Total expected rows (via COUNT): 0
+2366.871 (0) Table wp_bit_social_logs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=728) in 0.00 seconds
+2366.874 (0) Table wp_bit_social_logs: finishing file(s) (2, 0.4 KB)
+2366.878 (0) Table wp_bit_social_schedules: Total expected rows (via COUNT): 0
+2366.878 (0) Table wp_bit_social_schedules: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1041) in 0.00 seconds
+2366.882 (0) Table wp_bit_social_schedules: finishing file(s) (2, 0.5 KB)
+2366.886 (0) Table wp_ea11y_page_scanned: Total expected rows (via COUNT): 1
+2366.887 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2366.889 (0) Table wp_ea11y_page_scanned: Rows added in this batch (next record: 11): 1 (uncompressed bytes in this segment=1210) in 0.01 seconds
+2366.894 (0) Table wp_ea11y_page_scanned: finishing file(s) (2, 0.6 KB)
+2366.897 (0) Table wp_ea11y_pages_remediation: Total expected rows (via COUNT): 0
+2366.899 (0) Table wp_ea11y_pages_remediation: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=893) in 0.00 seconds
+2366.902 (0) Table wp_ea11y_pages_remediation: finishing file(s) (2, 0.5 KB)
+2366.905 (0) Table wp_ea11y_scanner_results: Total expected rows (via COUNT): 2
+2366.906 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2366.907 (0) Table wp_ea11y_scanner_results: Rows added in this batch (next record: 12): 2 (uncompressed bytes in this segment=1431) in 0.00 seconds
+2366.910 (0) Table wp_ea11y_scanner_results: finishing file(s) (2, 0.6 KB)
+2366.913 (0) Table wp_litespeed_avatar: Total expected rows (via COUNT): 15
+2366.913 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2366.915 (0) Table wp_litespeed_avatar: Rows added in this batch (next record: 15): 15 (uncompressed bytes in this segment=3273) in 0.00 seconds
+2366.917 (0) Table wp_litespeed_avatar: finishing file(s) (2, 1 KB)
+2366.920 (0) Table wp_litespeed_img_optming: Total expected rows (via COUNT): 0
+2366.922 (0) Table wp_litespeed_img_optming: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=764) in 0.00 seconds
+2366.925 (0) Table wp_litespeed_img_optming: finishing file(s) (2, 0.4 KB)
+2366.927 (0) Table wp_litespeed_url: Total expected rows (via COUNT): 57
+2366.928 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2366.930 (0) Table wp_litespeed_url: Rows added in this batch (next record: 57): 57 (uncompressed bytes in this segment=5341) in 0.00 seconds
+2366.933 (0) Table wp_litespeed_url: finishing file(s) (2, 1.5 KB)
+2366.936 (0) Table wp_litespeed_url_file: Total expected rows (via COUNT): 271
+2366.937 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2366.940 (0) Table wp_litespeed_url_file: Rows added in this batch (next record: 451): 271 (uncompressed bytes in this segment=20005) in 0.00 seconds
+2366.943 (0) Table wp_litespeed_url_file: finishing file(s) (2, 4.6 KB)
+2366.949 (0) Table wp_mailpoet_automation_run_logs: Total expected rows (via COUNT): 0
+2366.950 (0) Table wp_mailpoet_automation_run_logs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1071) in 0.00 seconds
+2366.954 (0) Table wp_mailpoet_automation_run_logs: finishing file(s) (2, 0.5 KB)
+2366.959 (0) Table wp_mailpoet_automation_run_subjects: Total expected rows (via COUNT): 0
+2366.960 (0) Table wp_mailpoet_automation_run_subjects: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=767) in 0.00 seconds
+2366.964 (0) Table wp_mailpoet_automation_run_subjects: finishing file(s) (2, 0.4 KB)
+2366.967 (0) Table wp_mailpoet_automation_runs: Total expected rows (via COUNT): 0
+2366.968 (0) Table wp_mailpoet_automation_runs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1022) in 0.00 seconds
+2366.971 (0) Table wp_mailpoet_automation_runs: finishing file(s) (2, 0.5 KB)
+2366.973 (0) Table wp_mailpoet_automation_triggers: Total expected rows (approximate): 1
+2366.974 (0) Table wp_mailpoet_automation_triggers: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=669) in 0.00 seconds
+2366.977 (0) Table wp_mailpoet_automation_triggers: finishing file(s) (2, 0.4 KB)
+2366.982 (0) Table wp_mailpoet_automation_versions: Total expected rows (via COUNT): 3
+2366.983 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2366.985 (0) Table wp_mailpoet_automation_versions: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=3181) in 0.00 seconds
+2366.988 (0) Table wp_mailpoet_automation_versions: finishing file(s) (2, 0.8 KB)
+2366.992 (0) Table wp_mailpoet_automations: Total expected rows (via COUNT): 1
+2366.993 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2366.994 (0) Table wp_mailpoet_automations: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1060) in 0.00 seconds
+2366.999 (0) Table wp_mailpoet_automations: finishing file(s) (2, 0.5 KB)
+2367.006 (0) Table wp_mailpoet_custom_fields: Total expected rows (via COUNT): 0
+2367.007 (0) Table wp_mailpoet_custom_fields: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=742) in 0.00 seconds
+2367.010 (0) The time we have been running (2367) is approaching the resumption interval (2397) - increasing resumption interval to 2398
+2367.012 (0) Table wp_mailpoet_custom_fields: finishing file(s) (2, 0.4 KB)
+2367.016 (0) Table wp_mailpoet_dynamic_segment_filters: Total expected rows (via COUNT): 0
+2367.017 (0) Table wp_mailpoet_dynamic_segment_filters: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=877) in 0.00 seconds
+2367.020 (0) Table wp_mailpoet_dynamic_segment_filters: finishing file(s) (2, 0.4 KB)
+2367.024 (0) Table wp_mailpoet_feature_flags: Total expected rows (via COUNT): 0
+2367.024 (0) Table wp_mailpoet_feature_flags: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=717) in 0.00 seconds
+2367.027 (0) Table wp_mailpoet_feature_flags: finishing file(s) (2, 0.4 KB)
+2367.031 (0) Table wp_mailpoet_forms: Total expected rows (via COUNT): 0
+2367.031 (0) Table wp_mailpoet_forms: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=800) in 0.00 seconds
+2367.035 (0) Table wp_mailpoet_forms: finishing file(s) (2, 0.4 KB)
+2367.040 (0) Table wp_mailpoet_log: Total expected rows (via COUNT): 0
+2367.041 (0) Table wp_mailpoet_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=717) in 0.00 seconds
+2367.044 (0) Table wp_mailpoet_log: finishing file(s) (2, 0.4 KB)
+2367.048 (0) Table wp_mailpoet_migrations: Total expected rows (via COUNT): 37
+2367.048 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2367.050 (0) Table wp_mailpoet_migrations: Rows added in this batch (next record: 37): 37 (uncompressed bytes in this segment=4213) in 0.00 seconds
+2367.053 (0) Table wp_mailpoet_migrations: finishing file(s) (2, 0.9 KB)
+2367.057 (0) Table wp_mailpoet_newsletter_links: Total expected rows (via COUNT): 0
+2367.059 (0) Table wp_mailpoet_newsletter_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=884) in 0.00 seconds
+2367.062 (0) Table wp_mailpoet_newsletter_links: finishing file(s) (2, 0.4 KB)
+2367.066 (0) Table wp_mailpoet_newsletter_option: Total expected rows (via COUNT): 2
+2367.066 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2367.068 (0) Table wp_mailpoet_newsletter_option: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1062) in 0.00 seconds
+2367.072 (0) Table wp_mailpoet_newsletter_option: finishing file(s) (2, 0.5 KB)
+2367.075 (0) Table wp_mailpoet_newsletter_option_fields: Total expected rows (via COUNT): 31
+2367.075 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2367.077 (0) Table wp_mailpoet_newsletter_option_fields: Rows added in this batch (next record: 31): 31 (uncompressed bytes in this segment=2884) in 0.00 seconds
+2367.080 (0) Table wp_mailpoet_newsletter_option_fields: finishing file(s) (2, 0.8 KB)
+2367.085 (0) Table wp_mailpoet_newsletter_posts: Total expected rows (via COUNT): 0
+2367.086 (0) Table wp_mailpoet_newsletter_posts: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=763) in 0.00 seconds
+2367.089 (0) Table wp_mailpoet_newsletter_posts: finishing file(s) (2, 0.4 KB)
+2367.094 (0) Table wp_mailpoet_newsletter_segment: Total expected rows (via COUNT): 0
+2367.096 (0) Table wp_mailpoet_newsletter_segment: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=803) in 0.00 seconds
+2367.100 (0) Table wp_mailpoet_newsletter_segment: finishing file(s) (2, 0.4 KB)
+2367.107 (0) Table wp_mailpoet_newsletter_templates: Total expected rows (via COUNT): 76
+2367.107 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2367.127 (0) Table wp_mailpoet_newsletter_templates: Rows added in this batch (next record: 76): 76 (uncompressed bytes in this segment=1106000) in 0.02 seconds
+2367.131 (0) Table wp_mailpoet_newsletter_templates: finishing file(s) (2, 65.6 KB)
+2367.136 (0) Table wp_mailpoet_newsletters: Total expected rows (via COUNT): 2
+2367.137 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2367.139 (0) Table wp_mailpoet_newsletters: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=23516) in 0.01 seconds
+2367.143 (0) Table wp_mailpoet_newsletters: finishing file(s) (2, 3.1 KB)
+2367.147 (0) Table wp_mailpoet_scheduled_task_subscribers: Total expected rows (approximate): 0
+2367.149 (0) Table wp_mailpoet_scheduled_task_subscribers: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=898) in 0.00 seconds
+2367.151 (0) Table wp_mailpoet_scheduled_task_subscribers: finishing file(s) (2, 0.4 KB)
+2367.156 (0) Table wp_mailpoet_scheduled_tasks: Total expected rows (via COUNT): 54
+2367.156 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2367.159 (0) Table wp_mailpoet_scheduled_tasks: Rows added in this batch (next record: 54): 54 (uncompressed bytes in this segment=9975) in 0.01 seconds
+2367.163 (0) Table wp_mailpoet_scheduled_tasks: finishing file(s) (2, 1.7 KB)
+2367.167 (0) Table wp_mailpoet_segments: Total expected rows (via COUNT): 3
+2367.167 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2367.169 (0) Table wp_mailpoet_segments: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=1694) in 0.00 seconds
+2367.172 (0) Table wp_mailpoet_segments: finishing file(s) (2, 0.7 KB)
+2367.176 (0) Table wp_mailpoet_sending_queues: Total expected rows (via COUNT): 0
+2367.177 (0) Table wp_mailpoet_sending_queues: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1178) in 0.00 seconds
+2367.181 (0) Table wp_mailpoet_sending_queues: finishing file(s) (2, 0.5 KB)
+2367.185 (0) Table wp_mailpoet_settings: Total expected rows (via COUNT): 42
+2367.185 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2367.187 (0) Table wp_mailpoet_settings: Rows added in this batch (next record: 42): 42 (uncompressed bytes in this segment=7998) in 0.00 seconds
+2367.191 (0) Table wp_mailpoet_settings: finishing file(s) (2, 2.6 KB)
+2367.197 (0) Table wp_mailpoet_statistics_bounces: Total expected rows (via COUNT): 0
+2367.200 (0) Table wp_mailpoet_statistics_bounces: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=706) in 0.00 seconds
+2367.203 (0) Table wp_mailpoet_statistics_bounces: finishing file(s) (2, 0.4 KB)
+2367.208 (0) Table wp_mailpoet_statistics_clicks: Total expected rows (via COUNT): 0
+2367.209 (0) Table wp_mailpoet_statistics_clicks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1127) in 0.00 seconds
+2367.212 (0) Table wp_mailpoet_statistics_clicks: finishing file(s) (2, 0.5 KB)
+2367.215 (0) Table wp_mailpoet_statistics_forms: Total expected rows (via COUNT): 0
+2367.216 (0) Table wp_mailpoet_statistics_forms: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=708) in 0.00 seconds
+2367.218 (0) Table wp_mailpoet_statistics_forms: finishing file(s) (2, 0.4 KB)
+2367.222 (0) Table wp_mailpoet_statistics_newsletters: Total expected rows (via COUNT): 0
+2367.223 (0) Table wp_mailpoet_statistics_newsletters: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=809) in 0.00 seconds
+2367.225 (0) Table wp_mailpoet_statistics_newsletters: finishing file(s) (2, 0.4 KB)
+2367.229 (0) Table wp_mailpoet_statistics_opens: Total expected rows (via COUNT): 0
+2367.229 (0) Table wp_mailpoet_statistics_opens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1071) in 0.00 seconds
+2367.232 (0) Table wp_mailpoet_statistics_opens: finishing file(s) (2, 0.4 KB)
+2367.235 (0) Table wp_mailpoet_statistics_unsubscribes: Total expected rows (via COUNT): 0
+2367.236 (0) Table wp_mailpoet_statistics_unsubscribes: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1017) in 0.00 seconds
+2367.239 (0) Table wp_mailpoet_statistics_unsubscribes: finishing file(s) (2, 0.5 KB)
+2367.242 (0) Table wp_mailpoet_statistics_woocommerce_purchases: Total expected rows (via COUNT): 0
+2367.243 (0) Table wp_mailpoet_statistics_woocommerce_purchases: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1327) in 0.00 seconds
+2367.245 (0) Table wp_mailpoet_statistics_woocommerce_purchases: finishing file(s) (2, 0.6 KB)
+2367.248 (0) Table wp_mailpoet_stats_notifications: Total expected rows (via COUNT): 0
+2367.249 (0) Table wp_mailpoet_stats_notifications: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=835) in 0.00 seconds
+2367.251 (0) Table wp_mailpoet_stats_notifications: finishing file(s) (2, 0.4 KB)
+2367.255 (0) Table wp_mailpoet_subscriber_custom_field: Total expected rows (via COUNT): 0
+2367.255 (0) Table wp_mailpoet_subscriber_custom_field: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=879) in 0.00 seconds
+2367.258 (0) Table wp_mailpoet_subscriber_custom_field: finishing file(s) (2, 0.4 KB)
+2367.261 (0) Table wp_mailpoet_subscriber_ips: Total expected rows (approximate): 0
+2367.262 (0) Table wp_mailpoet_subscriber_ips: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=564) in 0.00 seconds
+2367.265 (0) Table wp_mailpoet_subscriber_ips: finishing file(s) (2, 0.3 KB)
+2367.267 (0) Table wp_mailpoet_subscriber_segment: Total expected rows (via COUNT): 1
+2367.268 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2367.270 (0) Table wp_mailpoet_subscriber_segment: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1033) in 0.00 seconds
+2367.272 (0) Table wp_mailpoet_subscriber_segment: finishing file(s) (2, 0.5 KB)
+2367.276 (0) Table wp_mailpoet_subscriber_tag: Total expected rows (via COUNT): 0
+2367.278 (0) Table wp_mailpoet_subscriber_tag: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=794) in 0.00 seconds
+2367.281 (0) Table wp_mailpoet_subscriber_tag: finishing file(s) (2, 0.4 KB)
+2367.285 (0) Table wp_mailpoet_subscribers: Total expected rows (via COUNT): 1
+2367.285 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2367.287 (0) Table wp_mailpoet_subscribers: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2977) in 0.00 seconds
+2367.291 (0) Table wp_mailpoet_subscribers: finishing file(s) (2, 0.9 KB)
+2367.296 (0) Table wp_mailpoet_tags: Total expected rows (via COUNT): 0
+2367.298 (0) Table wp_mailpoet_tags: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=670) in 0.00 seconds
+2367.302 (0) Table wp_mailpoet_tags: finishing file(s) (2, 0.4 KB)
+2367.307 (0) Table wp_mailpoet_user_agents: Total expected rows (via COUNT): 0
+2367.308 (0) Table wp_mailpoet_user_agents: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=699) in 0.00 seconds
+2367.311 (0) Table wp_mailpoet_user_agents: finishing file(s) (2, 0.4 KB)
+2367.315 (0) Table wp_mailpoet_user_flags: Total expected rows (via COUNT): 1
+2367.315 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2367.317 (0) Table wp_mailpoet_user_flags: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=896) in 0.00 seconds
+2367.319 (0) Table wp_mailpoet_user_flags: finishing file(s) (2, 0.5 KB)
+2367.322 (0) Table wp_rank_math_404_logs: Total expected rows (via COUNT): 43
+2367.323 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2367.325 (0) Table wp_rank_math_404_logs: Rows added in this batch (next record: 43): 43 (uncompressed bytes in this segment=4087) in 0.00 seconds
+2367.327 (0) Table wp_rank_math_404_logs: finishing file(s) (2, 1.3 KB)
+2367.330 (0) Table wp_rank_math_internal_links: Total expected rows (via COUNT): 142
+2367.331 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2367.333 (0) Table wp_rank_math_internal_links: Rows added in this batch (next record: 697): 142 (uncompressed bytes in this segment=16366) in 0.00 seconds
+2367.336 (0) Table wp_rank_math_internal_links: finishing file(s) (2, 2.7 KB)
+2367.338 (0) Table wp_rank_math_internal_meta: Total expected rows (via COUNT): 41
+2367.339 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2367.341 (0) Table wp_rank_math_internal_meta: Rows added in this batch (next record: 480): 41 (uncompressed bytes in this segment=1383) in 0.00 seconds
+2367.343 (0) Table wp_rank_math_internal_meta: finishing file(s) (2, 0.6 KB)
+2367.348 (0) Table wp_smush_dir_images: Total expected rows (via COUNT): 0
+2367.350 (0) Table wp_smush_dir_images: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=925) in 0.00 seconds
+2367.353 (0) Table wp_smush_dir_images: finishing file(s) (2, 0.5 KB)
+2367.358 (0) Table wp_tm_taskmeta: Total expected rows (via COUNT): 0
+2367.359 (0) Table wp_tm_taskmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=626) in 0.00 seconds
+2367.363 (0) Table wp_tm_taskmeta: finishing file(s) (2, 0.4 KB)
+2367.367 (0) Table wp_tm_tasks: Total expected rows (via COUNT): 0
+2367.368 (0) Table wp_tm_tasks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=769) in 0.00 seconds
+2367.371 (0) Table wp_tm_tasks: finishing file(s) (2, 0.4 KB)
+2367.376 (0) Table wp_userfeedback_heatmap_recordings: Total expected rows (via COUNT): 0
+2367.377 (0) Table wp_userfeedback_heatmap_recordings: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=710) in 0.00 seconds
+2367.381 (0) Table wp_userfeedback_heatmap_recordings: finishing file(s) (2, 0.4 KB)
+2367.385 (0) Table wp_userfeedback_heatmaps: Total expected rows (via COUNT): 0
+2367.385 (0) Table wp_userfeedback_heatmaps: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=629) in 0.00 seconds
+2367.388 (0) Table wp_userfeedback_heatmaps: finishing file(s) (2, 0.4 KB)
+2367.393 (0) Table wp_userfeedback_post_ratings: Total expected rows (via COUNT): 0
+2367.394 (0) Table wp_userfeedback_post_ratings: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=687) in 0.00 seconds
+2367.397 (0) Table wp_userfeedback_post_ratings: finishing file(s) (2, 0.4 KB)
+2367.405 (0) Table wp_userfeedback_survey_responses: Total expected rows (via COUNT): 0
+2367.405 (0) Table wp_userfeedback_survey_responses: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=981) in 0.00 seconds
+2367.409 (0) Table wp_userfeedback_survey_responses: finishing file(s) (2, 0.5 KB)
+2367.413 (0) Table wp_userfeedback_surveys: Total expected rows (via COUNT): 0
+2367.414 (0) Table wp_userfeedback_surveys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=860) in 0.00 seconds
+2367.418 (0) Table wp_userfeedback_surveys: finishing file(s) (2, 0.5 KB)
+2367.422 (0) Table wp_wfauditevents: Total expected rows (via COUNT): 0
+2367.423 (0) Table wp_wfauditevents: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=739) in 0.00 seconds
+2367.426 (0) Table wp_wfauditevents: finishing file(s) (2, 0.4 KB)
+2367.429 (0) Table wp_wfblockediplog: Total expected rows (approximate): 0
+2367.430 (0) Table wp_wfblockediplog: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=657) in 0.00 seconds
+2367.432 (0) Table wp_wfblockediplog: finishing file(s) (2, 0.4 KB)
+2367.435 (0) Table wp_wfblocks7: Total expected rows (via COUNT): 0
+2367.436 (0) Table wp_wfblocks7: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=846) in 0.00 seconds
+2367.438 (0) Table wp_wfblocks7: finishing file(s) (2, 0.4 KB)
+2367.441 (0) Table wp_wfconfig: Total expected rows (approximate): 262
+2367.449 (0) Table wp_wfconfig: Rows added in this batch (next record: 1000): 262 (uncompressed bytes in this segment=120718) in 0.01 seconds
+2367.452 (0) Table wp_wfconfig: finishing file(s) (2, 25.5 KB)
+2367.456 (0) Table wp_wfcrawlers: Total expected rows (approximate): 0
+2367.456 (0) Table wp_wfcrawlers: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=582) in 0.00 seconds
+2367.459 (0) Table wp_wfcrawlers: finishing file(s) (2, 0.4 KB)
+2367.462 (0) Table wp_wffilechanges: Total expected rows (approximate): 0
+2367.463 (0) Table wp_wffilechanges: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=482) in 0.00 seconds
+2367.466 (0) Table wp_wffilechanges: finishing file(s) (2, 0.3 KB)
+2367.469 (0) Table wp_wffilemods: Total expected rows (approximate): 0
+2367.470 (0) Table wp_wffilemods: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=890) in 0.00 seconds
+2367.472 (0) Table wp_wffilemods: finishing file(s) (2, 0.4 KB)
+2367.475 (0) Table wp_wfhits: Total expected rows (via COUNT): 0
+2367.476 (0) Table wp_wfhits: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=992) in 0.00 seconds
+2367.479 (0) Table wp_wfhits: finishing file(s) (2, 0.5 KB)
+2367.482 (0) Table wp_wfhoover: Total expected rows (via COUNT): 0
+2367.482 (0) Table wp_wfhoover: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=545) in 0.00 seconds
+2367.485 (0) Table wp_wfhoover: finishing file(s) (2, 0.4 KB)
+2367.488 (0) Table wp_wfissues: Total expected rows (via COUNT): 5
+2367.489 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2367.491 (0) Table wp_wfissues: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=6214) in 0.00 seconds
+2367.495 (0) Table wp_wfissues: finishing file(s) (2, 1.8 KB)
+2367.501 (0) Table wp_wfknownfilelist: Total expected rows (via COUNT): 0
+2367.503 (0) Table wp_wfknownfilelist: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=495) in 0.00 seconds
+2367.506 (0) Table wp_wfknownfilelist: finishing file(s) (2, 0.3 KB)
+2367.509 (0) Table wp_wflivetraffichuman: Total expected rows (approximate): 0
+2367.510 (0) Table wp_wflivetraffichuman: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=678) in 0.00 seconds
+2367.512 (0) Table wp_wflivetraffichuman: finishing file(s) (2, 0.4 KB)
+2367.516 (0) Table wp_wflocs: Total expected rows (approximate): 0
+2367.516 (0) Table wp_wflocs: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=708) in 0.00 seconds
+2367.519 (0) Table wp_wflocs: finishing file(s) (2, 0.4 KB)
+2367.522 (0) Table wp_wflogins: Total expected rows (via COUNT): 0
+2367.523 (0) Table wp_wflogins: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=724) in 0.00 seconds
+2367.525 (0) Table wp_wflogins: finishing file(s) (2, 0.4 KB)
+2367.528 (0) Table wp_wfls_2fa_secrets: Total expected rows (via COUNT): 0
+2367.529 (0) Table wp_wfls_2fa_secrets: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=711) in 0.00 seconds
+2367.532 (0) Table wp_wfls_2fa_secrets: finishing file(s) (2, 0.4 KB)
+2367.535 (0) Table wp_wfls_role_counts: Total expected rows (approximate): 0
+2367.535 (0) Table wp_wfls_role_counts: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=576) in 0.00 seconds
+2367.538 (0) Table wp_wfls_role_counts: finishing file(s) (2, 0.4 KB)
+2367.540 (0) Table wp_wfls_settings: Total expected rows (approximate): 28
+2367.541 (0) Table wp_wfls_settings: Rows added in this batch (next record: 1000): 28 (uncompressed bytes in this segment=2007) in 0.00 seconds
+2367.544 (0) Table wp_wfls_settings: finishing file(s) (2, 0.9 KB)
+2367.546 (0) Table wp_wfnotifications: Total expected rows (approximate): 2
+2367.547 (0) Table wp_wfnotifications: Rows added in this batch (next record: 1000): 2 (uncompressed bytes in this segment=1060) in 0.00 seconds
+2367.550 (0) Table wp_wfnotifications: finishing file(s) (2, 0.6 KB)
+2367.553 (0) Table wp_wfpendingissues: Total expected rows (via COUNT): 0
+2367.554 (0) Table wp_wfpendingissues: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=902) in 0.00 seconds
+2367.556 (0) Table wp_wfpendingissues: finishing file(s) (2, 0.4 KB)
+2367.559 (0) Table wp_wfreversecache: Total expected rows (approximate): 0
+2367.560 (0) Table wp_wfreversecache: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=527) in 0.00 seconds
+2367.563 (0) Table wp_wfreversecache: finishing file(s) (2, 0.3 KB)
+2367.566 (0) Table wp_wfsecurityevents: Total expected rows (via COUNT): 0
+2367.567 (0) Table wp_wfsecurityevents: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=712) in 0.00 seconds
+2367.569 (0) Table wp_wfsecurityevents: finishing file(s) (2, 0.4 KB)
+2367.573 (0) Table wp_wfsnipcache: Total expected rows (via COUNT): 0
+2367.573 (0) Table wp_wfsnipcache: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=729) in 0.00 seconds
+2367.576 (0) Table wp_wfsnipcache: finishing file(s) (2, 0.4 KB)
+2367.579 (0) Table wp_wfstatus: Total expected rows (via COUNT): 10
+2367.579 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2367.581 (0) Table wp_wfstatus: Rows added in this batch (next record: 10): 10 (uncompressed bytes in this segment=1665) in 0.00 seconds
+2367.584 (0) Table wp_wfstatus: finishing file(s) (2, 0.9 KB)
+2367.587 (0) Table wp_wftrafficrates: Total expected rows (approximate): 0
+2367.588 (0) Table wp_wftrafficrates: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=596) in 0.00 seconds
+2367.591 (0) Table wp_wftrafficrates: finishing file(s) (2, 0.4 KB)
+2367.595 (0) Table wp_wfwaffailures: Total expected rows (via COUNT): 0
+2367.596 (0) Table wp_wfwaffailures: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=559) in 0.00 seconds
+2367.599 (0) Table wp_wfwaffailures: finishing file(s) (2, 0.4 KB)
+2367.606 (0) Table wp_wpforms_logs: Total expected rows (via COUNT): 29
+2367.607 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2367.609 (0) Table wp_wpforms_logs: Rows added in this batch (next record: 29): 29 (uncompressed bytes in this segment=3684) in 0.01 seconds
+2367.612 (0) Table wp_wpforms_logs: finishing file(s) (2, 0.7 KB)
+2367.617 (0) Table wp_wpforms_payment_meta: Total expected rows (via COUNT): 0
+2367.619 (0) Table wp_wpforms_payment_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=690) in 0.00 seconds
+2367.622 (0) Table wp_wpforms_payment_meta: finishing file(s) (2, 0.4 KB)
+2367.626 (0) Table wp_wpforms_payments: Total expected rows (via COUNT): 0
+2367.628 (0) Table wp_wpforms_payments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1650) in 0.00 seconds
+2367.631 (0) Table wp_wpforms_payments: finishing file(s) (2, 0.6 KB)
+2367.636 (0) Table wp_wpforms_tasks_meta: Total expected rows (via COUNT): 3
+2367.636 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2367.638 (0) Table wp_wpforms_tasks_meta: Rows added in this batch (next record: 5): 3 (uncompressed bytes in this segment=820) in 0.00 seconds
+2367.641 (0) Table wp_wpforms_tasks_meta: finishing file(s) (2, 0.5 KB)
+2367.645 (0) Table wp_wpo_404_detector: Total expected rows (via COUNT): 3
+2367.645 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2367.646 (0) Table wp_wpo_404_detector: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=1084) in 0.00 seconds
+2367.649 (0) Table wp_wpo_404_detector: finishing file(s) (2, 0.5 KB)
+2367.654 (0) Table wp_yoast_indexable: Total expected rows (via COUNT): 17
+2367.655 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2367.656 (0) Table wp_yoast_indexable: Rows added in this batch (next record: 17): 17 (uncompressed bytes in this segment=15930) in 0.00 seconds
+2367.660 (0) Table wp_yoast_indexable: finishing file(s) (2, 3.9 KB)
+2367.663 (0) Table wp_yoast_indexable_hierarchy: Total expected rows (approximate): 14
+2367.665 (0) Table wp_yoast_indexable_hierarchy: Rows added in this batch (next record: 1000): 14 (uncompressed bytes in this segment=1017) in 0.00 seconds
+2367.667 (0) Table wp_yoast_indexable_hierarchy: finishing file(s) (2, 0.4 KB)
+2367.671 (0) Table wp_yoast_migrations: Total expected rows (via COUNT): 24
+2367.671 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2367.673 (0) Table wp_yoast_migrations: Rows added in this batch (next record: 24): 24 (uncompressed bytes in this segment=1234) in 0.00 seconds
+2367.675 (0) Table wp_yoast_migrations: finishing file(s) (2, 0.6 KB)
+2367.679 (0) Table wp_yoast_primary_term: Total expected rows (via COUNT): 6
+2367.679 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2367.680 (0) Table wp_yoast_primary_term: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=1332) in 0.00 seconds
+2367.683 (0) Table wp_yoast_primary_term: finishing file(s) (2, 0.6 KB)
+2367.687 (0) Table wp_yoast_seo_links: Total expected rows (via COUNT): 9
+2367.688 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2367.689 (0) Table wp_yoast_seo_links: Rows added in this batch (next record: 9): 9 (uncompressed bytes in this segment=2189) in 0.00 seconds
+2367.691 (0) Table wp_yoast_seo_links: finishing file(s) (2, 0.8 KB)
+2367.692 (0) PHP event: code E_WARNING: filemtime(): stat failed for /home/ismvgkqjhosting/public_html/wp-content/updraft/backup_2025-09-30-2129_XpGame_5b17fe195252-db.gz (line 1923, wp-content/plugins/updraftplus/backup.php)
+2367.694 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_options.table.tmpr8416.gz (1/132/fopen): adding to final database dump
+2367.875 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_options.table.gz (2/132/fopen): adding to final database dump
+2367.876 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_users.table.tmpr2.gz (3/132/fopen): adding to final database dump
+2367.876 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_users.table.gz (4/132/fopen): adding to final database dump
+2367.877 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_usermeta.table.tmpr96.gz (5/132/fopen): adding to final database dump
+2367.882 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_usermeta.table.gz (6/132/fopen): adding to final database dump
+2367.882 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_actionscheduler_actions.table.tmpr419.gz (7/132/fopen): adding to final database dump
+2367.898 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_actionscheduler_actions.table.gz (8/132/fopen): adding to final database dump
+2367.898 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/132/fopen): adding to final database dump
+2367.899 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_actionscheduler_claims.table.gz (10/132/fopen): adding to final database dump
+2367.899 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_actionscheduler_groups.table.tmpr7.gz (11/132/fopen): adding to final database dump
+2367.900 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_actionscheduler_groups.table.gz (12/132/fopen): adding to final database dump
+2367.901 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_actionscheduler_logs.table.tmpr1214.gz (13/132/fopen): adding to final database dump
+2367.910 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_actionscheduler_logs.table.gz (14/132/fopen): adding to final database dump
+2367.910 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_commentmeta.table.tmpr37.gz (15/132/fopen): adding to final database dump
+2367.911 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_commentmeta.table.gz (16/132/fopen): adding to final database dump
+2367.911 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_comments.table.tmpr34.gz (17/132/fopen): adding to final database dump
+2367.912 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_comments.table.gz (18/132/fopen): adding to final database dump
+2367.912 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_links.table.tmpr0.gz (19/132/fopen): adding to final database dump
+2367.912 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_links.table.gz (20/132/fopen): adding to final database dump
+2367.913 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_postmeta.table.tmpr3956.gz (21/132/fopen): adding to final database dump
+2367.992 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_postmeta.table.gz (22/132/fopen): adding to final database dump
+2367.992 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_posts.table.tmpr490.gz (23/132/fopen): adding to final database dump
+2368.121 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_posts.table.gz (24/132/fopen): adding to final database dump
+2368.122 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_term_relationships.table.tmpr100001.gz (25/132/fopen): adding to final database dump
+2368.122 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_term_relationships.table.gz (26/132/fopen): adding to final database dump
+2368.122 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_term_taxonomy.table.tmpr138.gz (27/132/fopen): adding to final database dump
+2368.123 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_term_taxonomy.table.gz (28/132/fopen): adding to final database dump
+2368.123 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_termmeta.table.tmpr115.gz (29/132/fopen): adding to final database dump
+2368.124 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_termmeta.table.gz (30/132/fopen): adding to final database dump
+2368.124 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_terms.table.tmpr138.gz (31/132/fopen): adding to final database dump
+2368.125 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_terms.table.gz (32/132/fopen): adding to final database dump
+2368.125 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_aioseo_cache.table.tmpr10.gz (33/132/fopen): adding to final database dump
+2368.144 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_aioseo_cache.table.gz (34/132/fopen): adding to final database dump
+2368.144 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_aioseo_crawl_cleanup_blocked_args.table.tmpr0.gz (35/132/fopen): adding to final database dump
+2368.145 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_aioseo_crawl_cleanup_blocked_args.table.gz (36/132/fopen): adding to final database dump
+2368.145 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_aioseo_crawl_cleanup_logs.table.tmpr0.gz (37/132/fopen): adding to final database dump
+2368.146 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_aioseo_crawl_cleanup_logs.table.gz (38/132/fopen): adding to final database dump
+2368.146 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_aioseo_notifications.table.tmpr3.gz (39/132/fopen): adding to final database dump
+2368.146 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_aioseo_notifications.table.gz (40/132/fopen): adding to final database dump
+2368.147 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_aioseo_posts.table.tmpr21.gz (41/132/fopen): adding to final database dump
+2368.147 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_aioseo_posts.table.gz (42/132/fopen): adding to final database dump
+2368.148 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_aioseo_seo_analyzer_results.table.tmpr0.gz (43/132/fopen): adding to final database dump
+2368.148 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_aioseo_seo_analyzer_results.table.gz (44/132/fopen): adding to final database dump
+2368.148 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_aioseo_writing_assistant_keywords.table.tmpr0.gz (45/132/fopen): adding to final database dump
+2368.149 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_aioseo_writing_assistant_keywords.table.gz (46/132/fopen): adding to final database dump
+2368.149 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_aioseo_writing_assistant_posts.table.tmpr0.gz (47/132/fopen): adding to final database dump
+2368.150 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_aioseo_writing_assistant_posts.table.gz (48/132/fopen): adding to final database dump
+2368.150 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_b2s_network_insights.table.tmpr0.gz (49/132/fopen): adding to final database dump
+2368.150 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_b2s_network_insights.table.gz (50/132/fopen): adding to final database dump
+2368.151 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_b2s_posts.table.tmpr0.gz (51/132/fopen): adding to final database dump
+2368.151 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_b2s_posts.table.gz (52/132/fopen): adding to final database dump
+2368.152 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_b2s_posts_drafts.table.tmpr0.gz (53/132/fopen): adding to final database dump
+2368.152 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_b2s_posts_drafts.table.gz (54/132/fopen): adding to final database dump
+2368.152 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_b2s_posts_favorites.table.tmpr0.gz (55/132/fopen): adding to final database dump
+2368.153 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_b2s_posts_favorites.table.gz (56/132/fopen): adding to final database dump
+2368.153 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_b2s_posts_insights.table.tmpr0.gz (57/132/fopen): adding to final database dump
+2368.154 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_b2s_posts_insights.table.gz (58/132/fopen): adding to final database dump
+2368.155 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_b2s_posts_network_details.table.tmpr2.gz (59/132/fopen): adding to final database dump
+2368.156 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_b2s_posts_network_details.table.gz (60/132/fopen): adding to final database dump
+2368.156 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_b2s_posts_sched_details.table.tmpr0.gz (61/132/fopen): adding to final database dump
+2368.156 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_b2s_posts_sched_details.table.gz (62/132/fopen): adding to final database dump
+2368.157 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_b2s_user.table.tmpr2.gz (63/132/fopen): adding to final database dump
+2368.157 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_b2s_user.table.gz (64/132/fopen): adding to final database dump
+2368.158 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_b2s_user_contact.table.tmpr0.gz (65/132/fopen): adding to final database dump
+2368.158 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_b2s_user_contact.table.gz (66/132/fopen): adding to final database dump
+2368.158 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_b2s_user_network_settings.table.tmpr0.gz (67/132/fopen): adding to final database dump
+2368.159 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_b2s_user_network_settings.table.gz (68/132/fopen): adding to final database dump
+2368.159 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_b2s_user_tool.table.tmpr0.gz (69/132/fopen): adding to final database dump
+2368.160 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_b2s_user_tool.table.gz (70/132/fopen): adding to final database dump
+2368.160 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_bit_social_accounts.table.tmpr0.gz (71/132/fopen): adding to final database dump
+2368.160 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_bit_social_accounts.table.gz (72/132/fopen): adding to final database dump
+2368.161 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_bit_social_custom_apps.table.tmpr0.gz (73/132/fopen): adding to final database dump
+2368.161 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_bit_social_custom_apps.table.gz (74/132/fopen): adding to final database dump
+2368.161 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_bit_social_logs.table.tmpr0.gz (75/132/fopen): adding to final database dump
+2368.162 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_bit_social_logs.table.gz (76/132/fopen): adding to final database dump
+2368.162 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_bit_social_schedules.table.tmpr0.gz (77/132/fopen): adding to final database dump
+2368.163 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_bit_social_schedules.table.gz (78/132/fopen): adding to final database dump
+2368.163 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_ea11y_page_scanned.table.tmpr12.gz (79/132/fopen): adding to final database dump
+2368.163 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_ea11y_page_scanned.table.gz (80/132/fopen): adding to final database dump
+2368.164 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_ea11y_pages_remediation.table.tmpr0.gz (81/132/fopen): adding to final database dump
+2368.164 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_ea11y_pages_remediation.table.gz (82/132/fopen): adding to final database dump
+2368.165 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_ea11y_scanner_results.table.tmpr13.gz (83/132/fopen): adding to final database dump
+2368.165 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_ea11y_scanner_results.table.gz (84/132/fopen): adding to final database dump
+2368.165 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_litespeed_avatar.table.tmpr16.gz (85/132/fopen): adding to final database dump
+2368.166 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_litespeed_avatar.table.gz (86/132/fopen): adding to final database dump
+2368.166 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_litespeed_img_optming.table.tmpr0.gz (87/132/fopen): adding to final database dump
+2368.167 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_litespeed_img_optming.table.gz (88/132/fopen): adding to final database dump
+2368.167 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_litespeed_url.table.tmpr58.gz (89/132/fopen): adding to final database dump
+2368.167 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_litespeed_url.table.gz (90/132/fopen): adding to final database dump
+2368.168 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_litespeed_url_file.table.tmpr452.gz (91/132/fopen): adding to final database dump
+2368.171 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_litespeed_url_file.table.gz (92/132/fopen): adding to final database dump
+2368.171 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_automation_run_logs.table.tmpr0.gz (93/132/fopen): adding to final database dump
+2368.172 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_automation_run_logs.table.gz (94/132/fopen): adding to final database dump
+2368.172 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_automation_run_subjects.table.tmpr0.gz (95/132/fopen): adding to final database dump
+2368.173 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_automation_run_subjects.table.gz (96/132/fopen): adding to final database dump
+2368.173 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_automation_runs.table.tmpr0.gz (97/132/fopen): adding to final database dump
+2368.173 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_automation_runs.table.gz (98/132/fopen): adding to final database dump
+2368.174 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_automation_triggers.table.tmpr1001.gz (99/132/fopen): adding to final database dump
+2368.176 (0) The time we have been running (2368.2) is approaching the resumption interval (2398) - increasing resumption interval to 2399
+2368.177 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_automation_triggers.table.gz (100/132/fopen): adding to final database dump
+2368.178 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_automation_versions.table.tmpr4.gz (101/132/fopen): adding to final database dump
+2368.178 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_automation_versions.table.gz (102/132/fopen): adding to final database dump
+2368.178 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_automations.table.tmpr2.gz (103/132/fopen): adding to final database dump
+2368.179 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_automations.table.gz (104/132/fopen): adding to final database dump
+2368.179 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_custom_fields.table.tmpr0.gz (105/132/fopen): adding to final database dump
+2368.180 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_custom_fields.table.gz (106/132/fopen): adding to final database dump
+2368.180 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_dynamic_segment_filters.table.tmpr0.gz (107/132/fopen): adding to final database dump
+2368.180 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_dynamic_segment_filters.table.gz (108/132/fopen): adding to final database dump
+2368.181 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_feature_flags.table.tmpr0.gz (109/132/fopen): adding to final database dump
+2368.181 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_feature_flags.table.gz (110/132/fopen): adding to final database dump
+2368.181 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_forms.table.tmpr0.gz (111/132/fopen): adding to final database dump
+2368.182 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_forms.table.gz (112/132/fopen): adding to final database dump
+2368.182 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_log.table.tmpr0.gz (113/132/fopen): adding to final database dump
+2368.183 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_log.table.gz (114/132/fopen): adding to final database dump
+2368.183 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_migrations.table.tmpr38.gz (115/132/fopen): adding to final database dump
+2368.183 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_migrations.table.gz (116/132/fopen): adding to final database dump
+2368.184 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_newsletter_links.table.tmpr0.gz (117/132/fopen): adding to final database dump
+2368.184 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_newsletter_links.table.gz (118/132/fopen): adding to final database dump
+2368.185 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_newsletter_option.table.tmpr3.gz (119/132/fopen): adding to final database dump
+2368.185 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_newsletter_option.table.gz (120/132/fopen): adding to final database dump
+2368.185 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_newsletter_option_fields.table.tmpr32.gz (121/132/fopen): adding to final database dump
+2368.186 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_newsletter_option_fields.table.gz (122/132/fopen): adding to final database dump
+2368.186 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_newsletter_posts.table.tmpr0.gz (123/132/fopen): adding to final database dump
+2368.187 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_newsletter_posts.table.gz (124/132/fopen): adding to final database dump
+2368.187 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_newsletter_segment.table.tmpr0.gz (125/132/fopen): adding to final database dump
+2368.187 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_newsletter_segment.table.gz (126/132/fopen): adding to final database dump
+2368.188 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_newsletter_templates.table.tmpr77.gz (127/132/fopen): adding to final database dump
+2368.246 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_newsletter_templates.table.gz (128/132/fopen): adding to final database dump
+2368.247 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_newsletters.table.tmpr3.gz (129/132/fopen): adding to final database dump
+2368.249 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_newsletters.table.gz (130/132/fopen): adding to final database dump
+2368.249 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_scheduled_task_subscribers.table.tmpr1.gz (131/132/fopen): adding to final database dump
+2368.250 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_scheduled_task_subscribers.table.gz (132/132/fopen): adding to final database dump
+2368.250 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_scheduled_tasks.table.tmpr55.gz (133/132/fopen): adding to final database dump
+2368.253 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_scheduled_tasks.table.gz (134/132/fopen): adding to final database dump
+2368.253 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_segments.table.tmpr4.gz (135/132/fopen): adding to final database dump
+2368.254 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_segments.table.gz (136/132/fopen): adding to final database dump
+2368.254 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_sending_queues.table.tmpr0.gz (137/132/fopen): adding to final database dump
+2368.254 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_sending_queues.table.gz (138/132/fopen): adding to final database dump
+2368.255 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_settings.table.tmpr43.gz (139/132/fopen): adding to final database dump
+2368.261 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_settings.table.gz (140/132/fopen): adding to final database dump
+2368.261 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_statistics_bounces.table.tmpr0.gz (141/132/fopen): adding to final database dump
+2368.262 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_statistics_bounces.table.gz (142/132/fopen): adding to final database dump
+2368.262 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_statistics_clicks.table.tmpr0.gz (143/132/fopen): adding to final database dump
+2368.263 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_statistics_clicks.table.gz (144/132/fopen): adding to final database dump
+2368.263 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_statistics_forms.table.tmpr0.gz (145/132/fopen): adding to final database dump
+2368.263 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_statistics_forms.table.gz (146/132/fopen): adding to final database dump
+2368.264 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_statistics_newsletters.table.tmpr0.gz (147/132/fopen): adding to final database dump
+2368.264 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_statistics_newsletters.table.gz (148/132/fopen): adding to final database dump
+2368.264 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_statistics_opens.table.tmpr0.gz (149/132/fopen): adding to final database dump
+2368.265 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_statistics_opens.table.gz (150/132/fopen): adding to final database dump
+2368.265 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_statistics_unsubscribes.table.tmpr0.gz (151/132/fopen): adding to final database dump
+2368.266 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_statistics_unsubscribes.table.gz (152/132/fopen): adding to final database dump
+2368.266 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_statistics_woocommerce_purchases.table.tmpr0.gz (153/132/fopen): adding to final database dump
+2368.266 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_statistics_woocommerce_purchases.table.gz (154/132/fopen): adding to final database dump
+2368.267 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_stats_notifications.table.tmpr0.gz (155/132/fopen): adding to final database dump
+2368.267 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_stats_notifications.table.gz (156/132/fopen): adding to final database dump
+2368.267 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_subscriber_custom_field.table.tmpr0.gz (157/132/fopen): adding to final database dump
+2368.268 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_subscriber_custom_field.table.gz (158/132/fopen): adding to final database dump
+2368.268 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_subscriber_ips.table.tmpr1.gz (159/132/fopen): adding to final database dump
+2368.269 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_subscriber_ips.table.gz (160/132/fopen): adding to final database dump
+2368.269 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_subscriber_segment.table.tmpr2.gz (161/132/fopen): adding to final database dump
+2368.269 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_subscriber_segment.table.gz (162/132/fopen): adding to final database dump
+2368.270 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_subscriber_tag.table.tmpr0.gz (163/132/fopen): adding to final database dump
+2368.270 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_subscriber_tag.table.gz (164/132/fopen): adding to final database dump
+2368.271 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_subscribers.table.tmpr2.gz (165/132/fopen): adding to final database dump
+2368.271 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_subscribers.table.gz (166/132/fopen): adding to final database dump
+2368.271 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_tags.table.tmpr0.gz (167/132/fopen): adding to final database dump
+2368.272 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_tags.table.gz (168/132/fopen): adding to final database dump
+2368.272 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_user_agents.table.tmpr0.gz (169/132/fopen): adding to final database dump
+2368.273 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_user_agents.table.gz (170/132/fopen): adding to final database dump
+2368.273 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_user_flags.table.tmpr2.gz (171/132/fopen): adding to final database dump
+2368.273 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_mailpoet_user_flags.table.gz (172/132/fopen): adding to final database dump
+2368.274 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_rank_math_404_logs.table.tmpr44.gz (173/132/fopen): adding to final database dump
+2368.274 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_rank_math_404_logs.table.gz (174/132/fopen): adding to final database dump
+2368.274 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_rank_math_internal_links.table.tmpr698.gz (175/132/fopen): adding to final database dump
+2368.275 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_rank_math_internal_links.table.gz (176/132/fopen): adding to final database dump
+2368.275 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_rank_math_internal_meta.table.tmpr481.gz (177/132/fopen): adding to final database dump
+2368.276 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_rank_math_internal_meta.table.gz (178/132/fopen): adding to final database dump
+2368.276 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_smush_dir_images.table.tmpr0.gz (179/132/fopen): adding to final database dump
+2368.276 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_smush_dir_images.table.gz (180/132/fopen): adding to final database dump
+2368.277 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_tm_taskmeta.table.tmpr0.gz (181/132/fopen): adding to final database dump
+2368.277 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_tm_taskmeta.table.gz (182/132/fopen): adding to final database dump
+2368.277 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_tm_tasks.table.tmpr0.gz (183/132/fopen): adding to final database dump
+2368.278 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_tm_tasks.table.gz (184/132/fopen): adding to final database dump
+2368.278 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_userfeedback_heatmap_recordings.table.tmpr0.gz (185/132/fopen): adding to final database dump
+2368.279 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_userfeedback_heatmap_recordings.table.gz (186/132/fopen): adding to final database dump
+2368.279 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_userfeedback_heatmaps.table.tmpr0.gz (187/132/fopen): adding to final database dump
+2368.279 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_userfeedback_heatmaps.table.gz (188/132/fopen): adding to final database dump
+2368.280 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_userfeedback_post_ratings.table.tmpr0.gz (189/132/fopen): adding to final database dump
+2368.280 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_userfeedback_post_ratings.table.gz (190/132/fopen): adding to final database dump
+2368.281 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_userfeedback_survey_responses.table.tmpr0.gz (191/132/fopen): adding to final database dump
+2368.281 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_userfeedback_survey_responses.table.gz (192/132/fopen): adding to final database dump
+2368.281 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_userfeedback_surveys.table.tmpr0.gz (193/132/fopen): adding to final database dump
+2368.282 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_userfeedback_surveys.table.gz (194/132/fopen): adding to final database dump
+2368.282 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfauditevents.table.tmpr0.gz (195/132/fopen): adding to final database dump
+2368.282 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfauditevents.table.gz (196/132/fopen): adding to final database dump
+2368.283 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfblockediplog.table.tmpr1.gz (197/132/fopen): adding to final database dump
+2368.283 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfblockediplog.table.gz (198/132/fopen): adding to final database dump
+2368.284 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfblocks7.table.tmpr0.gz (199/132/fopen): adding to final database dump
+2368.285 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfblocks7.table.gz (200/132/fopen): adding to final database dump
+2368.285 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfconfig.table.tmpr1001.gz (201/132/fopen): adding to final database dump
+2368.308 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfconfig.table.gz (202/132/fopen): adding to final database dump
+2368.308 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfcrawlers.table.tmpr1.gz (203/132/fopen): adding to final database dump
+2368.309 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfcrawlers.table.gz (204/132/fopen): adding to final database dump
+2368.309 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wffilechanges.table.tmpr1.gz (205/132/fopen): adding to final database dump
+2368.310 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wffilechanges.table.gz (206/132/fopen): adding to final database dump
+2368.310 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wffilemods.table.tmpr1.gz (207/132/fopen): adding to final database dump
+2368.311 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wffilemods.table.gz (208/132/fopen): adding to final database dump
+2368.311 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfhits.table.tmpr0.gz (209/132/fopen): adding to final database dump
+2368.311 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfhits.table.gz (210/132/fopen): adding to final database dump
+2368.312 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfhoover.table.tmpr0.gz (211/132/fopen): adding to final database dump
+2368.312 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfhoover.table.gz (212/132/fopen): adding to final database dump
+2368.312 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfissues.table.tmpr6.gz (213/132/fopen): adding to final database dump
+2368.313 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfissues.table.gz (214/132/fopen): adding to final database dump
+2368.313 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfknownfilelist.table.tmpr0.gz (215/132/fopen): adding to final database dump
+2368.314 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfknownfilelist.table.gz (216/132/fopen): adding to final database dump
+2368.314 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wflivetraffichuman.table.tmpr1.gz (217/132/fopen): adding to final database dump
+2368.314 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wflivetraffichuman.table.gz (218/132/fopen): adding to final database dump
+2368.315 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wflocs.table.tmpr1.gz (219/132/fopen): adding to final database dump
+2368.315 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wflocs.table.gz (220/132/fopen): adding to final database dump
+2368.315 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wflogins.table.tmpr0.gz (221/132/fopen): adding to final database dump
+2368.316 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wflogins.table.gz (222/132/fopen): adding to final database dump
+2368.316 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfls_2fa_secrets.table.tmpr0.gz (223/132/fopen): adding to final database dump
+2368.317 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfls_2fa_secrets.table.gz (224/132/fopen): adding to final database dump
+2368.317 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfls_role_counts.table.tmpr1.gz (225/132/fopen): adding to final database dump
+2368.317 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfls_role_counts.table.gz (226/132/fopen): adding to final database dump
+2368.318 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfls_settings.table.tmpr1001.gz (227/132/fopen): adding to final database dump
+2368.320 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfls_settings.table.gz (228/132/fopen): adding to final database dump
+2368.320 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfnotifications.table.tmpr1001.gz (229/132/fopen): adding to final database dump
+2368.321 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfnotifications.table.gz (230/132/fopen): adding to final database dump
+2368.321 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfpendingissues.table.tmpr0.gz (231/132/fopen): adding to final database dump
+2368.321 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfpendingissues.table.gz (232/132/fopen): adding to final database dump
+2368.322 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfreversecache.table.tmpr1.gz (233/132/fopen): adding to final database dump
+2368.322 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfreversecache.table.gz (234/132/fopen): adding to final database dump
+2368.323 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfsecurityevents.table.tmpr0.gz (235/132/fopen): adding to final database dump
+2368.323 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfsecurityevents.table.gz (236/132/fopen): adding to final database dump
+2368.323 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfsnipcache.table.tmpr0.gz (237/132/fopen): adding to final database dump
+2368.324 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfsnipcache.table.gz (238/132/fopen): adding to final database dump
+2368.324 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfstatus.table.tmpr11.gz (239/132/fopen): adding to final database dump
+2368.325 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfstatus.table.gz (240/132/fopen): adding to final database dump
+2368.325 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wftrafficrates.table.tmpr1.gz (241/132/fopen): adding to final database dump
+2368.325 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wftrafficrates.table.gz (242/132/fopen): adding to final database dump
+2368.326 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfwaffailures.table.tmpr0.gz (243/132/fopen): adding to final database dump
+2368.326 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wfwaffailures.table.gz (244/132/fopen): adding to final database dump
+2368.327 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wpforms_logs.table.tmpr30.gz (245/132/fopen): adding to final database dump
+2368.327 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wpforms_logs.table.gz (246/132/fopen): adding to final database dump
+2368.327 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wpforms_payment_meta.table.tmpr0.gz (247/132/fopen): adding to final database dump
+2368.328 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wpforms_payment_meta.table.gz (248/132/fopen): adding to final database dump
+2368.328 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wpforms_payments.table.tmpr0.gz (249/132/fopen): adding to final database dump
+2368.329 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wpforms_payments.table.gz (250/132/fopen): adding to final database dump
+2368.329 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wpforms_tasks_meta.table.tmpr6.gz (251/132/fopen): adding to final database dump
+2368.329 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wpforms_tasks_meta.table.gz (252/132/fopen): adding to final database dump
+2368.330 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wpo_404_detector.table.tmpr4.gz (253/132/fopen): adding to final database dump
+2368.330 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_wpo_404_detector.table.gz (254/132/fopen): adding to final database dump
+2368.331 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_yoast_indexable.table.tmpr18.gz (255/132/fopen): adding to final database dump
+2368.331 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_yoast_indexable.table.gz (256/132/fopen): adding to final database dump
+2368.331 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_yoast_indexable_hierarchy.table.tmpr1001.gz (257/132/fopen): adding to final database dump
+2368.332 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_yoast_indexable_hierarchy.table.gz (258/132/fopen): adding to final database dump
+2368.332 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_yoast_migrations.table.tmpr25.gz (259/132/fopen): adding to final database dump
+2368.333 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_yoast_migrations.table.gz (260/132/fopen): adding to final database dump
+2368.333 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_yoast_primary_term.table.tmpr7.gz (261/132/fopen): adding to final database dump
+2368.333 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_yoast_primary_term.table.gz (262/132/fopen): adding to final database dump
+2368.334 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_yoast_seo_links.table.tmpr10.gz (263/132/fopen): adding to final database dump
+2368.334 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db-table-wp_yoast_seo_links.table.gz (264/132/fopen): adding to final database dump
+2368.341 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db.gz: finished writing out complete database file (772.7 KB)
+2368.358 (0) Total database tables backed up: 132 (backup_2025-09-30-2129_XpGame_5b17fe195252-db.gz, size: 791343, sha1: 02bc5b18f2273aff0d8a62beaf4fb0db539af734, sha256: 803f3082b09b8398fbc663e9c0d678a65230754e53f74ce86123b19e89d2292e)
+2368.363 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip: plugins: This file has already been successfully uploaded
+2368.363 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip: themes: This file has already been successfully uploaded
+2368.364 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-uploads.zip: uploads: This file has already been successfully uploaded
+2368.364 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-others.zip: others: This file has already been successfully uploaded
+2368.364 (0) backup_2025-09-30-2129_XpGame_5b17fe195252-db.gz: db: This file has not yet been successfully uploaded: will queue
+2368.365 (0) Saving backup history. Total backup size: 267.7 MB
+2368.366 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+2368.368 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+2368.369 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-05e2353e3d159fd700831ceb46e36959)
+2368.990 (0) Google Drive: quota usage: used=3491 MB, total=15360 MB, available=11869 MB
+2368.990 (0) Google Drive: backup_2025-09-30-2129_XpGame_5b17fe195252-db.gz: Attempting to upload to Google Drive (into folder id: 1owCdYNjSR8zvwY-n_liAqXgdqGxFB_vQ)
+2371.361 (0) The time we have been running (2371.4) is approaching the resumption interval (2399) - increasing resumption interval to 2402
+2371.363 (0) Googledrive chunked upload: 100 % uploaded
+2371.365 (0) Google Drive: OK: Archive backup_2025-09-30-2129_XpGame_5b17fe195252-db.gz uploaded in 2.37 seconds
+2371.366 (0) Recording as successfully uploaded: backup_2025-09-30-2129_XpGame_5b17fe195252-db.gz
+2371.367 (0) Deleting local file: backup_2025-09-30-2129_XpGame_5b17fe195252-db.gz: OK
+2371.369 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+2371.370 (0) Number of backup sets in history: 1; groups (db): 1
+2371.370 (0) Examining (for databases) backup set with group_id=0, nonce=5b17fe195252, datestamp=1759242589 (Sep 30 2025 14:29:49)
+2371.371 (0) This backup set is the backup set just made, so will not be deleted.
+2371.371 (0) Number of backup sets in history: 1; groups (files): 1
+2371.371 (0) Examining (for files) backup set with nonce=5b17fe195252, datestamp=1759242589 (Sep 30 2025 14:29:49)
+2371.371 (0) This backup set is the backup set just made, so will not be deleted.
+2371.372 (0) This backup set is the backup set just made, so will not be deleted.
+2371.372 (0) This backup set is the backup set just made, so will not be deleted.
+2371.372 (0) This backup set is the backup set just made, so will not be deleted.
+2371.372 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+2371.372 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+2371.374 (0) Resume backup (5b17fe195252, 0): finish run
+2371.375 (0) Decremented the semaphore (fd) by 1
+2371.376 (0) Semaphore (fd) unlocked
+2371.377 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+2371.380 (0) The backup succeeded and is now complete
+2371.380 (0) Deleting zip manifest (backup_2025-09-30-2129_XpGame_5b17fe195252-plugins.zip.list.tmp)
+2371.381 (0) Deleting zip manifest (backup_2025-09-30-2129_XpGame_5b17fe195252-themes.zip.list.tmp)
+2371.381 (0) Deleting zip manifest (backup_2025-09-30-2129_XpGame_5b17fe195252-uploads.zip.list.tmp)
+2371.382 (0) Deleting zip manifest (backup_2025-09-30-2129_XpGame_5b17fe195252-others.zip.list.tmp)
+2371.382 (0) No email will/can be sent - the user has not configured an email address.
+2371.383 (0) Sao lưu thành công và hiện đã hoàn tất

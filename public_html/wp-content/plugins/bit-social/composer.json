@@ -1,0 +1,59 @@
+{
+  "name": "bitapps/social",
+  "description": "An Integration plugin for wordpress",
+  "license": "gpl-2",
+  "autoload": {
+    "psr-4": {
+      "BitApps\\Social\\": "./backend/app"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "BitApps\\Social\\CLI\\": "./cli",
+      "BitApps\\Social\\Fixers\\": "./custom-fixers"
+    }
+  },
+  "scripts": {
+    "clean": "rm -rf ./vendor && rm composer.lock",
+    "reset": "composer clean && composer install",
+    "lint": "./vendor/bin/php-cs-fixer fix --config=.php-cs-fixer.php",
+    "unused:variable": "phpcs -p --standard=VariableAnalysis ./backend",
+    "free-compat": "./vendor/bin/phpcs -p ./backend --standard=PHPCompatibilityWP --runtime-set testVersion 7.4-",
+    "pro-compat": "./vendor/bin/phpcs -p ./pro/backend --standard=PHPCompatibilityWP --runtime-set testVersion 7.4-",
+    "test:unit": "./vendor/bin/phpunit --testdox --colors=always tests/ --exclude-group db",
+    "compat": "composer free-compat && composer pro-compat",
+    "social": "./vendor/wp-cli/wp-cli/bin/wp bit-social",
+    "db": "composer social db",
+    "pro:enable": "composer social use enablePro",
+    "pro:disable": "composer social use disablePro",
+    "use:prod": "composer social use toggleDev -- --active=n",
+    "use:dev": "composer social use toggleDev -- --active=y"
+  },
+  "require-dev": {
+    "friendsofphp/php-cs-fixer": "^3.40",
+    "sirbrillig/phpcs-variable-analysis": "*",
+    "dealerdirect/phpcodesniffer-composer-installer": "^0.7",
+    "phpunit/phpunit": "^9.3.0",
+    "yoast/phpunit-polyfills": "^1.0",
+    "phpcompatibility/phpcompatibility-wp": "*",
+    "wp-cli/wp-cli-bundle": "^2.10"
+  },
+  "config": {
+    "allow-plugins": {
+      "dealerdirect/phpcodesniffer-composer-installer": true,
+      "typisttech/imposter-plugin": true
+    }
+  },
+  "require": {
+    "bitapps/wp-telemetry": "^0.0.9",
+    "bitapps/wp-validator": "^1.0.4",
+    "bitapps/wp-database": "1.5",
+    "typisttech/imposter-plugin": "*",
+    "bitapps/wp-kit": "^2.1"
+  },
+  "extra": {
+    "imposter": {
+      "namespace": "BitApps\\Social\\Deps\\"
+    }
+  }
+}

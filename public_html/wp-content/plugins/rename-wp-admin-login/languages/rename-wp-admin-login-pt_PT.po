@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rename wp-admin login\n"
+"POT-Creation-Date: 2019-02-26 20:22+0000\n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language: pt_PT\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/class-rename-wp-admin-login.php:109
+msgid "Please upgrade to the latest version of WordPress to activate"
+msgstr "Atualize o seu WordPress para a versão mais recente"
+
+#. Plugin Name
+#: ../includes/class-rename-wp-admin-login.php:109
+#: ../includes/class-rename-wp-admin-login.php:141
+#: ../includes/class-rename-wp-admin-login.php:168
+msgid "Rename wp-admin login"
+msgstr "Rename wp-admin login"
+
+#: ../includes/class-rename-wp-admin-login.php:142
+msgid ""
+"This option allows you to set a networkwide default, which can be overridden "
+"by individual sites. Simply go to to the site’s permalink settings to change "
+"the url."
+msgstr ""
+"Esta opção permite definir um padrão para toda a rede, que pode ser "
+"substituído por sites individuais. Basta aceder as configurações do link "
+"permanente do site para alterar a URL."
+
+#: ../includes/class-rename-wp-admin-login.php:145
+msgid "Networkwide default"
+msgstr "Padrão em toda a rede"
+
+#: ../includes/class-rename-wp-admin-login.php:175
+msgid "Login url"
+msgstr "URL de login"
+
+#: ../includes/class-rename-wp-admin-login.php:183
+msgid "Redirect URL"
+msgstr ""
+
+#: ../includes/class-rename-wp-admin-login.php:226
+#, php-format
+msgid ""
+"To set a networkwide default, go to <a href=\"%s\">Network Settings</a>."
+msgstr ""
+"Para definir um padrão para toda a rede, carregue em <a href=\\”%s\\”> "
+"Configurações de rede </a>."
+
+#: ../includes/class-rename-wp-admin-login.php.php:235
+msgid "Use the slug name, example: "contact-me" - DO NOT USE the full website URL. If you leave the above field empty the plugin will add a redirect to the website homepage."
+msgstr ""
+
+#: ../includes/class-rename-wp-admin-login.php:250
+#, php-format
+msgid ""
+"Your login page is now here: <strong><a href=\"%1$s\">%2$s</a></strong>. "
+"Bookmark this page!"
+msgstr ""
+"Sua página de login agora está aqui: <strong><a href=\\”%1$s\\”>%2$s</a></"
+"strong>. Guarde a pagina nos seus favoritos!"
+
+#: ../includes/class-rename-wp-admin-login.php:256
+#: ../includes/class-rename-wp-admin-login.php:258
+msgid "Settings"
+msgstr "Definições"
+
+#: ../includes/class-rename-wp-admin-login.php:275
+msgid "This feature is not enabled."
+msgstr "Este recurso não está activado."

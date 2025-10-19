@@ -1,0 +1,55 @@
+.userfeedback-metabox {
+  padding-top: 8px !important;
+}
+.userfeedback-metabox-label {
+  font-weight: 700;
+  margin-bottom: 5px;
+}
+.userfeedback-metabox-input-select {
+  width: 100%;
+}
+
+.userfeedback-metabox-input-select select {
+  width: 100% !important;
+}
+
+.userfeedback-metabox-helper {
+  margin: 8px 0;
+}
+
+.userfeedback-metabox-pro-badge {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 15px;
+  background: #eafaee;
+  border: 1px solid #46bf40;
+  display: flex;
+  position: relative;
+  line-height: 100%;
+}
+
+.userfeedback-metabox-pro-badge span {
+  color: #31862d;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 100%;
+  letter-spacing: -0.02em;
+  padding-left: 20px;
+}
+
+.userfeedback-metabox-pro-badge span svg {
+  position: absolute;
+  left: 15px;
+}
+
+.userfeedback-metabox-pro-badge .userfeedback-metabox-pro-badge-upgrade {
+  text-align: right;
+  flex: 1;
+}
+
+.userfeedback-metabox-pro-badge .userfeedback-metabox-pro-badge-upgrade a {
+  font-size: 13px;
+  color: #31862d;
+  text-decoration: underline;
+  display: block;
+}

@@ -1,0 +1,79 @@
+.spice_share_wrapper {
+  display: flex;
+  margin: 0 0 1rem;
+}
+.spice_share_title {
+  align-self: flex-end;
+  font-size: 18px;
+  line-height: 22px;
+}
+.spice_social_share_list {
+  display: flex;
+  flex: 1;
+  margin: 0;
+  list-style: none;
+}
+.spice_social_share_list
+{
+  padding: 0 0 0 20px;
+}
+.spice_social_share_list.margin
+{
+  padding: 5px 0 0 10px;
+}
+.spice_share_item + .spice_share_item {
+  margin-left: 1rem;
+}
+.spice_social_share_link {
+  border: none;
+}
+.spice_social_share_link > * {
+  pointer-events: none;
+}
+body .spice_share_wrapper .spice_social_share_list button.spice_social_share_link,
+body .spice_share_wrapper .spice_social_share_list a.spice_social_share_link {
+  background-color: #efefef;
+  border: 0;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  color: #242020;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 600;
+  line-height: 1;
+  text-shadow: none;
+  -webkit-transition: background 0.2s;
+  transition: background 0.2s;
+  font-size: 16px;
+  padding: 12px 13px;
+}
+body .spice_share_wrapper .spice_social_share_list button.spice_social_share_link:hover,
+body .spice_share_wrapper .spice_social_share_list button.spice_social_share_link:focus,
+body .spice_share_wrapper .spice_social_share_list a.spice_social_share_link:hover,
+body .spice_share_wrapper .spice_social_share_list a.spice_social_share_link:focus {
+  background: #061018;
+  color: #ffffff;
+}
+@media (max-width: 991px){
+.spice_share_wrapper{display: block;}
+.spice_social_share_list.margin,.spice_social_share_list{padding:0;}
+}
+@media (min-width: 600px){
+.spice_share_wrapper{
+display: flex;
+    position: relative;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+  }
+.spice_share_wrapper .social-icon-box{
+  display: flex;
+  left: 0;}}
+ .spice_share_wrapper p.spice_share_title {
+    padding-bottom: 0.5rem;
+    padding-top: 0.5rem;
+    margin: 0;
+}

@@ -1,0 +1,1 @@
+import{j as e}from"./main-loud-buses-flash.js";globalThis.jotaiAtomCache=globalThis.jotaiAtomCache||{cache:new Map,get(a,t){return this.cache.has(a)?this.cache.get(a):(this.cache.set(a,t),t)}};function o({children:a}){return e("span",{className:"anticon",role:"img",children:a})}export{o as A};

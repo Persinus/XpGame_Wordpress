@@ -1,0 +1,22 @@
+#wpbody-content .newscrunch-theme-notice .theme-admin-button-group .admin-button-secondary {
+    border-color: #369ef6;
+    background: #369ef6;
+}
+#wpbody-content .newscrunch-theme-notice .theme-admin-button-group .admin-button-secondary:hover, 
+#wpbody-content .newscrunch-theme-notice .theme-admin-button-group .admin-button-secondary:focus {
+    border-color: #2a2136;
+    background: #2a2136;
+}
+#wpbody-content .newscrunch-update-notice .admin-notice-up-btn-wrap a {
+    border-color: #369ef6;
+    background: #369ef6;
+}
+
+#wpbody-content .newscrunch-update-notice .admin-notice-up-btn-wrap a:hover, 
+#wpbody-content .newscrunch-update-notice .admin-notice-up-btn-wrap a:focus {
+    border-color: #2a2136;
+    background: #2a2136;
+}
+#wpbody-content .newscrunch-theme-notice.updated, #wpbody-content .newscrunch-update-notice.notice-info {
+    border-left-color: #369ef6;
+}

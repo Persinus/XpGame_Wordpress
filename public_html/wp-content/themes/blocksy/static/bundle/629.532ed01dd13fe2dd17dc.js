@@ -1,0 +1,1 @@
+"use strict";(globalThis.blocksyJsonP=globalThis.blocksyJsonP||[]).push([[629],{3629:function(t,n,e){e.r(n),e.d(n,{mount:function(){return o}});const o=function(){if(!window.turnstile)return;const t=document.querySelectorAll(".ct-popup .cf-turnstile");t.length&&t.forEach((function(t){turnstile.remove(t),turnstile.render(t),turnstile.reset(t)}))}}}]);
